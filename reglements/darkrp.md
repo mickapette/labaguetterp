@@ -88,30 +88,23 @@ Il est interdit d'enlever les armes perms d'un joueur si celui-ci n'a pas utilis
 
 Lorsqu'un véhicule blindé est à l'arrêt ou à une vitesse faible ( moins de 10 km/h), vous êtes obligé de jouer votre fear RP.
 
-\
 
 
 **#1 Construction Rp**
 
-\- Les constructions "Role-Play" sont obligatoires ! Interdiction aux énormes constructions ou fluorescentes qui pique les yeux des autres joueurs sauf en cas d'un événement particulier annoncé à l'avance sur le Discord du serveur.\
-
+\- Les constructions "Role-Play" sont obligatoires ! Interdiction aux énormes constructions ou fluorescentes qui pique les yeux des autres joueurs sauf en cas d'un événement particulier annoncé à l'avance sur le Discord du serveur.
 
 **#2 Construction invisible**
 
 Les props invisibles sont interdits
 
-
-
 **#3 Constructions en tunnel**
 
-\- Il est interdit de faire des constructions avec juste un petit espace pour rentrer accroupie.\
-
+\- Il est interdit de faire des constructions avec juste un petit espace pour rentrer accroupie.
 
 **#4 Les fadings doors**
 
 \- Les fadings doors ne peuvent pas être de la même couleur une fois ouvertes. (Exemple Bleu ouvert, bleu fermé)
-
-
 
 **#5 Les keypads**
 
@@ -121,21 +114,13 @@ Les props invisibles sont interdits
 
 \- Il est interdit de mettre plus de 2 keypads pour un seul fading door !
 
-
-
 **#6 Les meurtrières**
 
 \- Les meurtrières sont interdites, c’est le fait de faire une construction avec juste un petit passage ou un petit écart de props ou de véhicules pour tirer. Pour que cela ne compte pas comme une meurtrière, il faut pouvoir passer accroupie et que l'on voit plus de la moitié de votre corps.
 
-\
-
-
 **#7 Les pièces entièrement noires :**
 
 Il est interdit de faire des boites/ des pièces totalement noires (ou une construction qui a comme objectif qu'on ne voit rien) !
-
-\
-
 
 **#8 Les constructions en labyrinthes**
 
