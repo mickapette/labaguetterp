@@ -4,5 +4,5 @@
 
 ## Règlements
 
-* [Règlement général](reglements/reglement-general.md)
+* [Règlement général](reglements/darkrp.md)
 * [Règlement Action RP](reglements/reglement-action-rp.md)
