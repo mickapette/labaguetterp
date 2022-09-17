@@ -175,41 +175,75 @@
 * Vous n’avez pas le droit de faire de braquage, prises d’otages etc …
 * Votre rôle est de produire et de vous enrichir
 
-## Illégaux
+## <mark style="color:red;">Illégaux</mark> :
+
+### \*<mark style="color:yellow;">Premium</mark>\* <mark style="color:blue;">Psychopathe</mark>
+
+* Vous avez la possibilité de porter des armes blanches ( seulement )
+* Vous n’avez pas le droit de faire de braquage, prises d’otages etc …
+* Vous devez neutraliser vos cibles dans des lieux discrets
+* Vous avez le droit de cacher votre profession ( /job citoyen … )
+
+### \*<mark style="color:yellow;">Premium</mark>\* <mark style="color:blue;">Terroriste</mark>
+
+* Vous avez la possibilité de porter seulement vos armes de spawn
+* Vous n’avez pas le droit de faire de braquage, prises d’otages etc …
+* Vous devez annoncer votre lieu d’attaque dans l'ano et 5 minutes avant l’attaque. (ex: /ano
+* Attentat parking-maire dans 5 minutes. Vous devez rappeler à chaque minute votre message + indiquer un message de l'attentat imminent)
+* Vous avez le droit de vous associez avec un autre terroriste
+* Si vous plantez une bombe dans un véhicule vous avez l’obligation de l’annoncer (ex: une voiture parking mairie est piégée (bombe))
+* Vous devez attendre 1h entre chaque attentat
+* Il faut au minimum 5 policiers pour faire un attentat
+* Vous ne pouvez en aucun cas faire d'alliance avec des mercenaires
+
+### \*<mark style="color:yellow;">Premium</mark>\* <mark style="color:blue;">Tueur à gage</mark>
+
+* Vous avez la possibilité de porter tout types d’armes
+* Vous n’avez pas le droit de faire de braquage, prises d’otages etc …
+* Vous devez neutraliser vos cibles depuis un lieu discret
+* Vous devez avoir une raison RP valable pour accepter un contrat
+
+### <mark style="color:blue;">Mercenaire</mark>
+
+* Vous avez la possibilité de porter tout types d’armes
+* Vous avez le droit de faire de braquage, prises d’otages etc …
+* Vous devez trouver un employeur
+* Vous n’avez pas le droit de braquer pour votre compte
+* Vous pouvez rompre des contrats dans le but d’aider des opposants
+
+### <mark style="color:blue;">Voleur</mark>
+
+* Vous avez la possibilité de porter des armes de poings et blanches (seulement)
+* Vous n’avez pas le droit de faire de braquage, prises d’otages etc …
+* Vous pouvez cambrioler que s’il y a 20 joueurs minimum et qu’il y ait 2 forces de l’ordres
+* Vous pouvez faire de l’illégal (printers,etc,....)
+* Vous pouvez racketter seulement 50 000€
+* Vous devez être discret
+
+### <mark style="color:blue;">Contrebandier</mark>
+
+* Un membre de chaque famille sera WL pour être contrebandier (aucun changement sera effectué, il faut choisir la bonne personne)
+* Le contrebandier peut vendre ses armements seulement aux familles et à personne d'autre ( il faut être dans votre job pour cela )
+* Concernant la vente, le contrebandier peut favoriser sa vente auprès de sa famille en faisant des ventes avec le prix original pour sa famille.
+* Il a le droit de faire une marge de 10000 par armes avec les autres familles
+* Le contrebandier ne peut pas travailler avec des familles ( Prise d'otages / braquage de banques / etc.)
+* Il a le droit de porter des armes de poing uniquement (pour la protection de son marché)
+* Celui-ci doit effectuaient des ventes en discrétion (compter comme métier Illégal)\
 
 
+## <mark style="color:red;">**Gang (Non Légal)**</mark>** :**
 
+### <mark style="color:blue;">Gangster</mark>
 
+* Vous avez la possibilité de porter tous types d’armes
+* Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Mafieux, MS13.
 
+### <mark style="color:blue;">Mafieux</mark>
 
+* Vous avez la possibilité de porter tout types d’armes
+* Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Gangster.
 
+### <mark style="color:blue;">Yakuza</mark>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* Vous avez la possibilité de porter tout types d’armes
+* Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des MS13
