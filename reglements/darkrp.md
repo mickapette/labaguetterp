@@ -1,12 +1,25 @@
 # Règlement général
 
-Le **Freekill** est interdit (le fait de tuer une personne sans raison rp valable)Le Freeshoot est interdit (le fait de tirer sur personne sans raison rp valable)\
-\
-Le **Teamkill** est interdit (le fait de tuer quelqu’un du même métier que soit)\
-\
+## 1 - Freekill
+
+Le **Freekill** est interdit (le fait de tuer une personne sans raison rp valable)Le Freeshoot est interdit (le fait de tirer sur personne sans raison rp valable)
+
+## 2 - Teamkill
+
+Le **Teamkill** est interdit (le fait de tuer quelqu’un du même métier que soit)
+
+## 3 - Freepunch
+
 Le **Freepunch** est interdit (le fait de frapper de taper une personne sans raison rp valable)
 
-Le **Freetaze** est interdit (le fait de tazer une personne sans faire trois sommations)\
+## 4 - Freetaze
+
+Le **Freetaze** est interdit (le fait de tazer une personne sans faire trois sommations)
+
+
+
+\
+\
 \
 Le **Spawnkill** est interdit (le fait de tuer des personnes au spawn ou venant d’y sortir)\
 \
