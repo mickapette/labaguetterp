@@ -1,2 +1,2 @@
-# 👮 Métiers
+# Métiers
 

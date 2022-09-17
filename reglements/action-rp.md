@@ -1,4 +1,4 @@
-# 👨🌾 Action RP
+# Règlement Actions RP
 
 ## **Prise d’otage :**
 
