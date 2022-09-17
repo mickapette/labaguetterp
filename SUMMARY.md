@@ -2,7 +2,7 @@
 
 ## 📜 Règlements
 
-* [Règlement général](README.md)
-* [Règlement Actions RP](reglements/reglement-actions-rp.md)
-* [Règlement métiers](reglements/reglement-metiers.md)
-* [Règlement famille](reglements/reglement-famille.md)
+* [Général](README.md)
+* [Action RP](reglements/action-rp.md)
+* [Métiers](reglements/metiers.md)
+* [Familles](reglements/familles.md)
