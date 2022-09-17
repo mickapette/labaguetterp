@@ -1,8 +1,8 @@
 # Table of contents
 
-## Règlements
+## 📜 Règlements
 
-* [Général](README.md)
-* [Action RP](reglements/action-rp.md)
-* [Métiers](reglements/metiers.md)
-* [Familles](reglements/familles.md)
+* [📄 Général](README.md)
+* [👨🌾 Action RP](reglements/action-rp.md)
+* [👮 Métiers](reglements/metiers.md)
+* [☠ Familles](reglements/familles.md)
