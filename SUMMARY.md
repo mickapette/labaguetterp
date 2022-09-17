@@ -5,4 +5,4 @@
 ## Règlements
 
 * [Règlement général](reglements/reglement-general.md)
-* [😉 Règlement Action RP](reglements/reglement-action-rp.md)
+* [Règlement Action RP](reglements/reglement-action-rp.md)

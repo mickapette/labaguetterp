@@ -1,2 +1,2 @@
-# 😉 Règlement Action RP
+# Règlement Action RP
 
