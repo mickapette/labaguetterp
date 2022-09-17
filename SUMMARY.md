@@ -4,4 +4,4 @@
 
 ## Règlements
 
-* [Darkrp](reglements/darkrp.md)
+* [Règlement général](reglements/reglement-general.md)
