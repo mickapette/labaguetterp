@@ -141,13 +141,11 @@ Il est interdit de faire des boites/ des pièces totalement noires (ou une const
 
 Il est interdit de faire des constructions en forme de labyrinthe.
 
-\
+### Application du bannissement en cas d'infractions
 
-
-**5 warns = Ban 3 jours**
-
-**10 warns = Ban 6 jours**
-
-**15 warns = Ban 2 semaines**
-
-**20 warns = Ban perm**
+| Infraction | Durée du banissement |
+| ---------- | -------------------- |
+| 5 warns    | 3 jours              |
+| 10 warns   | 6 jours              |
+| 15 warns   | 2 semaines           |
+| 20 warns   | Permanent            |
