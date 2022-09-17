@@ -1,10 +1,10 @@
 # Table of contents
 
-* [Intro](README.md)
+* [📄 Général](README.md)
 
 ## Règlements
 
-* [📄 Général](<README (1).md>)
+* [Intro](reglements/intro.md)
 * [👨🌾 Action RP](reglements/action-rp.md)
 * [👮 Métiers](reglements/metiers.md)
 * [☠ Familles](reglements/familles.md)
