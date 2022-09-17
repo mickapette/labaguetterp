@@ -1,31 +1,21 @@
 # Règlement général
 
-## 1 - Freekill
+<mark style="color:blue;">**01**</mark> - Le **Freekill** est interdit (le fait de tuer une personne sans raison rp valable)Le Freeshoot est interdit (le fait de tirer sur personne sans raison rp valable)
 
-Le **Freekill** est interdit (le fait de tuer une personne sans raison rp valable)Le Freeshoot est interdit (le fait de tirer sur personne sans raison rp valable)
+<mark style="color:blue;">**02**</mark> - Le **Teamkill** est interdit (le fait de tuer quelqu’un du même métier que soit)
 
-## 2 - Teamkill
+<mark style="color:blue;">**03**</mark> - Le **Freepunch** est interdit (le fait de frapper de taper une personne sans raison rp valable)
 
-Le **Teamkill** est interdit (le fait de tuer quelqu’un du même métier que soit)
+<mark style="color:blue;">**04**</mark> - Le **Freetaze** est interdit (le fait de tazer une personne sans faire trois sommations)
 
-## 3 - Freepunch
+<mark style="color:blue;">**05**</mark> - Le **Spawnkill** est interdit (le fait de tuer des personnes au spawn ou venant d’y sortir)
 
-Le **Freepunch** est interdit (le fait de frapper de taper une personne sans raison rp valable)
+<mark style="color:blue;">**06**</mark> - Le **Propskill** est interdit (le fait de tuer quelqu’un avec un props)
 
-## 4 - Freetaze
-
-Le **Freetaze** est interdit (le fait de tazer une personne sans faire trois sommations)
-
-
-
+<mark style="color:blue;">**07**</mark> - Le **Propsclimb** est le fait d’utiliser des props pour grimper à un endroit inatteignable de base par vos propres moyens ( monter sur le toît de la banque par exemple )\
 \
 \
 \
-Le **Spawnkill** est interdit (le fait de tuer des personnes au spawn ou venant d’y sortir)\
-\
-Le **Propskill** est interdit (le fait de tuer quelqu’un avec un props)\
-\
-Le **Propsclimb** est le fait d’utiliser des props pour grimper à un endroit inatteignable de base par vos propres moyens ( monter sur le toît de la banque par exemple )\
 \
 Le **Powergaming** est interdit (le fait de réaliser des actions impossibles dans la vie courante ex: Sauté tout en tirant pour esquiver les balles)\
 \
