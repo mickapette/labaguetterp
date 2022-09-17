@@ -1,6 +1,6 @@
 # Table of contents
 
-## 📜 Règlements
+## Règlements
 
 * [Général](README.md)
 * [Action RP](reglements/action-rp.md)

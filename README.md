@@ -12,40 +12,52 @@
 
 <mark style="color:blue;">**06**</mark> - Le **Propskill** est interdit (le fait de tuer quelqu’un avec un props)
 
-<mark style="color:blue;">**07**</mark> - Le **Propsclimb** est le fait d’utiliser des props pour grimper à un endroit inatteignable de base par vos propres moyens ( monter sur le toît de la banque par exemple )\
-\
-\
-\
-\
-Le **Powergaming** est interdit (le fait de réaliser des actions impossibles dans la vie courante ex: Sauté tout en tirant pour esquiver les balles)\
-\
-Le **MassRP** est le fait de prendre en compte la population, donc ne pas sortir d’armes devant tout le monde en ville ect. (Le MassRP s'applique partout en ville, celle-ci est indiquée par des panneaux "Vous entrez en ville", bien sûr une action comme par exemple le braquage de banque est toujours possible.) Une personne est en dehors de la zone de MassRP n'a pas le droit d'intéragir avec une scène qui se passe dans la zone de MassRP\
-\
-Le Travers est interdit, il est cependant autorisé de tirer à travers les surfaces transparentes. Il est interdit de tirer à travers les vitres de la Banque et de l'ascenseur.\
-\
-Le NLR ( New Life Rule ) est le fait de revenir sur une même position/action alors que vous êtes mort durant celle-ci. Ainsi que de vous souvenir de tout ce qu’il s’est passé avant votre mort.\
-\
-Le Freedemote est le fait de démote ( retirer le grade d’une personne ) sans raison rp valable\
-\
-Le Revenge Kill est le fait de tuer une personne qui vous a tué avant.\
-\
-Le fait de Trashtalk/insulter quelqu'un après l'avoir tué est interdit\
-\
-Le No Fear RP est interdit (le fait de ne pas avoir peur d’une arme quelconque )\
-Le No Pain RP est interdit (le fait de ne pas ressentir la douleur malgré une chute, après avoir reçu des balles etc … ). Si vous êtes en incapacité physique de combattre (-15hp) vous ne pouvez donc pas engager un combat\
-Le Metagaming est interdit (le fait de connaître des informations HRP sans les connaître dans un contexte RP, exemple : lire le nom d’une personne au-dessus de sa tête)
+<mark style="color:blue;">**07**</mark> - Le **Propsclimb** est le fait d’utiliser des props pour grimper à un endroit inatteignable de base par vos propres moyens ( monter sur le toît de la banque par exemple )
 
-Le soundboard est interdit ( le fait d'utiliser des sons externes au serveur,exemple : des musiques non incluses dans la boombox ou bien la radio dans les véhicules)
+<mark style="color:blue;">**08**</mark> - Le **Powergaming** est interdit (le fait de réaliser des actions impossibles dans la vie courante ex: Sauté tout en tirant pour esquiver les balles)
+
+<mark style="color:blue;">**09**</mark> - Le **MassRP** est le fait de prendre en compte la population, donc ne pas sortir d’armes devant tout le monde en ville ect. (Le MassRP s'applique partout en ville, celle-ci est indiquée par des panneaux "Vous entrez en ville", bien sûr une action comme par exemple le braquage de banque est toujours possible.) Une personne est en dehors de la zone de MassRP n'a pas le droit d'intéragir avec une scène qui se passe dans la zone de MassRP
+
+<mark style="color:blue;">**10**</mark> - Le Travers est interdit, il est cependant autorisé de tirer à travers les surfaces transparentes. Il est interdit de tirer à travers les vitres de la Banque et de l'ascenseur.
+
+<mark style="color:blue;">**11**</mark> - Le NLR ( New Life Rule ) est le fait de revenir sur une même position/action alors que vous êtes mort durant celle-ci. Ainsi que de vous souvenir de tout ce qu’il s’est passé avant votre mort.
+
+<mark style="color:blue;">**12**</mark> - Le Freedemote est le fait de démote ( retirer le grade d’une personne ) sans raison rp valable
+
+<mark style="color:blue;">**13**</mark> - Le Revenge Kill est le fait de tuer une personne qui vous a tué avant.
+
+<mark style="color:blue;">**14**</mark> - Le fait de Trashtalk/insulter quelqu'un après l'avoir tué est interdit
+
+<mark style="color:blue;">**15**</mark> - Le No Fear RP est interdit (le fait de ne pas avoir peur d’une arme quelconque )
+
+<mark style="color:blue;">**16**</mark> - Le No Pain RP est interdit (le fait de ne pas ressentir la douleur malgré une chute, après avoir reçu des balles etc … ). Si vous êtes en incapacité physique de combattre (-15hp) vous ne pouvez donc pas engager un combat.
+
+<mark style="color:blue;">**17**</mark> - Le Metagaming est interdit (le fait de connaître des informations HRP sans les connaître dans un contexte RP, exemple : lire le nom d’une personne au-dessus de sa tête)
+
+<mark style="color:blue;">**18**</mark> - Le soundboard est interdit ( le fait d'utiliser des sons externes au serveur,exemple : des musiques non incluses dans la boombox ou bien la radio dans les véhicules)
+
+<mark style="color:blue;">**19**</mark> - Le HRP vocal (Hors RP) est interdit (le fait de parler d’information qui ne concerne en rien dans le Rp, exemple : je vais faire un ticket contre toi, tu vas être ban …)
+
+<mark style="color:blue;">**20**</mark> - Le WIN RP est interdit ( le fait de se donner des avantages dans une action Rp, exemple : tirer depuis un buisson, etc ... )
+
+<mark style="color:blue;">**21**</mark> - Le ForceRP est interdit (le fait de provoquer et forcer une action à se faire, exemple : insulter la police pour faire une course-poursuite puis une fusillade)
 
 \
-Le HRP vocal (Hors RP) est interdit (le fait de parler d’information qui ne concerne en rien dans le Rp, exemple : je vais faire un ticket contre toi, tu vas être ban …)
+\
+\
+\
+\
+\
+\
+
+
+
 
 \
-Le WIN RP est interdit ( le fait de se donner des avantages dans une action Rp, exemple : tirer depuis un buisson, etc ... )
+
 
 \
-Le ForceRP est interdit (le fait de provoquer et forcer une action à se faire, exemple : insulter la police pour faire une course-poursuite puis une fusillade)
-
+\
 \
 Il est interdit de faire de l’illégal sur un endroit accessible seulement avec un grappin ou via une construction Il est interdit de faire une construction plus haute que la taille de la maison et/ou de faire un toit.
 
