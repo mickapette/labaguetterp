@@ -1,5 +1,7 @@
 # 📄 Général
 
+## :blue\_book: _<mark style="color:green;">**Les Bases**</mark>_ :blue\_book:_<mark style="color:green;">****</mark>_
+
 <mark style="color:blue;">**01**</mark> - Le **Freekill** est interdit (le fait de tuer une personne sans raison rp valable)Le Freeshoot est interdit (le fait de tirer sur personne sans raison rp valable)
 
 <mark style="color:blue;">**02**</mark> - Le **Teamkill** est interdit (le fait de tuer quelqu’un du même métier que soit)
@@ -42,23 +44,14 @@
 
 <mark style="color:blue;">**21**</mark> - Le ForceRP est interdit (le fait de provoquer et forcer une action à se faire, exemple : insulter la police pour faire une course-poursuite puis une fusillade)
 
-\
-\
-\
-\
-\
-\
-\
-
-
 
 
 \
+:french\_bread: <mark style="color:green;">Règles Inclus sur le serveur</mark> :french\_bread:
+----------------------------------------------------------------------------------------------
 
 
-\
-\
-\
+
 Il est interdit de faire de l’illégal sur un endroit accessible seulement avec un grappin ou via une construction Il est interdit de faire une construction plus haute que la taille de la maison et/ou de faire un toit.
 
 Il est interdit de tirer à vue exemple : "Toutes personnes venant zone indu seront abattues sans sommations". Les boosts de vie ainsi que les grappins ne sont pas comptabilisés comme des armes.
