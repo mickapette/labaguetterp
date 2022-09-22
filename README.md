@@ -98,23 +98,23 @@ Lorsqu'un véhicule blindé est à l'arrêt ou à une vitesse faible ( moins de 
 
 
 
-**#1 Construction Rp**
+### <mark style="color:blue;">**#1 Construction RP**</mark>** :**
 
 \- Les constructions "Role-Play" sont obligatoires ! Interdiction aux énormes constructions ou fluorescentes qui pique les yeux des autres joueurs sauf en cas d'un événement particulier annoncé à l'avance sur le Discord du serveur.
 
-**#2 Construction invisible**
+### <mark style="color:blue;">**#2 Construction invisible**</mark>** :**
 
 Les props invisibles sont interdits
 
-**#3 Constructions en tunnel**
+### <mark style="color:blue;">**#3 Constructions en tunnel**</mark>** :**
 
 \- Il est interdit de faire des constructions avec juste un petit espace pour rentrer accroupie.
 
-**#4 Les fadings doors**
+### <mark style="color:blue;">**#4 Les fadings doors**</mark>** :**
 
 \- Les fadings doors ne peuvent pas être de la même couleur une fois ouvertes. (Exemple Bleu ouvert, bleu fermé)
 
-**#5 Les keypads**
+### <mark style="color:blue;">**#5 Les keypads**</mark>** :**
 
 \- Le Keypad doit être proche de le fading door qu’il ouvre.(5 à 10M)
 
@@ -122,15 +122,15 @@ Les props invisibles sont interdits
 
 \- Il est interdit de mettre plus de 2 keypads pour un seul fading door !
 
-**#6 Les meurtrières**
+### <mark style="color:blue;">**#6 Les meurtrières**</mark>** :**
 
 \- Les meurtrières sont interdites, c’est le fait de faire une construction avec juste un petit passage ou un petit écart de props ou de véhicules pour tirer. Pour que cela ne compte pas comme une meurtrière, il faut pouvoir passer accroupie et que l'on voit plus de la moitié de votre corps.
 
-**#7 Les pièces entièrement noires :**
+### <mark style="color:blue;">**#7 Les pièces entièrement noires**</mark>** :**
 
 Il est interdit de faire des boites/ des pièces totalement noires (ou une construction qui a comme objectif qu'on ne voit rien) !
 
-**#8 Les constructions en labyrinthes**
+### <mark style="color:blue;">**#8 Les constructions en labyrinthes**</mark>** :**
 
 Il est interdit de faire des constructions en forme de labyrinthe.
 
