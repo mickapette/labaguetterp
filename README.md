@@ -20,23 +20,23 @@
 
 <mark style="color:blue;">09</mark> - Le **Propsblock** : C'est le fait d'utiliser des props pour <mark style="color:green;">**bloquer un accès existant**</mark> ou bien <mark style="color:green;">**une zone**</mark> <mark style="color:red;">**sans mettre de keypad ou un bouton.**</mark>
 
-<mark style="color:blue;">**10**</mark> - Le **Powergaming** : C'est le fait de faire une action qui n'est pas réalisable en temps normale (_ex : S'asseoir pour éviter les balles, sauter d'une falaise en voiture_)
+<mark style="color:blue;">**10**</mark> - Le **Powergaming** : C'est le fait de faire <mark style="color:green;">**une action qui n'est pas réalisable**</mark> en temps normale (_ex : S'asseoir pour éviter les balles, sauter d'une falaise en voiture_)
 
-<mark style="color:blue;">**11**</mark> - Le **MassRP** est le fait de prendre en compte la population, donc ne pas sortir d’armes devant tout le monde en ville ect. (Le MassRP s'applique partout en ville, celle-ci est indiquée par des panneaux "Vous entrez en ville", bien sûr une action comme par exemple le braquage de banque est toujours possible.) Une personne est en dehors de la zone de MassRP n'a pas le droit d'intéragir avec une scène qui se passe dans la zone de MassRP
+<mark style="color:blue;">**11**</mark> - Le **MassRP** : C'est le fait de <mark style="color:green;">**simuler la présence d'habitants et de civil partout en ville**</mark>, celle-ci n'est pas remplie seulement de joueurs mais bien de milliers de citoyens. (Le MassRP s'applique partout en ville, celle-ci est indiquée par des panneaux "Vous entrez en ville", bien sûr une action comme par exemple le braquage de banque est toujours possible.) Une personne est en dehors de la zone de MassRP n'a pas le droit d'interagir avec une scène qui se passe dans la zone de MassRP
 
-<mark style="color:blue;">**12**</mark> - Le Travers est interdit, il est cependant autorisé de tirer à travers les surfaces transparentes. Il est interdit de tirer à travers les vitres de la Banque et de l'ascenseur.
+<mark style="color:blue;">**12**</mark> - Le **Travers** : C'est le fait de tirer à travers une surface opaque telle que des murs ou bien des propos. (il est cependant autorisé de tirer à travers les surfaces transparentes) (<mark style="color:red;">**Il est interdit de tirer à travers les vitres de la Banque et de l'ascenseur**</mark>)
 
-<mark style="color:blue;">**13**</mark> - Le NLR ( New Life Rule ) est le fait de revenir sur une même position/action alors que vous êtes mort durant celle-ci. Ainsi que de vous souvenir de tout ce qu’il s’est passé avant votre mort.
+<mark style="color:blue;">**13**</mark> - Le **NLR ( New Life Rule )** : C'est le fait de revenir sur une même position/action alors que vous êtes mort durant celle-ci. Ainsi que de vous souvenir de tout ce qu’il s’est passé avant votre mort.
 
-<mark style="color:blue;">**14**</mark> - Le Freedemote est le fait de démote (retirer le grade d’une personne) sans raison rp valable
+<mark style="color:blue;">**14**</mark> - Le **Freedemote** : C'est le fait de démote (retirer le grade d’une personne) sans raison rp <mark style="color:green;">**valable**</mark>.
 
-<mark style="color:blue;">**15**</mark> - Le Revenge Kill est le fait de tuer une personne qui vous a tué avant.
+<mark style="color:blue;">**15**</mark> - Le **Revenge Kill** : C'est le fait de tuer une personne qui vous a tué auparavant.
 
-<mark style="color:blue;">**16**</mark> - Le fait de Trashtalk/insulter quelqu'un après l'avoir tué est interdit
+<mark style="color:blue;">**16**</mark> - Le **Trashtalk** : C'est le fait d'<mark style="color:green;">**insulter ou de provoquer**</mark> quelqu'un après l'avoir tué.
 
-<mark style="color:blue;">**17**</mark> - Le No Fear RP est interdit (le fait de ne pas avoir peur d’une arme quelconque )
+<mark style="color:blue;">**17**</mark> - Le **Fear RP** : C'est le fait de <mark style="color:green;">**simuler la peur**</mark> (_ex : Vous ne pouvez pas sortir d'arme quand vous êtes braqué_)
 
-<mark style="color:blue;">**18**</mark> - Le No Pain RP est interdit (le fait de ne pas ressentir la douleur malgré une chute, après avoir reçu des balles etc … ). Si vous êtes en incapacité physique de combattre (-15hp) vous ne pouvez donc pas engager un combat.
+<mark style="color:blue;">**18**</mark> - Le **Pain RP** : C est interdit (le fait de ne pas ressentir la douleur malgré une chute, après avoir reçu des balles etc … ). Si vous êtes en incapacité physique de combattre (-15hp) vous ne pouvez donc pas engager un combat.
 
 <mark style="color:blue;">**19**</mark> - Le Metagaming est interdit (le fait de connaître des informations HRP sans les connaître dans un contexte RP, exemple : lire le nom d’une personne au-dessus de sa tête)
 
