@@ -36,9 +36,9 @@
 
 <mark style="color:blue;">**17**</mark> - Le **Fear RP** : C'est le fait de <mark style="color:green;">**simuler la peur**</mark> (_ex : Vous ne pouvez pas sortir d'arme quand vous êtes braqué_)
 
-<mark style="color:blue;">**18**</mark> - Le **Pain RP** : C est interdit (le fait de ne pas ressentir la douleur malgré une chute, après avoir reçu des balles etc … ). Si vous êtes en incapacité physique de combattre (-15hp) vous ne pouvez donc pas engager un combat.
+<mark style="color:blue;">**18**</mark> - Le **Pain RP** : C'est le fait de <mark style="color:green;">**ressentir la douleur**</mark> infligé par une chute, après avoir reçu des balles, etc. Si vous êtes en incapacité physique de combattre (-15hp) vous ne pouvez donc pas engager un combat.
 
-<mark style="color:blue;">**19**</mark> - Le Metagaming est interdit (le fait de connaître des informations HRP sans les connaître dans un contexte RP, exemple : lire le nom d’une personne au-dessus de sa tête)
+<mark style="color:blue;">**19**</mark> - Le **Metagaming** : est interdit (le fait de connaître des informations HRP sans les connaître dans un contexte RP, exemple : lire le nom d’une personne au-dessus de sa tête)
 
 <mark style="color:blue;">**20**</mark> - Le soundboard est interdit ( le fait d'utiliser des sons externes au serveur,exemple : des musiques non incluses dans la boombox ou bien la radio dans les véhicules)
 
