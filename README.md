@@ -16,9 +16,9 @@
 
 <mark style="color:blue;">**07**</mark> - Le **Propskill** : Tuer une personne avec un props est <mark style="color:red;">**interdit**</mark>.
 
-<mark style="color:blue;">**08**</mark> - Le **Propsclimb** : C'est le fait d'utiliser des <mark style="color:green;">**props pour monter à des endroits inaccessibles**</mark> normalement.
+<mark style="color:blue;">**08**</mark> - Le **Propsclimb** : C'est le fait d'utiliser des <mark style="color:red;">**props pour monter à des endroits inaccessibles**</mark> normalement.
 
-<mark style="color:blue;">09</mark> - Le **Propsblock** : C'est le fait d'utiliser des props pour <mark style="color:green;">**bloquer un accès existant**</mark> ou bien <mark style="color:green;">**une zone**</mark> <mark style="color:red;">**sans mettre de keypad ou un bouton.**</mark>
+<mark style="color:blue;">09</mark> - Le **Propsblock** : C'est le fait d'utiliser des props pour <mark style="color:red;">**bloquer un accès existant**</mark> ou bien <mark style="color:red;">**une zone**</mark> <mark style="color:red;">**sans mettre de keypad ou un bouton.**</mark>
 
 <mark style="color:blue;">**10**</mark> - Le **Powergaming** : C'est le fait de faire <mark style="color:green;">**une action qui n'est pas réalisable**</mark> en temps normale (_ex : S'asseoir pour éviter les balles, sauter d'une falaise en voiture_)
 
