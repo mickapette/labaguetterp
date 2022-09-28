@@ -42,7 +42,7 @@
 
 <mark style="color:purple;">**20**</mark>** **<mark style="color:blue;">****</mark> - Le soundboard : C'est le fait d'<mark style="color:blue;">**utiliser des sons externes au serveur**</mark> (_ex : des musiques non incluses dans la boombox ou bien la radio dans les véhicules_)
 
-<mark style="color:purple;">**21**</mark>** **<mark style="color:blue;">****</mark> - Le HRP vocal (Hors RP) : C'est le fait de <mark style="color:blue;">**parler d’information qui ne concerne en rien dans le Rp**</mark> (ex : je vais faire un ticket contre toi, tu vas être ban …)
+<mark style="color:purple;">**21**</mark>** **<mark style="color:blue;">****</mark> - Le HRP vocal (Hors RP) : C'est le fait de <mark style="color:blue;">**parler d’information qui ne concerne en rien dans le Rp**</mark> (_ex : je vais faire un ticket contre toi, tu vas être ban …_)
 
 <mark style="color:purple;">**22**</mark>** **<mark style="color:blue;">****</mark> - Le WIN RP : C'est le fait de se <mark style="color:blue;">**donner des avantages dans une action Rp**</mark> (_ex : tirer depuis un buisson, etc ..._ )
 
