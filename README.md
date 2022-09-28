@@ -38,17 +38,17 @@
 
 <mark style="color:purple;">**18**</mark>** **<mark style="color:blue;">****</mark> - Le **Pain RP** : C'est le fait de <mark style="color:blue;">**ressentir la douleur**</mark> infligé par une chute, après avoir reçu des balles, etc. Si vous êtes en incapacité physique de combattre (-15hp) vous ne pouvez donc pas engager un combat.
 
-<mark style="color:purple;">**19**</mark>** **<mark style="color:blue;">****</mark> - Le **Metagaming** : est interdit (le fait de connaître des informations HRP sans les connaître dans un contexte RP, exemple : lire le nom d’une personne au-dessus de sa tête)
+<mark style="color:purple;">**19**</mark>** **<mark style="color:blue;">****</mark> - Le **Metagaming** : C'est le fait de connaître des informations HRP sans les connaître dans un contexte RP (_ex : lire le nom d’une personne au-dessus de sa tête_)
 
-<mark style="color:purple;">**20**</mark>** **<mark style="color:blue;">****</mark> - Le soundboard est interdit ( le fait d'utiliser des sons externes au serveur,exemple : des musiques non incluses dans la boombox ou bien la radio dans les véhicules)
+<mark style="color:purple;">**20**</mark>** **<mark style="color:blue;">****</mark> - Le soundboard : C'est le fait d'<mark style="color:blue;">**utiliser des sons externes au serveur**</mark> (_ex : des musiques non incluses dans la boombox ou bien la radio dans les véhicules_)
 
-<mark style="color:purple;">**21**</mark>** **<mark style="color:blue;">****</mark> - Le HRP vocal (Hors RP) est interdit (le fait de parler d’information qui ne concerne en rien dans le Rp, exemple : je vais faire un ticket contre toi, tu vas être ban …)
+<mark style="color:purple;">**21**</mark>** **<mark style="color:blue;">****</mark> - Le HRP vocal (Hors RP) : C'est le fait de <mark style="color:blue;">**parler d’information qui ne concerne en rien dans le Rp**</mark> (ex : je vais faire un ticket contre toi, tu vas être ban …)
 
-<mark style="color:purple;">**22**</mark>** **<mark style="color:blue;">****</mark> - Le WIN RP est interdit ( le fait de se donner des avantages dans une action Rp, exemple : tirer depuis un buisson, etc ... )
+<mark style="color:purple;">**22**</mark>** **<mark style="color:blue;">****</mark> - Le WIN RP : C'est le fait de se <mark style="color:blue;">**donner des avantages dans une action Rp**</mark> (_ex : tirer depuis un buisson, etc ..._ )
 
-<mark style="color:purple;">**23**</mark>** **<mark style="color:blue;">****</mark> - Le ForceRP est interdit (le fait de provoquer et forcer une action à se faire, exemple : insulter la police pour faire une course-poursuite puis une fusillade)
+<mark style="color:purple;">**23**</mark>** **<mark style="color:blue;">****</mark> - Le ForceRP : C'est le fait de <mark style="color:blue;">**provoquer et forcer une action à se faire**</mark>  (_ex : insulter la police pour faire une course-poursuite puis une fusillade_)
 
-<mark style="color:purple;">**24**</mark>** ** - Le **Spawnkill** est interdit (le fait de tuer des personnes au spawn ou venant d’y sortir)
+<mark style="color:purple;">**24**</mark>** ** - Le **Spawnkill** : C'est le fait de <mark style="color:blue;">**tuer des personnes au spawn ou venant d’y sortir**</mark>
 
 
 
