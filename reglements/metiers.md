@@ -63,7 +63,7 @@
 * Vous ne pouvez pas être braquer.
 * Vous devez nourrir toute la ville.
 
-### <mark style="color:blue;"></mark>:hospital:<mark style="color:blue;">Samu</mark>
+### <mark style="color:blue;"></mark>:hospital:<mark style="color:purple;">Samu</mark>
 
 * Vous n’avez pas la possibilité de porter des armes
 * Votre but est de soigner et sauver les personnes dans le besoin
@@ -73,7 +73,7 @@
 * Si vos patients ne peuvent pas payer vous ne pouvez pas les braquer.
 * Vous avez obligation de ramener les patients à l'hôpital après réanimation
 
-### <mark style="color:blue;">Vendeur d'armes</mark>
+### <mark style="color:blue;"></mark>:gun:<mark style="color:purple;">Vendeur d'armes</mark>
 
 * Vous avez la possibilité de porter des armes de poings et blanches ( seulement )
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
@@ -81,7 +81,7 @@
 * Le bénéfice max est de 10 000€
 * S’il y a un autre vendeur d’armes vous ne pouvez pas acheter les armes pour vous-même
 
-### <mark style="color:blue;">Chauffeur de bus</mark>
+### <mark style="color:blue;"></mark>:bus:<mark style="color:purple;">Chauffeur de bus</mark>
 
 * Vous avez la possibilité de porter des armes blanches ( seulement )
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
@@ -90,7 +90,7 @@
 
 ## <mark style="color:red;">Gouvernement</mark> :
 
-### <mark style="color:blue;">Garde du Maire</mark>
+### <mark style="color:blue;"></mark>:house\_with\_garden:<mark style="color:blue;">Garde du Maire</mark>
 
 * Vous avez la possibilité de porter des armes lourdes ( sauf sniper )
 * Vous n’avez pas le droit de faire de l’illégale ( printers sauf dictature )
