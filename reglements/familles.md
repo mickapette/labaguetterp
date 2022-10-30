@@ -47,15 +47,3 @@
 4.  _Remarques : Les CK doivent être absolument être validé par un Gérant DarkWeb._
 
     _En cas de manquement au règlement, les Gérants du DarkWeb ou les staffs vous sanctionneront à la hauteur de l'infraction (attention cela peut aller jusqu'à la suppression du gang)._
-
-## _<mark style="color:blue;">Les Sheriffs</mark> :_
-
-1. _Une notion de Fear est à avoir avec les Sheriffs, ils sont une escouade anti-gang lourdement armée. Il faut donc au minimum 2 personnes pour braquer un sheriff._
-2. _Leur rôle principal est de supprimer l’ensemble des organisations ayant pour but de contrôler la ville ou bien d’effectuer du trafic (arme, alcool, stupéfiant)_
-3. _C'est une unité de police qui terrorise les organisations et les fait fuir très rapidement. Ils sont très appréhendés par les organisations (Fear Rp)._
-
-## _<mark style="color:blue;">Attaque contre les Sheriffs</mark> :_
-
-1. _Les familles peuvent attaquer le QG du Sheriff uniquement si les Sheriffs sont en train d'interroger un membre de leur organisation._
-2. _Les Sheriffs doivent être minimum 3, et la familles minimum 6 connecté._
-3. _Vous avez le droit de réaliser que 1 seul assaut._
