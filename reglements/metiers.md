@@ -121,7 +121,7 @@
 
 ## <mark style="color:red;">Force de l'ordre</mark> :
 
-### <mark style="color:blue;">\*Premium\* FBI</mark>
+### <mark style="color:blue;">\*Premium\* BAC</mark>
 
 * Vous avez la possibilité de porter des armes lourdes ( sauf sniper / ( freedom autorisé) )
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
