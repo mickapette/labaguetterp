@@ -38,17 +38,17 @@
 
 <mark style="color:purple;">**18**</mark>** **<mark style="color:blue;">****</mark> - Le **Pain RP** : C'est le fait de <mark style="color:blue;">**ressentir la douleur**</mark> infligé par une chute, après avoir reçu des balles, etc. Si vous êtes en incapacité physique de combattre (-15hp) vous ne pouvez donc pas engager un combat.
 
-<mark style="color:purple;">**19**</mark>** **<mark style="color:blue;">****</mark> - Le **Metagaming** : est interdit (le fait de connaître des informations HRP sans les connaître dans un contexte RP, exemple : lire le nom d’une personne au-dessus de sa tête)
+<mark style="color:purple;">**19**</mark>** **<mark style="color:blue;">****</mark> - Le **Metagaming** : C'est le fait de connaître des informations HRP sans les connaître dans un contexte RP (_ex : lire le nom d’une personne au-dessus de sa tête_)
 
-<mark style="color:purple;">**20**</mark>** **<mark style="color:blue;">****</mark> - Le soundboard est interdit ( le fait d'utiliser des sons externes au serveur,exemple : des musiques non incluses dans la boombox ou bien la radio dans les véhicules)
+<mark style="color:purple;">**20**</mark>** **<mark style="color:blue;">****</mark> - Le soundboard : C'est le fait d'<mark style="color:blue;">**utiliser des sons externes au serveur**</mark> (_ex : des musiques non incluses dans la boombox ou bien la radio dans les véhicules_)
 
-<mark style="color:purple;">**21**</mark>** **<mark style="color:blue;">****</mark> - Le HRP vocal (Hors RP) est interdit (le fait de parler d’information qui ne concerne en rien dans le Rp, exemple : je vais faire un ticket contre toi, tu vas être ban …)
+<mark style="color:purple;">**21**</mark>** **<mark style="color:blue;">****</mark> - Le HRP vocal (Hors RP) : C'est le fait de <mark style="color:blue;">**parler d’information qui ne concerne en rien dans le Rp**</mark> (_ex : je vais faire un ticket contre toi, tu vas être ban …_)
 
-<mark style="color:purple;">**22**</mark>** **<mark style="color:blue;">****</mark> - Le WIN RP est interdit ( le fait de se donner des avantages dans une action Rp, exemple : tirer depuis un buisson, etc ... )
+<mark style="color:purple;">**22**</mark>** **<mark style="color:blue;">****</mark> - Le WIN RP : C'est le fait de se <mark style="color:blue;">**donner des avantages dans une action Rp**</mark> (_ex : tirer depuis un buisson, etc ..._ )
 
-<mark style="color:purple;">**23**</mark>** **<mark style="color:blue;">****</mark> - Le ForceRP est interdit (le fait de provoquer et forcer une action à se faire, exemple : insulter la police pour faire une course-poursuite puis une fusillade)
+<mark style="color:purple;">**23**</mark>** **<mark style="color:blue;">****</mark> - Le ForceRP : C'est le fait de <mark style="color:blue;">**provoquer et forcer une action à se faire**</mark>  (_ex : insulter la police pour faire une course-poursuite puis une fusillade_)
 
-<mark style="color:purple;">**24**</mark>** ** - Le **Spawnkill** est interdit (le fait de tuer des personnes au spawn ou venant d’y sortir)
+<mark style="color:purple;">**24**</mark>** ** - Le **Spawnkill** : C'est le fait de <mark style="color:blue;">**tuer des personnes au spawn ou venant d’y sortir**</mark>
 
 
 
@@ -62,7 +62,7 @@ Il est interdit de faire de l’illégal sur un endroit accessible seulement ave
 
 Il est interdit de tirer à vue exemple : "Toutes personnes venant zone indu seront abattues sans sommations". Les boosts de vie ainsi que les grappins ne sont pas comptabilisés comme des armes.
 
-Lors d'un délit de fuite, la police doit jouer la course poursuite, faire des barrages, etc... pendant 5 minutes et seulement après ce laps de temps la police à le droit de faire feu. (Cependant si les fuyards ouvrent le feu la police à le droit d'ouvrir également le feu.) **Exception : Certains Defcon peuvent contrer cette règle (plus d'informations sur le discord police :** [**https://discord.gg/rvRek7mN**](https://www.google.com/url?q=https%3A%2F%2Fdiscord.gg%2FrvRek7mN\&sa=D\&sntz=1\&usg=AOvVaw3fgIPANkMvqYlzidYM0MMn)**)**
+Lors d'un délit de fuite, la police doit jouer la course poursuite, faire des barrages, etc... pendant 5 minutes et seulement après ce laps de temps la police à le droit de faire feu. (Cependant si les fuyards ouvrent le feu la police à le droit d'ouvrir également le feu.)
 
 Lorsqu’un joueur lève les mains en l’air ça veut dire qu’il se rend donc vous devez l’arrêter ou le prendre en otage mais vous ne pouvez plus le tuer !
 
