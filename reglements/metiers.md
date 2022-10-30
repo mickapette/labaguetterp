@@ -131,13 +131,29 @@
 
 ### <mark style="color:blue;">Police</mark>
 
-* Vous avez la possibilité de porter des armes lourdes ( sauf sniper pour lieutenant I minimum / ( freedom autorisé) )
+* Vous avez la possibilité de porter des armes lourdes ( sauf sniper pour lieutenant minimum / ( freedom autorisé) )
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
 * Vous ne pouvez pas être corrompu
 * Vous devez respecter vos supérieurs
 * Vous devez protéger les citoyens
 
-### <mark style="color:blue;">SWAT</mark>
+### <mark style="color:blue;">\*WL\* IGPN</mark>
+
+* Vous avez la possibilité de porter des armes lourdes
+* Vous n’avez pas le droit de faire de l’illégale ( printers )
+* Vous ne pouvez pas être corrompu
+* Vous vérifier le bon fonctionnement de la police
+* Vous devez protéger les citoyens
+
+### <mark style="color:blue;">Police Corrompu</mark>&#x20;
+
+* Vous avez la possibilité de porter des armes lourdes ( sauf sniper pour lieutenant minimum / ( freedom autorisé) )
+* Vous n’avez pas le droit de faire de l’illégale ( printers )
+* Vous avez le droit de vous /job en Policier seulement (pas de Police Haut-Gradé, etc)
+* Vous n'avez pas le droit d'abuser de votre job (freetaze, freekill vos collèges)
+* Vous avez le droit de faire payer des détenus pour les libérer
+
+### <mark style="color:blue;">RAID</mark>
 
 * Vous avez la possibilité de porter des armes lourdes et sniper
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
@@ -145,12 +161,14 @@
 * Vous devez respecter vos supérieurs
 * Vous devez protéger les citoyens et encadrer les opérations ( Prise d’otage, braquage de banque etc … )
 
-### <mark style="color:blue;">Unité K9</mark>
+### <mark style="color:blue;">\*Premium\* Sniper Raid</mark>
 
-* Vous n’avez pas la possibilité de porter des armes
-* Vous devez rester avec un maître chien
-* Votre rôle est de suivre les ordres de votre maître
-* Vous n’avez pas le droit de parler ( seulement aboiement )
+* Vous avez la possibilité de porter des armes lourdes et sniper
+* Vous devez principalement rester sur les toits
+* Vous n’avez pas le droit de faire de l’illégale ( printers )
+* Vous ne pouvez pas être corrompu
+* Vous devez respecter vos supérieurs
+* Vous devez protéger les citoyens et encadrer les opérations ( Prise d’otage, braquage de banque etc … )
 
 ## <mark style="color:red;">Production</mark> :
 
@@ -168,12 +186,6 @@
 * Vous pouvez travailler avec les autres mineurs
 * Vous ne pouvez pas braquer
 * Vous pouvez défendre votre production
-
-### \*<mark style="color:yellow;">Premium</mark>\* <mark style="color:blue;">Foreur de pétrole</mark>
-
-* Vous n’avez pas la possibilité de porter des armes
-* Vous n’avez pas le droit de faire de braquage, prises d’otages etc …
-* Votre rôle est de produire et de vous enrichir
 
 ## <mark style="color:red;">Illégaux</mark> :
 
@@ -196,7 +208,7 @@
 * Il faut au minimum 5 policiers pour faire un attentat
 * Vous ne pouvez en aucun cas faire d'alliance avec des mercenaires
 
-### \*<mark style="color:yellow;">Premium</mark>\* <mark style="color:blue;">Tueur à gage</mark>
+### <mark style="color:blue;">Tueur à gage</mark>
 
 * Vous avez la possibilité de porter tout types d’armes
 * Vous n’avez pas le droit de faire de braquage, prises d’otages etc …
@@ -222,13 +234,11 @@
 
 ### <mark style="color:blue;">Contrebandier</mark>
 
-* Un membre de chaque famille sera WL pour être contrebandier (aucun changement sera effectué, il faut choisir la bonne personne)
-* Le contrebandier peut vendre ses armements seulement aux familles et à personne d'autre ( il faut être dans votre job pour cela )
-* Concernant la vente, le contrebandier peut favoriser sa vente auprès de sa famille en faisant des ventes avec le prix original pour sa famille.
-* Il a le droit de faire une marge de 10000 par armes avec les autres familles
-* Le contrebandier ne peut pas travailler avec des familles ( Prise d'otages / braquage de banques / etc.)
-* Il a le droit de porter des armes de poing uniquement (pour la protection de son marché)
-* Celui-ci doit effectuaient des ventes en discrétion (compter comme métier Illégal)\
+* Vous avez la possibilité de porter des armes de poings et blanches ( seulement )
+* Vous avez le droit de faire de l’illégale ( printers, etc ...)
+* Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
+* Le bénéfice max est de 10 000€
+* S’il y a un autre vendeur d’armes vous ne pouvez pas acheter les armes pour vous-même\
 
 
 ## <mark style="color:red;">**Gang (Non Légal)**</mark>** :**
@@ -244,6 +254,21 @@
 * Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Gangster.
 
 ### <mark style="color:blue;">Yakuza</mark>
+
+* Vous avez la possibilité de porter tout types d’armes
+* Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des MS13
+
+### <mark style="color:blue;">Cripz</mark>
+
+* Vous avez la possibilité de porter tout types d’armes
+* Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des MS13
+
+### <mark style="color:blue;">Bloodz</mark>
+
+* Vous avez la possibilité de porter tout types d’armes
+* Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des MS13
+
+### <mark style="color:blue;">Braqueurs</mark>
 
 * Vous avez la possibilité de porter tout types d’armes
 * Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des MS13
