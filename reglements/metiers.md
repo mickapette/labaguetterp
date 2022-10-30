@@ -149,7 +149,7 @@
 
 * Vous avez la possibilité de porter des armes lourdes ( sauf sniper pour lieutenant I minimum / ( freedom autorisé) )
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
-* Vous avez le droit de vous /job en Policier seulement
+* Vous avez le droit de vous /job en Policier seulement (pas de Police Haut-Gradé, etc)
 * Vous n'avez pas le droit d'abuser de votre job (freetaze, freekill vos collèges)
 * Vous avez le droit de faire payer des détenus pour les libérer
 
@@ -234,13 +234,11 @@
 
 ### <mark style="color:blue;">Contrebandier</mark>
 
-* Un membre de chaque famille sera WL pour être contrebandier (aucun changement sera effectué, il faut choisir la bonne personne)
-* Le contrebandier peut vendre ses armements seulement aux familles et à personne d'autre ( il faut être dans votre job pour cela )
-* Concernant la vente, le contrebandier peut favoriser sa vente auprès de sa famille en faisant des ventes avec le prix original pour sa famille.
-* Il a le droit de faire une marge de 10000 par armes avec les autres familles
-* Le contrebandier ne peut pas travailler avec des familles ( Prise d'otages / braquage de banques / etc.)
-* Il a le droit de porter des armes de poing uniquement (pour la protection de son marché)
-* Celui-ci doit effectuaient des ventes en discrétion (compter comme métier Illégal)\
+* Vous avez la possibilité de porter des armes de poings et blanches ( seulement )
+* Vous avez le droit de faire de l’illégale ( printers, etc ...)
+* Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
+* Le bénéfice max est de 10 000€
+* S’il y a un autre vendeur d’armes vous ne pouvez pas acheter les armes pour vous-même\
 
 
 ## <mark style="color:red;">**Gang (Non Légal)**</mark>** :**
