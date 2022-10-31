@@ -106,7 +106,13 @@ Lorsqu'un véhicule blindé est à l'arrêt ou à une vitesse faible ( moins de 
 
 ### <mark style="color:purple;">**Construction RP**</mark>** :**
 
-\- Les constructions "Role-Play" sont obligatoires ! Interdiction aux énormes constructions ou fluorescentes qui pique les yeux des autres joueurs sauf en cas d'un événement particulier annoncé à l'avance sur le Discord du serveur.
+\- Les constructions "Role-Play" sont obligatoires ! Interdiction aux énormes constructions ou fluorescentes qui pique les yeux des autres joueurs sauf en cas d'un événement particulier annoncé à l'avance sur le Discord du serveur.\
+\- Pour réaliser une construction plus grande que celle d'un bâtiment de la map, il faut demander à un superadmin minimum pour valider la construction.
+
+* Cette construction ne doit pas faire lag le serveur,
+* Elle ne doit pas etre construite pour s'avantager avec les GunFights.
+
+Exemple: Faire une église ou bien une entreprise ou encore un hôtel.
 
 ### <mark style="color:purple;">**Construction invisible**</mark>** :**
 
