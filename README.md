@@ -24,7 +24,7 @@
 
 <mark style="color:purple;">**11**</mark>** **<mark style="color:blue;">****</mark> - Le **MassRP** : C'est le fait de <mark style="color:blue;">**simuler la présence d'habitants et de civil partout en ville**</mark>, celle-ci n'est pas remplie seulement de joueurs mais bien de milliers de citoyens. (Le MassRP s'applique partout en ville, celle-ci est indiquée par des panneaux "Vous entrez en ville", bien sûr une action comme par exemple le braquage de banque est toujours possible.) Une personne est en dehors de la zone de MassRP n'a pas le droit d'interagir avec une scène qui se passe dans la zone de MassRP
 
-<mark style="color:purple;">**12**</mark>** **<mark style="color:blue;">****</mark> - Le **Travers** : C'est le fait de tirer à travers une surface opaque telle que des murs ou bien des propos. (il est cependant autorisé de tirer à travers les surfaces transparentes) (<mark style="color:red;">**Il est interdit de tirer à travers les vitres de la Banque et de l'ascenseur**</mark>)
+<mark style="color:purple;">**12**</mark>** **<mark style="color:blue;">****</mark> - Le **Travers** : C'est le fait de tirer à travers une surface opaque telle que des murs ou bien des props. (il est cependant autorisé de tirer à travers les surfaces transparentes) (<mark style="color:red;">**Il est interdit de tirer à travers les vitres de la Banque et de l'ascenseur**</mark>)
 
 <mark style="color:purple;">**13**</mark>** **<mark style="color:blue;">****</mark> - Le **NLR ( New Life Rule )** : C'est le fait de revenir sur une même position/action alors que vous êtes mort durant celle-ci. Ainsi que de vous souvenir de tout ce qu’il s’est passé avant votre mort.
 
