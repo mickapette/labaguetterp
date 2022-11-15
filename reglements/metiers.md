@@ -151,7 +151,7 @@
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
 * Vous avez le droit de vous /job en Policier seulement (pas de Police Haut-Gradé, etc)
 * Vous n'avez pas le droit d'abuser de votre job (freetaze, freekill vos collèges)
-* Vous avez le droit de faire payer des détenus pour les libérer
+* Vous avez le droit de faire payer des détenus pour les libérer (50 000€)
 
 ### <mark style="color:blue;">RAID</mark>
 
