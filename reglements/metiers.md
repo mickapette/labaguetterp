@@ -128,6 +128,7 @@
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
 * Vous devez intégrer des organisations afin de les démanteler
 * Vous avez le droit de cacher votre profession ( /job citoyen … )
+* Les agents de la bac ne peuvent pas négocier pendant un braquage. (Banque, supérette)
 
 ### <mark style="color:blue;">Police</mark>
 
