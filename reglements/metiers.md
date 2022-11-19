@@ -273,3 +273,10 @@
 
 * Vous avez la possibilité de porter tout types d’armes
 * Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des MS13
+
+### <mark style="color:blue;">Job Perso</mark>
+
+* Vous avez la possibilité de porter tout types d’armes
+* Les alliances entre job perso sont interdite.
+* Il y a une limitation de slots pour votre job perso, par conséquent vous n'avez pas le droit aux alliances entre job, pas de mercenaires, pas d'autres jobs illégaux (sauf productions)
+* Vous devez être minimum 2 pour effectuer une prise d'otage.
