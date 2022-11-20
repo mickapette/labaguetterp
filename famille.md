@@ -18,7 +18,7 @@
 1. _Limitez les gun-fights et privilégiez les discussion, Les affrontements et la guerre sont les dernières solutions._
 2. _La communication se fait uniquement via radio ( parler IG et Discord en même temps ). Tout système d'appel en continue pour transmettre des infos ou bien système de bouton d'alerte alors que vous êtes menottés est formellement interdit ._
 3. _Si une famille arrive à défendre le point que vous essayez d'attaquer, vous ne pouvez plus l'attaquer pendant 2h (réfléchissez donc à une bonne stratégie lors des attaques !)._
-4. _Si la famille qui attaque le drapeau arrive à prendre le territoire, alors la famille qui possède le territoire peux se réserver le droit de déclarer la guerre.(Guerre qui sera automatiquement accepter avec preuve(s))_
+4. _Il est nécessaire d'avoir des raisons RP pour envisager une guerre contre une autre famille (meurtre, embrouille, attaque, etc ...)_
 
 ### <mark style="color:blue;">La guerre In-Game</mark> <mark style="color:blue;"></mark><mark style="color:blue;">:</mark> <a href="#la-guerre-in-game" id="la-guerre-in-game"></a>
 
