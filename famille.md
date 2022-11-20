@@ -33,6 +33,6 @@
 ### _<mark style="color:blue;">Le character kill (CK)</mark> <mark style="color:blue;"></mark><mark style="color:blue;">:</mark>_ <a href="#le-character-kill-ck" id="le-character-kill-ck"></a>
 
 1. _Pour effectuer un character kill, vous devez avoir une preuve (un rec ou un screen) que vous connaissez (de façon RP) le nom du membre du gang ennemi._
-2. _Le gang qui a le plus de CK remporte la guerre._
-3. _Le gagnant de la guerre remporte tous les territoires de la famille ennemie. Il est donc interdit de refaire une guerre ou de reprendre les drapeaux de la famille gagnant durant 2 semaines._
+2. _La famille qui a le plus de CK remporte la guerre._
+3. _Le gagnant de la guerre remporte tous les drapeaux de la famille ennemie durant 2 semaines (cela signifie que votre limite passe de 3 ---> 6). Il est donc interdit de refaire une guerre ou de reprendre les drapeaux de la famille gagnant durant 2 semaines._
 4. _Remarques : Les CK doivent être absolument être validé par un Gérant DarkWeb.En cas de manquement au règlement, les Gérants du DarkWeb ou les staffs vous sanctionneront à la hauteur de l'infraction (attention cela peut aller jusqu'à la suppression du gang)._
