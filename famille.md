@@ -23,16 +23,21 @@
 5. _Si une famille arrive à défendre le point que vous essayez d'attaquer, vous ne pouvez plus l'attaquer pendant 6h (réfléchissez donc à une bonne stratégie lors des attaques !)._
 6. _Si la famille qui attaque le drapeau arrive à prendre le territoire, alors la famille qui possède le térritoire peux se réserver le droit de déclarer la guerre.(Guerre qui sera automatiquement accepter avec preuve(s))_
 
-### _<mark style="color:blue;">La guerre In-Game</mark> <mark style="color:blue;"></mark><mark style="color:blue;">:</mark>_ <a href="#la-guerre-in-game" id="la-guerre-in-game"></a>
+### <mark style="color:blue;">La guerre In-Game</mark> <mark style="color:blue;"></mark><mark style="color:blue;">:</mark> <a href="#la-guerre-in-game" id="la-guerre-in-game"></a>
 
 1. _Pour remporter une guerre, il suffit d'avoir le plus de Character-Kill possible. (Il n'y a plus de territoire sur le serveur.)_
 2. _Lorsque que vous êtes CK durant la guerre, vous ne pouvez plus vous mettre dans le job famille le temps de la guerre._
 3. _Durant la guerre, si une ou plusieurs erreurs RP sont commises, vous serez ban 12 heures. (à vous de faire attention à votre RP, vous devez être irréprochable.)_
 4. _(Pendant les guerres, vous pouvez seulement utiliser les armes vendues par les gérants darkweb (vos armes perm peuvent toujours servir dans n'importe quelles autres situations). Elles sont distribuées lors de vente aux enchères ou alors à la demande, sur le discord darkrp section darkweb)_
 
-### _<mark style="color:blue;">Le character kill (CK)</mark> <mark style="color:blue;"></mark><mark style="color:blue;">:</mark>_ <a href="#le-character-kill-ck" id="le-character-kill-ck"></a>
+### <mark style="color:blue;">Le character kill (CK)</mark> <mark style="color:blue;"></mark><mark style="color:blue;">:</mark> <a href="#le-character-kill-ck" id="le-character-kill-ck"></a>
 
 1. _Pour effectuer un character kill, vous devez avoir une preuve (un rec ou un screen) que vous connaissez (de façon RP) le nom du membre du gang ennemi._
 2. _La famille qui a le plus de CK remporte la guerre._
 3. _Le gagnant de la guerre remporte tous les drapeaux de la famille ennemie durant 2 semaines (cela signifie que votre limite passe de 3 ---> 6). Il est donc interdit de refaire une guerre ou de reprendre les drapeaux de la famille gagnant durant 2 semaines._
 4. _Remarques : Les CK doivent être absolument être validé par un Gérant DarkWeb.En cas de manquement au règlement, les Gérants du DarkWeb ou les staffs vous sanctionneront à la hauteur de l'infraction (attention cela peut aller jusqu'à la suppression du gang)._
+
+### <mark style="color:blue;">Discord Famille</mark> <mark style="color:blue;"></mark><mark style="color:blue;">:</mark> <a href="#regle-general" id="regle-general"></a>
+
+1. _Le règlements de votre discord est soumis au même règles que le Discord DarkRP (cela signifie que vous pourrez vous faire ban du discord DarkRP si vous enfreigniez une règle sur le discord famille)_
+2. _Il est obligatoire pour les gérants Darkweb d'avoir accès à la totalité de votre discord (il doit au minimum voir tous les salons de votre discord sans exception.) Si cette règle n'est pas respecté et que vous refusez de passer l'accès au gérant vous vous exposez a un ban du discord DarkRP et vous serez banni de faire toutes action par rapport au famille IG (prise de drapeau, guerre)._
