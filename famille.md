@@ -30,12 +30,6 @@
 3. _Au contraire, si elle remporte cet affrontement, alors une réelle guerre sera déclarée avec un délai automatique de 1 semaine, (Attention les CKs durant les guerres sont désormais réelles, si vous mouriez durant la guerre vous ne pourrais plus faire partie du même gang / famille durant 2 semaines.)_
 4. _(Pendant les guerres vous pouvez seulement utiliser les armes vendues par les gérants darkweb (vos armes perm peuvent toujours servir dans n'importe quels autres situations)Elles sont distribuées lors de vente aux enchères ou alors à la demande, sur le discord darkrp section darkweb)_
 
-### _<mark style="color:blue;">Prise de drapeaux</mark> <mark style="color:blue;"></mark><mark style="color:blue;">:</mark>_ <a href="#prise-de-drapeaux" id="prise-de-drapeaux"></a>
-
-1. _Lors d'une guerre, vous avez le droit de pendre plus que vos territoires, mais les territoires pris doivent appartenir à vos ennemis de guerre._
-2. _Il faut être minimum 3 (actifs) sur dans la famille pour capturer un drapeau_
-3. _(Pendant les prises de drapeaux vous pouvez seulement utiliser les armes vendues par les gérants darkweb (vos armes perm peuvent toujours servir dans n'importe quels autres situations)Elles sont distribuées lors de vente aux enchères ou alors à la demande, sur le discord darkrp section darkweb)_
-
 ### _<mark style="color:blue;">Le character kill (CK)</mark> <mark style="color:blue;"></mark><mark style="color:blue;">:</mark>_ <a href="#le-character-kill-ck" id="le-character-kill-ck"></a>
 
 1. _Pour effectuer un character kill, vous devez avoir une preuve (un rec ou un screen) que vous connaissez (de façon RP) le nom du membre du gang ennemi._

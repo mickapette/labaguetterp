@@ -52,5 +52,4 @@
 * Il faut être minimum 2 (actifs) dans le même job pour capturer un drapeau
 * (Pendant les prises de drapeaux vous pouvez seulement utiliser les armes vendues par les gérants darkweb (vos armes perm peuvent toujours servir dans n'importe quels autres situations). Elles sont distribuées lors de vente aux enchères ou alors à la demande, sur le discord darkrp section darkweb)
 * Toutes les règles ci-dessus sont applicables aussi pour les défenseurs.
-* Vous pouvez au maximum capturer 3 drapeaux
-* Lors d'une guerre, vous pouvez capturer les drapeaux de l'ennemie en plus de la limite (3).
+* Vous pouvez au maximum capturer 5 drapeaux
