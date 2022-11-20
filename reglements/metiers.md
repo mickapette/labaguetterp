@@ -49,7 +49,8 @@
 
 * Vous n’avez pas la possibilité de porter des armes.
 * Vous n’avez pas le droit de faire de l’illégale ( printers ).
-* Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )Le bénéfice max est de 3 000€.
+* Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
+* Le bénéfice max est de 5 000€.
 * Vous n’avez pas le droit de menacer vos clients pour qu’ils vous paient plus.
 * Vous ne pouvez pas mettre à la fourrière des véhicules de fonctions (Police, Samu et FBI).
 * Vos clients n’ont pas le droit de vous braquer pour ne pas payer.
@@ -69,7 +70,7 @@
 * Votre but est de soigner et sauver les personnes dans le besoin
 * Vous n’avez pas le droit de toucher à tout ce qui est illégal ( printers )
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
-* Le bénéfice max est de 5 000€
+* Le bénéfice max est de 10 000€
 * Si vos patients ne peuvent pas payer vous ne pouvez pas les braquer.
 * Vous avez obligation de ramener les patients à l'hôpital après réanimation
 
@@ -78,7 +79,7 @@
 * Vous avez la possibilité de porter des armes de poings et blanches ( seulement )
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
-* Le bénéfice max est de 10 000€
+* Le bénéfice max est de 30 000€
 * S’il y a un autre vendeur d’armes vous ne pouvez pas acheter les armes pour vous-même
 
 ### <mark style="color:blue;"></mark>:bus:<mark style="color:purple;">Chauffeur de bus</mark>
@@ -86,7 +87,7 @@
 * Vous avez la possibilité de porter des armes blanches ( seulement )
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
-* Le bénéfice max est de 3 000€
+* Le bénéfice max est de 10 000€
 
 ## <mark style="color:red;">Gouvernement</mark> :
 
@@ -233,14 +234,12 @@
 * Vous pouvez racketter seulement 50 000€
 * Vous devez être discret
 
-### <mark style="color:blue;">Contrebandier</mark>
+### <mark style="color:blue;">WL Contrebandier</mark>
 
 * Vous avez la possibilité de porter des armes de poings et blanches ( seulement )
 * Vous avez le droit de faire de l’illégale ( printers, etc ...)
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
-* Le bénéfice max est de 10 000€
-* S’il y a un autre vendeur d’armes vous ne pouvez pas acheter les armes pour vous-même\
-
+* Le bénéfice max est de 50 000€
 
 ## <mark style="color:red;">**Gang (Non Légal)**</mark>** :**
 
