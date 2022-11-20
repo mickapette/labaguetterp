@@ -2,18 +2,17 @@
 
 ### <mark style="color:blue;">Règle général</mark> <mark style="color:blue;"></mark><mark style="color:blue;">:</mark> <a href="#regle-general" id="regle-general"></a>
 
-1. _Le nombre maximum de points est de 3 par familles (sauf exception après victoire de guerre)_
-2. _Les familles ne sont pas à confondre avec les gangs de base sur le serveur (mafieux, gangsters, MS13, etc ...)_
-3. _Les alliances entre familles sont autorisées avec l'autorisation d'un gérant Darkweb (Alliance avec **une** famille maximum)_
-4. _Les familles ne peuvent pas s'allier avec un job perso_
-5. _Il y a une limitation de slots par job, par conséquent vous n'avez pas le droit aux alliances entre job, pas de mercenaires, pas d'autres jobs illégaux (sauf productions)_
-6. _Vous pouvez demander a une autre famille un contrat payant pour effectuer des services (demande d'information sur un membre de famille / exécution d'une personne mais en aucun cas une action type prise d'otage ou braquage de banque ) (il faut garder la preuve de l'échange d'argent au cas où elle serait demandé par un staff / ces contrats ne veulent pas dire qu'une famille est en alliance avec une autre ). La somme minimum pour un contrat est de : 500 000$._
-7. _Vous avez obligatoirement votre carte d'identités sur vous_
-8. _Interdit d'appartenir à deux familles différentes_
-9. _Lorsque vous êtes dans une famille il est interdit de changer de nom RP sans l'accord d'un Gérant DarkWeb_
-10. _Il est interdit de trash les autres familles, seulement la provocation est accepté, les insultes en anonymes sont formellement interdit._
-11. _Il est interdit d'inviter une personne d'un gang adverse contre une somme d'argent ou un grade quelconque dans votre famille._
-12. _Il est désormais interdit de communiquer et/ou d'utiliser des informations transmises/obtenues par vocal sur discord. Vous devez utiliser le système de Radio achetable dans le F4 (Catégorie "Items", sous-catégorie "Cargaison"). Celui qui transmet et celui qui utilise sont tous les deux coupable de Métagaming._
+1. _Les familles ne sont pas à confondre avec les gangs de base sur le serveur (mafieux, gangsters, MS13, etc ...)_
+2. _Les alliances entre familles sont autorisées avec l'autorisation d'un gérant Darkweb (Alliance avec **une** famille maximum)_
+3. _Les familles ne peuvent pas s'allier avec un job perso_
+4. _Il y a une limitation de slots par job, par conséquent vous n'avez pas le droit aux alliances entre job, pas de mercenaires, pas d'autres jobs illégaux (sauf productions)_
+5. _Vous pouvez demander a une autre famille un contrat payant pour effectuer des services (demande d'information sur un membre de famille / exécution d'une personne mais en aucun cas une action type prise d'otage ou braquage de banque ) (il faut garder la preuve de l'échange d'argent au cas où elle serait demandé par un staff / ces contrats ne veulent pas dire qu'une famille est en alliance avec une autre ). La somme minimum pour un contrat est de : 500 000$._
+6. _Vous avez obligatoirement votre carte d'identités sur vous_
+7. _Interdit d'appartenir à deux familles différentes_
+8. _Lorsque vous êtes dans une famille il est interdit de changer de nom RP sans l'accord d'un Gérant DarkWeb_
+9. _Il est interdit de trash les autres familles, seulement la provocation est accepté, les insultes en anonymes sont formellement interdit._
+10. _Il est interdit d'inviter une personne d'un gang adverse contre une somme d'argent ou un grade quelconque dans votre famille._
+11. _Il est désormais interdit de communiquer et/ou d'utiliser des informations transmises/obtenues par vocal sur discord. Vous devez utiliser le système de Radio achetable dans le F4 (Catégorie "Items", sous-catégorie "Cargaison"). Celui qui transmet et celui qui utilise sont tous les deux coupable de Métagaming._
 
 ### <mark style="color:blue;">Les relations entre gangs</mark> <mark style="color:blue;"></mark><mark style="color:blue;">:</mark> <a href="#les-relations-entre-gangs" id="les-relations-entre-gangs"></a>
 
