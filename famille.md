@@ -25,10 +25,10 @@
 
 ### _<mark style="color:blue;">La guerre In-Game</mark> <mark style="color:blue;"></mark><mark style="color:blue;">:</mark>_ <a href="#la-guerre-in-game" id="la-guerre-in-game"></a>
 
-1. _Les guerres seront maintenant légèrement différentes, elles commenceront tous d'abord pas un "affrontement"_
-2. _Si la famille qui veut le territoire perd cet affrontement, c'est finit pour elle, deux personnes de ça famille seront ck aléatoirement, et elle n'aura plus le droit de toucher au territoire attaquer précédemment pendant 2 semaines._
-3. _Au contraire, si elle remporte cet affrontement, alors une réelle guerre sera déclarée avec un délai automatique de 1 semaine, (Attention les CKs durant les guerres sont désormais réelles, si vous mouriez durant la guerre vous ne pourrais plus faire partie du même gang / famille durant 2 semaines.)_
-4. _(Pendant les guerres vous pouvez seulement utiliser les armes vendues par les gérants darkweb (vos armes perm peuvent toujours servir dans n'importe quels autres situations)Elles sont distribuées lors de vente aux enchères ou alors à la demande, sur le discord darkrp section darkweb)_
+1. _Pour remporter une guerre, il suffit d'avoir le plus de Character-Kill possible. (Il n'y a plus de territoire sur le serveur.)_
+2. _Lorsque que vous êtes CK durant la guerre, vous ne pouvez plus vous mettre dans le job famille le temps de la guerre._
+3. _Durant la guerre, si une ou plusieurs erreurs RP sont commises, vous serez ban 12 heures. (à vous de faire attention à votre RP, vous devez être irréprochable.)_
+4. _(Pendant les guerres, vous pouvez seulement utiliser les armes vendues par les gérants darkweb (vos armes perm peuvent toujours servir dans n'importe quelles autres situations). Elles sont distribuées lors de vente aux enchères ou alors à la demande, sur le discord darkrp section darkweb)_
 
 ### _<mark style="color:blue;">Le character kill (CK)</mark> <mark style="color:blue;"></mark><mark style="color:blue;">:</mark>_ <a href="#le-character-kill-ck" id="le-character-kill-ck"></a>
 
