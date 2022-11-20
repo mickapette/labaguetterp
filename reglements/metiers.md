@@ -42,7 +42,7 @@
 * Vous avez la possibilité de porter des armes blanches ( seulement ).
 * Vous n’avez pas le droit de faire de l’illégale ( printers ).
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … ).
-* Le bénéfice max est de 5 000€.
+* Le bénéfice max est de 10 000€.
 * Vous devez emmener vos clients d’un point A à un point B.
 
 ### <mark style="color:blue;"></mark>:convenience\_store:<mark style="color:purple;">Dépanneur</mark>
