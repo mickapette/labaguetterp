@@ -97,14 +97,14 @@
 * Vous n’avez pas le droit de faire de l’illégale ( printers sauf dictature )
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
 
-### <mark style="color:blue;">Secrétaire du Maire</mark>
+### <mark style="color:blue;">👩‍🦰 Secrétaire du Maire</mark>
 
 * Vous n’avez pas la possibilité de porter des armes
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
 * Vous prenez en charge le planning du Maire
 
-### <mark style="color:blue;">Maire</mark>
+### <mark style="color:blue;">🤴 Maire</mark>
 
 #### \[<mark style="color:purple;">Démocratie</mark>]
 
@@ -122,7 +122,7 @@
 
 ## <mark style="color:red;">Force de l'ordre</mark> :
 
-### <mark style="color:blue;">\*Premium\* BAC</mark>
+### <mark style="color:blue;">🕵️‍♂️ \*Premium\* BAC</mark>
 
 * Vous avez la possibilité de porter des armes lourdes ( sauf sniper / ( freedom autorisé) )
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
@@ -131,7 +131,7 @@
 * Vous avez le droit de cacher votre profession ( /job citoyen … )
 * Les agents de la bac ne peuvent pas négocier pendant un braquage. (Banque, supérette)
 
-### <mark style="color:blue;">Police</mark>
+### <mark style="color:blue;">👮‍♂️ Police</mark>
 
 * Vous avez la possibilité de porter des armes lourdes ( sauf sniper pour lieutenant minimum / ( freedom autorisé) )
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
@@ -139,7 +139,7 @@
 * Vous devez respecter vos supérieurs
 * Vous devez protéger les citoyens
 
-### <mark style="color:blue;">\*WL\* IGPN</mark>
+### <mark style="color:blue;">👨‍💼 \*WL\* IGPN</mark>
 
 * Vous avez la possibilité de porter des armes lourdes
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
@@ -232,6 +232,14 @@
 * Vous pouvez cambrioler que s’il y a 20 joueurs minimum et qu’il y ait 2 forces de l’ordres
 * Vous pouvez faire de l’illégal (printers,etc,....)
 * Vous pouvez racketter seulement 50 000€
+* Vous devez être discret
+
+### <mark style="color:blue;">Hackeur ATM</mark>
+
+* Vous avez la possibilité de porter des armes de poings et blanches (seulement)
+* Vous n’avez pas le droit de faire de braquage, prises d’otages etc …
+* Vous pouvez hacker les atm que s’il y a 20 joueurs minimum et qu’il y ait 3 forces de l’ordres
+* Vous pouvez faire de l’illégal (printers,etc,....)
 * Vous devez être discret
 
 ### <mark style="color:blue;">WL Contrebandier</mark>
