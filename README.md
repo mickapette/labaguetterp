@@ -98,8 +98,6 @@ Quand vous mourrez ou changez de job vous oubliez tout ce qu’il s’est passé
 
 Le nombre de SAS maximum dans une construction est de 3. ( Tout membre compris )
 
-Il est interdit d'enlever les armes perms d'un joueur si celui-ci n'a pas utilisé l'une d'entre elles (exemple : armes gold, arme de famille, etc .)
-
 Lorsqu'un véhicule blindé est à l'arrêt ou à une vitesse faible ( moins de 10 km/h), vous êtes obligé de jouer votre fear RP.
 
 
