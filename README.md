@@ -98,7 +98,9 @@ Quand vous mourrez ou changez de job vous oubliez tout ce qu’il s’est passé
 
 Le nombre de SAS maximum dans une construction est de 3. ( Tout membre compris )
 
-Lorsqu'un véhicule blindé est à l'arrêt ou à une vitesse faible ( moins de 10 km/h), vous êtes obligé de jouer votre fear RP.
+Lorsqu'un véhicule blindé est à l'arrêt ou à une vitesse faible ( moins de 10 km/h), vous êtes obligé de jouer votre fear RP.\
+\
+Si la personne n'est pas armée vous devez utiliser votre tazer pour le maitrisé (Si bien sur il n'est pas coopérant ou il effectue un délit de fuite)
 
 
 
