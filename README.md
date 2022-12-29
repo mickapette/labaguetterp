@@ -50,8 +50,6 @@
 
 <mark style="color:purple;">**24**</mark>** ** - Le **Spawnkill** : C'est le fait de <mark style="color:blue;">**tuer des personnes au spawn ou venant d’y sortir**</mark>
 
-
-
 \
 :french\_bread: <mark style="color:green;"></mark> <mark style="color:yellow;">Règles Inclus sur le serveur</mark> <mark style="color:green;"></mark> :french\_bread:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -101,6 +99,10 @@ Le nombre de SAS maximum dans une construction est de 3. ( Tout membre compris )
 Lorsqu'un véhicule blindé est à l'arrêt ou à une vitesse faible ( moins de 10 km/h), vous êtes obligé de jouer votre fear RP.\
 \
 Si la personne n'est pas armée vous devez utiliser votre tazer pour le maitrisé (Si bien sur il n'est pas coopérant ou il effectue un délit de fuite)
+
+Les propos racistes, xénophobes, homophobes, ou tout autre propos à caractère haineux est strictement interdit
+
+Les insultes parentales / familiales sont formellement interdit
 
 
 
