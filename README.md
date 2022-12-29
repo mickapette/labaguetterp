@@ -102,7 +102,7 @@ Si la personne n'est pas armée vous devez utiliser votre tazer pour le maitris�
 
 Les propos racistes, xénophobes, homophobes, ou tout autre propos à caractère haineux est strictement interdit
 
-Les insultes parentales / familiales sont formellement interdit
+Les insultes parentales / familiales sont formellement interdites
 
 
 
