@@ -104,6 +104,8 @@ Les propos racistes, xénophobes, homophobes, ou tout autre propos à caractère
 
 Les insultes parentales / familiales sont formellement interdites
 
+Le /me assomme quelqu'un, ne fonctionne pas vous avez un outil spécial pour cela, lorsque vous vous faites assommer, vous oublier tous ceux qu'il sait passer durant 5 minutes après ce laps de temps vous vous rappelez de toute la scène (Cet outil n'est accessible qu'aux gangs.)
+
 
 
 ### <mark style="color:purple;">**Construction RP**</mark>** :**
