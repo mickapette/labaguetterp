@@ -106,6 +106,12 @@ Les insultes parentales / familiales sont formellement interdites
 
 Le /me assomme quelqu'un, ne fonctionne pas vous avez un outil spécial pour cela, lorsque vous vous faites assommer, vous oublier tous ceux qu'il sait passer durant 5 minutes après ce laps de temps vous vous rappelez de toute la scène (Cet outil n'est accessible qu'aux gangs.)
 
+Il est interdit d'utiliser des logiciels ou des bugs, qui fournissent un avantage sur d'autres joueurs (triche, UseBug).
+
+Il est interdit de contourner le bannissement d'un compte.
+
+Il est interdit de divulguer tout type d'informations privées sur d'autres joueurs (nom réel, lieu, photo, etc.).
+
 
 
 ### <mark style="color:purple;">**Construction RP**</mark>** :**
