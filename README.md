@@ -138,11 +138,9 @@ Les props invisibles sont interdits
 
 ### <mark style="color:purple;">**Les keypads**</mark>** :**
 
-\- Le Keypad doit être proche de le fading door qu’il ouvre.(5 à 10M)
-
-\- Le keypad doit être dans la même pièce que le fading door !
-
 \- Il est interdit de mettre plus de 2 keypads pour un seul fading door !
+
+\- Les boutons/keypads doivent être proches de l'objet qu'ils contrôlent et être facilement visibles.
 
 ### <mark style="color:purple;">**Les meurtrières**</mark>** :**
 
