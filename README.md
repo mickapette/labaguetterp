@@ -72,8 +72,6 @@ Vous n’avez pas le droit de braquer un vendeur d’arme pour ne pas payer les 
 
 Il est impossible de vendre ou d’échanger de l’argent IG contre des avantages boutique (crédits, pack, etc….).
 
-Il est strictement interdit de faire du tir à vue, donc les /advert “Si vous rentrez, on tire à vue” ne fonctionnent pas !
-
 Vous n’avez pas le droit de vous redonner du kevlar ou de la vie (de quelconque manière) durant une action RP !
 
 Vous n’avez pas le droit de construire durant une action.
