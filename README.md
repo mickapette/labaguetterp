@@ -110,7 +110,7 @@ Il est interdit de contourner le bannissement d'un compte.
 
 Il est interdit de divulguer tout type d'informations privées sur d'autres joueurs (nom réel, lieu, photo, etc.).
 
-
+Il y a une limitation de slots par job, par conséquent vous n'avez pas le droit aux alliances entre job, pas de mercenaires, pas d'autres jobs illégaux (sauf productions)
 
 ### <mark style="color:purple;">**Construction RP**</mark>** :**
 
