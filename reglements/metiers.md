@@ -59,7 +59,7 @@
 
 * Vous avez la possibilité de porter des armes blanches ( seulement ).
 * Vous n’avez pas le droit de faire de l’illégale ( printers ).
-* Le bénéfice max est de 10 000€.
+* Le bénéfice max est de 25 000€.
 * Vous pouvez travailler avec d’autres marchands.
 * Vous ne pouvez pas être braquer.
 * Vous devez nourrir toute la ville.
