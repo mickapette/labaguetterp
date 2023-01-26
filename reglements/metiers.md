@@ -162,6 +162,7 @@
 * Vous ne pouvez pas être corrompu
 * Vous devez respecter vos supérieurs
 * Vous devez protéger les citoyens et encadrer les opérations ( Prise d’otage, braquage de banque etc … )
+* Il est interdit de patrouiller dans le métier RAID, sauf s'il n'y a pas de policier, ou une intervention lourde (Braquage de Banques, Prise d'otage)
 
 ### <mark style="color:blue;">\*Premium\* Sniper Raid</mark>
 
