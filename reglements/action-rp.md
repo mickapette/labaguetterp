@@ -53,3 +53,4 @@
 * Toutes les règles ci-dessus sont applicables aussi pour les défenseurs.
 * Vous pouvez au maximum capturer 3 drapeaux
 * Lors d'une guerre, vous pouvez capturer les drapeaux de l'ennemie en plus de la limite (3).
+* Lorsque que vous capturer un drapeau d'une famille ennemie, vous êtes obligé de le capturer, vous ne pouvez pas capturer un drapeau juste pour le rendre libre vous êtes donc dans l'obligation de le prendre.

@@ -12,7 +12,7 @@
 8. _Il est interdit de trash les autres familles, seulement la provocation est accepté, les insultes en anonymes sont formellement interdit._
 9. _Il est interdit d'inviter une personne d'un gang adverse contre une somme d'argent ou un grade quelconque dans votre famille._
 10. _Il est désormais interdit de communiquer et/ou d'utiliser des informations transmises/obtenues par vocal sur discord. Vous devez utiliser le système de Radio achetable dans le F4 (Catégorie "Items", sous-catégorie "Cargaison"). Celui qui transmet et celui qui utilise sont tous les deux coupable de Métagaming._
-11. Vous pouvez capturer un nombre de 3 drapeaux maximum (interdiction de capturer des points en étant dans un véhicule).
+11. Vous pouvez capturer un nombre de 3 territoires maximum (interdiction de capturer des points en étant dans un véhicule).
 
 ### <mark style="color:blue;">Les relations entre gangs</mark> <mark style="color:blue;"></mark><mark style="color:blue;">:</mark> <a href="#les-relations-entre-gangs" id="les-relations-entre-gangs"></a>
 
