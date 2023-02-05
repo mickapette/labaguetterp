@@ -22,7 +22,7 @@
 
 <mark style="color:purple;">**10**</mark>** **<mark style="color:blue;">****</mark> - Le **Powergaming** : C'est le fait de faire <mark style="color:blue;">**une action qui n'est pas réalisable**</mark> en temps normale (_ex : S'asseoir pour éviter les balles, sauter d'une falaise en voiture_)
 
-<mark style="color:purple;">**11**</mark>** **<mark style="color:blue;">****</mark> - Le **MassRP** : C'est le fait de <mark style="color:blue;">**simuler la présence d'habitants et de civil partout en ville**</mark>, celle-ci n'est pas remplie seulement de joueurs mais bien de milliers de citoyens. (Le MassRP s'applique partout en ville, celle-ci est indiquée par des panneaux "Vous entrez en ville", bien sûr une action comme par exemple le braquage de banque est toujours possible.) Une personne est en dehors de la zone de MassRP n'a pas le droit d'interagir avec une scène qui se passe dans la zone de MassRP
+<mark style="color:purple;">**11**</mark>** **<mark style="color:blue;">****</mark> - Le **MassRP** : C'est le fait de <mark style="color:blue;">**simuler la présence d'habitants et de civil partout en ville**</mark>, celle-ci n'est pas remplie seulement de joueurs mais bien de milliers de citoyens. (Le MassRP s'applique partout en ville, celle-ci est indiquée par des panneaux "Vous entrez en ville", bien sûr une action comme par exemple le braquage de banque est toujours possible.) Une personne est en dehors de la zone de MassRP n'a pas le droit d'interagir avec une scène qui se passe dans la zone de MassRP. (Si vous vous faites attaquer, vous avez le droit de sortir votre arme pour vous défendre, pour un braquage de banques ou une prise d'otages vous avez le droit de sortir vos armes)
 
 <mark style="color:purple;">**12**</mark>** **<mark style="color:blue;">****</mark> - Le **Travers** : C'est le fait de tirer à travers une surface opaque telle que des murs ou bien des props. (il est cependant autorisé de tirer à travers les surfaces transparentes) (<mark style="color:red;">**Il est interdit de tirer à travers les vitres de la Banque et de l'ascenseur**</mark>)
 
@@ -78,13 +78,11 @@ Vous n’avez pas le droit de construire durant une action.
 
 Si vous voulez construire votre maison sans être braqué, vous devez envoyer /ano stipulant que vous êtes en construction (en précisant le lieu) après cela un délai de 15 minutes vous est accordé.
 
-Vous devez faire au minimum 3 tirs de sommations pour pouvoir abattre une personne non-armée
+Vous devez faire au minimum 3 tirs de sommations pour pouvoir abattre une personne non-armée. (Les sommations via le /ano ne fonctionne pas)
 
 Vous ne pouvez en aucun cas vous procurer des objets et des armes pendant une action RP.
 
 Les licences d’armes autorisent uniquement les armes de poing, mais interdisent de les utiliser sans raisons valables
-
-Faire un /me pour que la personne oublie tout ne marche pas
 
 La conduite de façon RP est obligatoire (En ville on roule à 50 hein)
 
