@@ -149,8 +149,8 @@
 
 ### <mark style="color:blue;">Police Corrompu</mark>&#x20;
 
-* Vous avez la possibilité de porter des armes lourdes ( sauf sniper pour lieutenant minimum / ( freedom autorisé) )
-* Vous n’avez pas le droit de faire de l’illégale ( printers )
+* Vous avez la possibilité de porter des armes lourdes sauf sniper.
+* Vous n’avez pas le droit de faire de l’illégale (printer,racket,cambriolage etc...)
 * Vous avez le droit de vous /job en Policier seulement (pas de Police Haut-Gradé, etc)
 * Vous n'avez pas le droit d'abuser de votre job (freetaze, freekill vos collèges)
 * Vous avez le droit de faire payer des détenus pour les libérer (50 000€)
