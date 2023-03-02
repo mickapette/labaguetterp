@@ -50,6 +50,8 @@
 
 <mark style="color:purple;">**24**</mark>** ** - Le **Spawnkill** : C'est le fait de <mark style="color:blue;">**tuer des personnes au spawn ou venant d’y sortir**</mark>
 
+<mark style="color:purple;">**25**</mark>** **<mark style="color:blue;">**-**</mark> Le **BunnyHop **<mark style="color:purple;">****</mark> est interdit : C'est le fait <mark style="color:blue;">**de ce déplacer en saut de manière continue afin de prendre de la vitesse ou d'esquiver les tires.**</mark>
+
 \
 :french\_bread: <mark style="color:green;"></mark> <mark style="color:yellow;">Règles Inclus sur le serveur</mark> <mark style="color:green;"></mark> :french\_bread:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
