@@ -118,7 +118,7 @@
 
 * Vous avez la possibilité de porter des armes lourdes ( sauf sniper )
 * Vous avez le droit de faire de l’illégale ( printers seulement )
-* Vous avez le droit de faire de braquer ( prise d’otage seulement )
+* Vous avez le droit de braquer ( prise d’otage seulement )
 
 ## <mark style="color:red;">Force de l'ordre</mark> :
 
