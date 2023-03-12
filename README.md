@@ -120,7 +120,9 @@ Il y a une limitation de slots par job, par conséquent vous n'avez pas le droit
 * Cette construction ne doit pas faire lag le serveur,
 * Elle ne doit pas etre construite pour s'avantager avec les GunFights.
 
-Exemple: Faire une église ou bien une entreprise ou encore un hôtel.
+Exemple: Faire une église ou bien une entreprise ou encore un hôtel.\
+\
+\- Toute entrée (porte garage etc...) effectué par un mappeur doit être accessible au public ou susceptible d'être ouvert avec un Lockpick, un Keypad ou un bouton.
 
 ### <mark style="color:purple;">**Construction invisible**</mark>** :**
 
