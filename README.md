@@ -124,6 +124,8 @@ Exemple: Faire une église ou bien une entreprise ou encore un hôtel.\
 \
 \- Toute entrée (porte garage etc...) effectué par un mappeur doit être accessible au public ou susceptible d'être ouvert avec un Lockpick, un Keypad ou un bouton.
 
+\- Les bâtiments que vous concevez doivent être réalistes, c'est-à-dire qu'ils doivent être situés sur un support solide plutôt que dans les airs, et leurs matériaux et couleurs doivent être cohérents avec la réalité plutôt que fantaisistes.
+
 ### <mark style="color:purple;">**Construction invisible**</mark>** :**
 
 Les props invisibles sont interdits
