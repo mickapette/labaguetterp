@@ -112,6 +112,8 @@ Il est interdit de divulguer tout type d'informations privées sur d'autres joue
 
 Il y a une limitation de slots par job, par conséquent vous n'avez pas le droit aux alliances entre job, pas de mercenaires, pas d'autres jobs illégaux (sauf productions)
 
+Il est impossible pour vous de participer ou d'influencer une action qui a déjà commencé avant votre connexion ou votre changement de métier.
+
 ### <mark style="color:purple;">**Construction RP**</mark>** :**
 
 \- Les constructions "Role-Play" sont obligatoires ! Interdiction aux énormes constructions ou fluorescentes qui pique les yeux des autres joueurs sauf en cas d'un événement particulier annoncé à l'avance sur le Discord du serveur.\
