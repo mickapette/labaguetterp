@@ -256,31 +256,37 @@
 
 * Vous avez la possibilité de porter tous types d’armes
 * Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Mafieux, MS13.
+* Vous ne pouvez pas vous /job pour changer le nom du métier
 
 ### <mark style="color:blue;">Mafieux</mark>
 
 * Vous avez la possibilité de porter tout types d’armes
 * Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Gangster.
+* Vous ne pouvez pas vous /job pour changer le nom du métier
 
 ### <mark style="color:blue;">Yakuza</mark>
 
 * Vous avez la possibilité de porter tout types d’armes
 * Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des MS13
+* Vous ne pouvez pas vous /job pour changer le nom du métier
 
 ### <mark style="color:blue;">Cripz</mark>
 
 * Vous avez la possibilité de porter tout types d’armes
 * Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des MS13
+* Vous ne pouvez pas vous /job pour changer le nom du métier
 
 ### <mark style="color:blue;">Bloodz</mark>
 
 * Vous avez la possibilité de porter tout types d’armes
 * Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des MS13
+* Vous ne pouvez pas vous /job pour changer le nom du métier
 
 ### <mark style="color:blue;">Braqueurs</mark>
 
 * Vous avez la possibilité de porter tout types d’armes
 * Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des MS13
+* Vous ne pouvez pas vous /job pour changer le nom du métier
 
 ### <mark style="color:blue;">Job Perso</mark>
 
@@ -288,3 +294,4 @@
 * Les alliances entre job perso sont interdite.
 * Il y a une limitation de slots pour votre job perso, par conséquent vous n'avez pas le droit aux alliances entre job, pas de mercenaires, pas d'autres jobs illégaux (sauf productions)
 * Vous devez être minimum 2 pour effectuer une prise d'otage.
+* Vous ne pouvez pas vous /job pour changer le nom du métier
