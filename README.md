@@ -80,7 +80,7 @@ Vous n’avez pas le droit de construire durant une action.
 
 Si vous voulez construire votre maison sans être braqué, vous devez envoyer /ano stipulant que vous êtes en construction (en précisant le lieu) après cela un délai de 15 minutes vous est accordé.
 
-Vous devez faire au minimum 3 sommations a l'oral pour pouvoir abattre une personne non-armée. (Les sommations via le /ano et les sommations par tirs ne fonctionne pas)
+Tout joueur souhaitant abattre une personne non-armée doit effectuer au moins 3 sommations orales claires et distinctes, en utilisant un langage respectueux et non-offensant. (Les sommations via le /ano et les sommations par tirs ne fonctionne pas)
 
 Vous ne pouvez en aucun cas vous procurer des objets et des armes pendant une action RP.
 
