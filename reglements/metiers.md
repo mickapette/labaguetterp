@@ -130,6 +130,7 @@
 * Vous devez intégrer des organisations afin de les démanteler
 * Vous avez le droit de cacher votre profession ( /job citoyen … )
 * Les agents de la bac ne peuvent pas négocier pendant un braquage. (Banque, supérette)
+* Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
 
 ### <mark style="color:blue;">👮‍♂️ Police</mark>
 
@@ -138,6 +139,7 @@
 * Vous ne pouvez pas être corrompu
 * Vous devez respecter vos supérieurs
 * Vous devez protéger les citoyens
+* Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
 
 ### <mark style="color:blue;">👨‍💼 \*WL\* IGPN</mark>
 
@@ -146,6 +148,7 @@
 * Vous ne pouvez pas être corrompu
 * Vous vérifier le bon fonctionnement de la police
 * Vous devez protéger les citoyens
+* Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
 
 ### <mark style="color:blue;">Police Corrompu</mark>&#x20;
 
@@ -154,6 +157,7 @@
 * Vous avez le droit de vous /job en Policier seulement (pas de Police Haut-Gradé, etc)
 * Vous n'avez pas le droit d'abuser de votre job (freetaze, freekill vos collèges)
 * Vous avez le droit de faire payer des détenus pour les libérer (50 000€)
+* Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
 
 ### <mark style="color:blue;">RAID</mark>
 
@@ -163,6 +167,7 @@
 * Vous devez respecter vos supérieurs
 * Vous devez protéger les citoyens et encadrer les opérations ( Prise d’otage, braquage de banque etc … )
 * Il est interdit de patrouiller dans le métier RAID, sauf s'il n'y a pas de policier, ou une intervention lourde (Braquage de Banques, Prise d'otage)
+* Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
 
 ### <mark style="color:blue;">\*Premium\* Sniper Raid</mark>
 
@@ -172,6 +177,7 @@
 * Vous ne pouvez pas être corrompu
 * Vous devez respecter vos supérieurs
 * Vous devez protéger les citoyens et encadrer les opérations ( Prise d’otage, braquage de banque etc … )
+* Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
 
 ## <mark style="color:red;">Production</mark> :
 
