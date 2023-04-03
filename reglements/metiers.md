@@ -131,6 +131,7 @@
 * Vous avez le droit de cacher votre profession ( /job citoyen … )
 * Les agents de la bac ne peuvent pas négocier pendant un braquage. (Banque, supérette)
 * Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
+* Il est permis d'abattre un joueur uniquement s'il représente une menace pour la vie d'autrui.
 
 ### <mark style="color:blue;">👮‍♂️ Police</mark>
 
@@ -140,6 +141,7 @@
 * Vous devez respecter vos supérieurs
 * Vous devez protéger les citoyens
 * Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
+* Il est permis d'abattre un joueur uniquement s'il représente une menace pour la vie d'autrui.
 
 ### <mark style="color:blue;">👨‍💼 \*WL\* IGPN</mark>
 
@@ -158,6 +160,7 @@
 * Vous n'avez pas le droit d'abuser de votre job (freetaze, freekill vos collèges)
 * Vous avez le droit de faire payer des détenus pour les libérer (50 000€)
 * Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
+* Il est permis d'abattre un joueur uniquement s'il représente une menace pour la vie d'autrui.
 
 ### <mark style="color:blue;">RAID</mark>
 
