@@ -1,60 +1,60 @@
 # 📄 Général
 
-## :blue\_book: _<mark style="color:yellow;">**Les Bases**</mark>** **<mark style="color:green;">****</mark>_ :blue\_book:_<mark style="color:green;">****</mark>_
+## :blue\_book: _<mark style="color:yellow;">**Les Bases**</mark>_ :blue\_book:
 
 <mark style="color:purple;">**01**</mark> - Le **Freekill** : Tuer un joueur sans raison valable, vous devez prendre en compte qu'un meurtre est considéré comme <mark style="color:blue;">**dernière solution**</mark> dans une action.
 
 <mark style="color:purple;">**02**</mark> - Le **Freeshoot** : Tirer sur une personne sans raison <mark style="color:blue;">**valable**</mark>.&#x20;
 
-<mark style="color:purple;">**03**</mark>** **<mark style="color:blue;">****</mark> - Le **Teamkill** : Tirer ou tuer l'un de <mark style="color:blue;">**ses coéquipiers**</mark> ou une personne du <mark style="color:blue;">**même métier que vous**</mark>. Si vous avez besoin d'abattre un concurrent ou bien un ami faite appelle à un tueur à gages.
+<mark style="color:purple;">**03**</mark> - Le **Teamkill** : Tirer ou tuer l'un de <mark style="color:blue;">**ses coéquipiers**</mark> ou une personne du <mark style="color:blue;">**même métier que vous**</mark>. Si vous avez besoin d'abattre un concurrent ou bien un ami faite appelle à un tueur à gages.
 
-<mark style="color:purple;">**04**</mark>** **<mark style="color:blue;">****</mark> - Le **Freepunch** : Taper une personne sans raison <mark style="color:blue;">**valable**</mark>.
+<mark style="color:purple;">**04**</mark> - Le **Freepunch** : Taper une personne sans raison <mark style="color:blue;">**valable**</mark>.
 
-<mark style="color:purple;">**05**</mark>** **<mark style="color:blue;">****</mark> - Le **Freetaze** : Tazer une personne sans raison <mark style="color:blue;">**valable**</mark>.
+<mark style="color:purple;">**05**</mark> - Le **Freetaze** : Tazer une personne sans raison <mark style="color:blue;">**valable**</mark>.
 
-<mark style="color:purple;">**06**</mark> - Le **FairPlay** : <mark style="color:blue;">**Respecter les**</mark><mark style="color:blue;">** **</mark><mark style="color:blue;"><mark style="color:green;">****<mark style="color:green;"></mark><mark style="color:blue;">** **</mark><mark style="color:blue;">**règles du jeu**</mark><mark style="color:blue;"><mark style="color:green;">**,**<mark style="color:green;"></mark>**  **<mark style="color:blue;">**ne pas ce donner tous les avantages et donner une chance au plus petit de pouvoir s'en sortir**</mark>. Le but d'une action n'est pas de se finir en quelques minutes, mais bien d'allonger celle-ci afin de prendre plus de plaisir et que votre Rp vous soit satisfait à la fin de chaque action.
+<mark style="color:purple;">**06**</mark> - Le **FairPlay** : <mark style="color:blue;">**Respecter les**</mark> <mark style="color:blue;">**règles du jeu**</mark><mark style="color:blue;"><mark style="color:green;">**,**<mark style="color:green;"></mark> <mark style="color:blue;">**ne pas ce donner tous les avantages et donner une chance au plus petit de pouvoir s'en sortir**</mark>. Le but d'une action n'est pas de se finir en quelques minutes, mais bien d'allonger celle-ci afin de prendre plus de plaisir et que votre Rp vous soit satisfait à la fin de chaque action.
 
 <mark style="color:purple;">**07**</mark> - Le **Propskill** : Tuer une personne avec un props est <mark style="color:red;">**interdit**</mark>.
 
-<mark style="color:purple;">**08**</mark>** **<mark style="color:blue;">****</mark> - Le **Propsclimb** : C'est le fait d'utiliser des <mark style="color:red;">**props pour monter à des endroits inaccessibles**</mark> normalement.
+<mark style="color:purple;">**08**</mark> - Le **Propsclimb** : C'est le fait d'utiliser des <mark style="color:red;">**props pour monter à des endroits inaccessibles**</mark> normalement.
 
 <mark style="color:purple;">**09**</mark> - Le **Propsblock** : C'est le fait d'utiliser des props pour <mark style="color:red;">**bloquer un accès existant**</mark> ou bien <mark style="color:red;">**une zone**</mark> <mark style="color:red;">**sans mettre de keypad ou un bouton.**</mark>
 
-<mark style="color:purple;">**10**</mark>** **<mark style="color:blue;">****</mark> - Le **Powergaming** : C'est le fait de faire <mark style="color:blue;">**une action qui n'est pas réalisable**</mark> en temps normale (_ex : S'asseoir pour éviter les balles, sauter d'une falaise en voiture_)
+<mark style="color:purple;">**10**</mark> - Le **Powergaming** : C'est le fait de faire <mark style="color:blue;">**une action qui n'est pas réalisable**</mark> en temps normale (_ex : S'asseoir pour éviter les balles, sauter d'une falaise en voiture_)
 
-<mark style="color:purple;">**11**</mark>** **<mark style="color:blue;">****</mark> - Le **MassRP** : C'est le fait de <mark style="color:blue;">**simuler la présence d'habitants et de civil partout en ville**</mark>, celle-ci n'est pas remplie seulement de joueurs mais bien de milliers de citoyens. (Le MassRP s'applique partout en ville, celle-ci est indiquée par des panneaux "Vous entrez en ville", bien sûr une action comme par exemple le braquage de banque est toujours possible.) Une personne est en dehors de la zone de MassRP n'a pas le droit d'interagir avec une scène qui se passe dans la zone de MassRP. (Si vous vous faites attaquer autre que Forces de l'Ordres, vous avez le droit de sortir votre arme pour vous défendre, pour un braquage de banques ou une prise d'otages vous avez le droit de sortir vos armes)
+<mark style="color:purple;">**11**</mark> - Le **MassRP** : C'est le fait de <mark style="color:blue;">**simuler la présence d'habitants et de civil partout en ville**</mark>, celle-ci n'est pas remplie seulement de joueurs mais bien de milliers de citoyens. (Le MassRP s'applique partout en ville, celle-ci est indiquée par des panneaux "Vous entrez en ville", bien sûr une action comme par exemple le braquage de banque est toujours possible.) Une personne est en dehors de la zone de MassRP n'a pas le droit d'interagir avec une scène qui se passe dans la zone de MassRP. (Si vous vous faites attaquer autre que Forces de l'Ordres, vous avez le droit de sortir votre arme pour vous défendre, pour un braquage de banques ou une prise d'otages vous avez le droit de sortir vos armes)
 
-<mark style="color:purple;">**12**</mark>** **<mark style="color:blue;">****</mark> - Le **Travers** : C'est le fait de tirer à travers une surface opaque telle que des murs ou bien des props. (il est cependant autorisé de tirer à travers les surfaces transparentes) (<mark style="color:red;">**Il est interdit de tirer à travers les vitres de la Banque et de l'ascenseur**</mark>)
+<mark style="color:purple;">**12**</mark> - Le **Travers** : C'est le fait de tirer à travers une surface opaque telle que des murs ou bien des props. (il est cependant autorisé de tirer à travers les surfaces transparentes) (<mark style="color:red;">**Il est interdit de tirer à travers les vitres de la Banque et de l'ascenseur**</mark>)
 
-<mark style="color:purple;">**13**</mark>** **<mark style="color:blue;">****</mark> - Le **NLR ( New Life Rule )** : C'est le fait de revenir sur une même position/action alors que vous êtes mort durant celle-ci. Ainsi que de vous souvenir de tout ce qu’il s’est passé avant votre mort.
+<mark style="color:purple;">**13**</mark> - Le **NLR ( New Life Rule )** : C'est le fait de revenir sur une même position/action alors que vous êtes mort durant celle-ci. Ainsi que de vous souvenir de tout ce qu’il s’est passé avant votre mort.
 
-<mark style="color:purple;">**14**</mark>** **<mark style="color:blue;">****</mark> - Le **Freedemote** : C'est le fait de démote (retirer le grade d’une personne) sans raison rp <mark style="color:blue;">**valable**</mark>.
+<mark style="color:purple;">**14**</mark> - Le **Freedemote** : C'est le fait de démote (retirer le grade d’une personne) sans raison rp <mark style="color:blue;">**valable**</mark>.
 
-<mark style="color:purple;">**15**</mark>** **<mark style="color:blue;">****</mark> - Le **Revenge Kill** : C'est le fait de tuer une personne qui vous a tué auparavant.
+<mark style="color:purple;">**15**</mark> - Le **Revenge Kill** : C'est le fait de tuer une personne qui vous a tué auparavant.
 
-<mark style="color:purple;">**16**</mark>** **<mark style="color:blue;">****</mark> - Le **Trashtalk** : C'est le fait d'<mark style="color:blue;">**insulter ou de provoquer**</mark> quelqu'un après l'avoir tué.
+<mark style="color:purple;">**16**</mark> - Le **Trashtalk** : C'est le fait d'<mark style="color:blue;">**insulter ou de provoquer**</mark> quelqu'un après l'avoir tué (cela fonctionne aussi pour le chat).
 
-<mark style="color:purple;">**17**</mark>** **<mark style="color:blue;">****</mark> - Le **Fear RP** : C'est le fait de <mark style="color:blue;">**simuler la peur**</mark> (_ex : Vous ne pouvez pas sortir d'arme quand vous êtes braqué_)
+<mark style="color:purple;">**17**</mark> - Le **Fear RP** : C'est le fait de <mark style="color:blue;">**simuler la peur**</mark> (_ex : Vous ne pouvez pas sortir d'arme quand vous êtes braqué_)
 
-<mark style="color:purple;">**18**</mark>** **<mark style="color:blue;">****</mark> - Le **Pain RP** : C'est le fait de <mark style="color:blue;">**ressentir la douleur**</mark> infligé par une chute, après avoir reçu des balles, etc. Si vous êtes en incapacité physique de combattre (-15hp) vous ne pouvez donc pas engager un combat.
+<mark style="color:purple;">**18**</mark> - Le **Pain RP** : C'est le fait de <mark style="color:blue;">**ressentir la douleur**</mark> infligé par une chute, après avoir reçu des balles, etc. Si vous êtes en incapacité physique de combattre (-15hp) vous ne pouvez donc pas engager un combat.
 
-<mark style="color:purple;">**19**</mark>** **<mark style="color:blue;">****</mark> - Le **Metagaming** : C'est le fait de connaître des informations HRP sans les connaître dans un contexte RP (_ex : lire le nom d’une personne au-dessus de sa tête_)
+<mark style="color:purple;">**19**</mark> - Le **Metagaming** : C'est le fait de connaître des informations HRP sans les connaître dans un contexte RP (_ex : lire le nom d’une personne au-dessus de sa tête_)
 
-<mark style="color:purple;">**20**</mark>** **<mark style="color:blue;">****</mark> - Le soundboard : C'est le fait d'<mark style="color:blue;">**utiliser des sons externes au serveur**</mark> (_ex : des musiques non incluses dans la boombox ou bien la radio dans les véhicules_)
+<mark style="color:purple;">**20**</mark> - Le soundboard : C'est le fait d'<mark style="color:blue;">**utiliser des sons externes au serveur**</mark> (_ex : des musiques non incluses dans la boombox ou bien la radio dans les véhicules_)
 
-<mark style="color:purple;">**21**</mark>** **<mark style="color:blue;">****</mark> - Le HRP vocal (Hors RP) : C'est le fait de <mark style="color:blue;">**parler d’information qui ne concerne en rien dans le Rp**</mark> (_ex : je vais faire un ticket contre toi, tu vas être ban …_)
+<mark style="color:purple;">**21**</mark> - Le HRP vocal (Hors RP) : C'est le fait de <mark style="color:blue;">**parler d’information qui ne concerne en rien dans le Rp**</mark> (_ex : je vais faire un ticket contre toi, tu vas être ban …_)
 
-<mark style="color:purple;">**22**</mark>** **<mark style="color:blue;">****</mark> - Le WIN RP : C'est le fait de se <mark style="color:blue;">**donner des avantages dans une action Rp**</mark> (_ex : tirer depuis un buisson, etc ..._ )
+<mark style="color:purple;">**22**</mark> - Le WIN RP : C'est le fait de se <mark style="color:blue;">**donner des avantages dans une action Rp**</mark> (_ex : tirer depuis un buisson, etc ..._ )
 
-<mark style="color:purple;">**23**</mark>** **<mark style="color:blue;">****</mark> - Le ForceRP : C'est le fait de <mark style="color:blue;">**provoquer et forcer une action à se faire**</mark>  (_ex : insulter la police pour faire une course-poursuite puis une fusillade_)
+<mark style="color:purple;">**23**</mark> - Le ForceRP : C'est le fait de <mark style="color:blue;">**provoquer et forcer une action à se faire**</mark>  (_ex : insulter la police pour faire une course-poursuite puis une fusillade_)
 
-<mark style="color:purple;">**24**</mark>** ** - Le **Spawnkill** : C'est le fait de <mark style="color:blue;">**tuer des personnes au spawn ou venant d’y sortir**</mark>
+<mark style="color:purple;">**24**</mark> - Le **Spawnkill** : C'est le fait de <mark style="color:blue;">**tuer des personnes au spawn ou venant d’y sortir**</mark>
 
-<mark style="color:purple;">**25**</mark>** **<mark style="color:blue;">**-**</mark> Le **BunnyHop **<mark style="color:purple;">****</mark> est interdit : C'est le fait <mark style="color:blue;">**de ce déplacer en saut de manière continue afin de prendre de la vitesse ou d'esquiver les tires.**</mark>
+<mark style="color:purple;">**25**</mark>** **<mark style="color:blue;">**-**</mark> Le **BunnyHop** est interdit : C'est le fait <mark style="color:blue;">**de ce déplacer en saut de manière continue afin de prendre de la vitesse ou d'esquiver les tires.**</mark>
 
 \
-:french\_bread: <mark style="color:green;"></mark> <mark style="color:yellow;">Règles Inclus sur le serveur</mark> <mark style="color:green;"></mark> :french\_bread:
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+:french\_bread: <mark style="color:yellow;">Règles Inclus sur le serveur</mark> :french\_bread:
+-----------------------------------------------------------------------------------------------
 
 
 
@@ -113,6 +113,8 @@ Il est interdit de divulguer tout type d'informations privées sur d'autres joue
 Il y a une limitation de slots par job, par conséquent vous n'avez pas le droit aux alliances entre job, pas de mercenaires, pas d'autres jobs illégaux (sauf productions)
 
 Il est impossible pour vous de participer ou d'influencer une action qui a déjà commencé avant votre connexion ou votre changement de métier.
+
+Il est interdit d’arnaquer ses clients d’une quelconque manière en tant que Banquier
 
 ### <mark style="color:purple;">**Construction RP**</mark>** :**
 
