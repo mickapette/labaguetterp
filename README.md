@@ -118,6 +118,8 @@ Il est interdit d’arnaquer ses clients d’une quelconque manière en tant que
 
 Un warn peut vous être retiré par un membre du staff seulement s'il date de 2 mois minimum.
 
+Il est impossible de se faire retirer un warn inactif (2 mois) si vous êtes banni du serveur
+
 ### <mark style="color:purple;">**Construction RP**</mark>** :**
 
 \- Les constructions "Role-Play" sont obligatoires ! Interdiction aux énormes constructions ou fluorescentes qui pique les yeux des autres joueurs sauf en cas d'un événement particulier annoncé à l'avance sur le Discord du serveur.\
