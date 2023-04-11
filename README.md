@@ -80,23 +80,23 @@ Vous n’avez pas le droit de construire durant une action.
 
 Si vous voulez construire votre maison sans être braqué, vous devez mettre un textscreen au-dessus de la porte stipulant que vous êtes en construction, de ce fait vous n'aurez pas le droit de farm durant la période de construction (l'abus est interdit)
 
-3 sommations <mark style="color:blue;">**orales**</mark> claires et distinctes sont nécessaires avant de tuer une personne non-armée
+3 sommations orales claires et distinctes sont nécessaires avant de tuer une personne non-armée
 
 Vous ne pouvez en aucun cas vous procurer des objets et des armes pendant une action RP.
 
 Les licences d’armes autorisent uniquement les armes de poing, mais interdisent de les utiliser sans raisons valables
 
-La conduite de façon RP est obligatoire <mark style="color:blue;">**(En ville on roule à 50 hein)**</mark>
+La conduite de façon RP est obligatoire (En ville on roule à 50 hein)
 
 Si vous vous baladez à pied, vous devez marcher sur le trottoir. (à part si vous ne pouvez pas).
 
 Quand vous mourrez ou changez de job vous oubliez tout ce qu’il s’est passé avant.
 
-Lorsqu'un véhicule blindé est à l'arrêt ou à une vitesse faible <mark style="color:blue;">**(moins de 10 km/h)**</mark>, vous êtes obligé de jouer votre <mark style="color:red;">**fear RP**</mark>.
+Lorsqu'un véhicule blindé est à l'arrêt ou à une vitesse faible (moins de 10 km/h), vous êtes obligé de jouer votre fear RP.
 
-Les propos <mark style="color:red;">**racistes, xénophobes, homophobes**</mark>, ou tout autre propos à caractère haineux est strictement interdit
+Les propos racistes, xénophobes, homophobes, ou tout autre propos à caractère haineux est strictement interdit
 
-Les insultes <mark style="color:red;">**parentales / familiales**</mark> sont formellement interdites
+Les insultes parentales / familiales sont formellement interdites
 
 Le /me assomme quelqu'un, ne fonctionne pas vous avez un outil spécial pour cela, lorsque vous vous faites assommer, vous oublier tous ceux qu'il sait passer durant 5 minutes après ce laps de temps vous vous rappelez de toute la scène (Cet outil n'est accessible qu'aux gangs.)
 
@@ -138,7 +138,7 @@ Les meurtrières sont interdites, c’est le fait de faire une construction avec
 
 <div>
 
-<figure><img src=".gitbook/assets/image_2023-04-11_185344110 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image_2023-04-11_185344110.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
