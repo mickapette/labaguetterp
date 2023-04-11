@@ -15,7 +15,7 @@
 * _Vous n’avez pas le droit de toucher à tout ce qui est illégal ( printers )._
 * _Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )._
 
-### <mark style="color:blue;">****</mark>:no\_bell:<mark style="color:purple;">**SDF**</mark>
+### :no\_bell:<mark style="color:purple;">**SDF**</mark>
 
 * _Vous avez la possibilité de porter des armes de poings / armes blanches ( seulement )._
 * _Vous n’avez pas le droit de toucher à tout ce qui est illégal ( printers )._
@@ -23,13 +23,13 @@
 
 ## <mark style="color:red;">Services</mark> :
 
-### <mark style="color:blue;"></mark>:closed\_lock\_with\_key:<mark style="color:purple;">Agent de sécurité</mark>
+### :closed\_lock\_with\_key:<mark style="color:purple;">Agent de sécurité</mark>
 
 * _Vous avez la possibilité de porter des armes lourdes ( sauf sniper )._
 * _Vous n’avez pas le droit de toucher à tout ce qui est illégal ( printers )._
 * _Vous devez trouver un employeur._
 
-### <mark style="color:blue;"></mark>:bank:<mark style="color:purple;">Banquier</mark>
+### :bank:<mark style="color:purple;">Banquier</mark>
 
 * Vous avez la possibilité de porter des armes blanches.
 * Vous protégez la banque à vous de recruter des agents de sécurité.
@@ -37,7 +37,7 @@
 * Vous gardez les printers des clients en sûreté.\
 
 
-### <mark style="color:blue;"></mark>:taxi:<mark style="color:purple;">Chauffeur de taxi</mark>
+### :taxi:<mark style="color:purple;">Chauffeur de taxi</mark>
 
 * Vous avez la possibilité de porter des armes blanches ( seulement ).
 * Vous n’avez pas le droit de faire de l’illégale ( printers ).
@@ -45,7 +45,7 @@
 * Le bénéfice max est de 10 000€.
 * Vous devez emmener vos clients d’un point A à un point B.
 
-### <mark style="color:blue;"></mark>:convenience\_store:<mark style="color:purple;">Dépanneur</mark>
+### :convenience\_store:<mark style="color:purple;">Dépanneur</mark>
 
 * Vous n’avez pas la possibilité de porter des armes.
 * Vous n’avez pas le droit de faire de l’illégale ( printers ).
@@ -55,7 +55,7 @@
 * Vous ne pouvez pas mettre à la fourrière des véhicules de fonctions (Police, Samu et FBI).
 * Vos clients n’ont pas le droit de vous braquer pour ne pas payer.
 
-### <mark style="color:blue;"></mark>:cook:<mark style="color:purple;">Cuisinier</mark>
+### :cook:<mark style="color:purple;">Cuisinier</mark>
 
 * Vous avez la possibilité de porter des armes blanches ( seulement ).
 * Vous n’avez pas le droit de faire de l’illégale ( printers ).
@@ -64,7 +64,7 @@
 * Vous ne pouvez pas être braquer.
 * Vous devez nourrir toute la ville.
 
-### <mark style="color:blue;"></mark>:hospital:<mark style="color:purple;">Samu</mark>
+### :hospital:<mark style="color:purple;">Samu</mark>
 
 * Vous n’avez pas la possibilité de porter des armes
 * Votre but est de soigner et sauver les personnes dans le besoin
@@ -74,7 +74,7 @@
 * Si vos patients ne peuvent pas payer vous ne pouvez pas les braquer.
 * Vous avez obligation de ramener les patients à l'hôpital après réanimation
 
-### <mark style="color:blue;"></mark>:gun:<mark style="color:purple;">Vendeur d'armes</mark>
+### :gun:<mark style="color:purple;">Vendeur d'armes</mark>
 
 * Vous avez la possibilité de porter des armes de poings et blanches ( seulement )
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
@@ -82,7 +82,7 @@
 * Le bénéfice max est de 30 000€
 * S’il y a un autre vendeur d’armes vous ne pouvez pas acheter les armes pour vous-même
 
-### <mark style="color:blue;"></mark>:bus:<mark style="color:purple;">Chauffeur de bus</mark>
+### :bus:<mark style="color:purple;">Chauffeur de bus</mark>
 
 * Vous avez la possibilité de porter des armes blanches ( seulement )
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
@@ -91,7 +91,7 @@
 
 ## <mark style="color:red;">Gouvernement</mark> :
 
-### <mark style="color:blue;"></mark>:house\_with\_garden:<mark style="color:blue;">Garde du Maire</mark>
+### :house\_with\_garden:<mark style="color:blue;">Garde du Maire</mark>
 
 * Vous avez la possibilité de porter des armes lourdes ( sauf sniper )
 * Vous n’avez pas le droit de faire de l’illégale ( printers sauf dictature )

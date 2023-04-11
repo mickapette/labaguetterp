@@ -16,7 +16,7 @@
 * Vous devez attendre 15 minutes avant de pouvoir rebraquer la même personne et recambrioler la même maison.
 * Lorsque que vous braquez une personne et que celle-ci coopère vous n'avez le droit de voler que la moitié de ses ressources (farm) dans le cas contraire, vous avez le libre droit de lui prendre l'entièreté de ses ressources, de plus, il est interdit de détruire les ressources si celle-ci coopère (n'oubliez pas qu'il faut toujours rester fair-play).
 
-## <mark style="color:purple;">Vol de voiture</mark> <mark style="color:blue;"></mark> :
+## <mark style="color:purple;">Vol de voiture</mark> :
 
 * Il faut au minimum 1 forces de l’ordre
 * Vous devez être discret
@@ -39,7 +39,7 @@
 * Vous devez attendre 30 minutes avant de pouvoir refaire un braquage de supérette.
 * Vous devez être armés.
 
-## <mark style="color:purple;">Dictature</mark> <mark style="color:purple;"></mark><mark style="color:purple;"><mark style="color:red;"><mark style="color:red;"></mark> :
+## <mark style="color:purple;">Dictature</mark> :
 
 * Il faut au minimum 5 forces de l’ordre.
 * Il faut demander l’autorisation à un Administrateur minimum.

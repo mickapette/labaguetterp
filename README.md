@@ -58,11 +58,11 @@
 
 
 
-Il est interdit de faire de l’illégal sur un endroit accessible seulement avec un grappin ou via une construction Il est interdit de faire une construction plus haute que la taille de la maison et/ou de faire un toit.
+Interdiction de faire des activités illégales dans les endroits inaccessibles ou accessibles avec un grappin seulement
 
-Il est interdit de tirer à vue exemple : "Toutes personnes venant zone indu seront abattues sans sommations". Les boosts de vie ainsi que les grappins ne sont pas comptabilisés comme des armes.
+Pas de tirs sans sommations, et les boosts et grappins ne sont pas des armes
 
-Lors d'un délit de fuite, la police doit jouer la course poursuite, faire des barrages, etc... pendant 5 minutes et seulement après ce laps de temps la police à le droit de faire feu. (Cependant si les fuyards ouvrent le feu la police à le droit d'ouvrir également le feu.)
+La police doit faire une course-poursuite pendant 5 minutes minimums avant de pouvoir tirer en cas de délit de fuite, sauf si les fuyards ouvrent le feu dans ce cas-là vous pourrez directement riposter
 
 Lorsqu’un joueur lève les mains en l’air ça veut dire qu’il se rend donc vous devez l’arrêter ou le prendre en otage mais vous ne pouvez plus le tuer !
 
@@ -70,7 +70,7 @@ Les printers, les racks et les Bitminers sont illégals, le maire ne peut pas le
 
 Les pubs sont interdites sur le serveur
 
-Vous n’avez pas le droit de braquer un vendeur d’arme pour ne pas payer les armes
+Interdiction de braquer un vendeur d'arme pour éviter de payer
 
 Il est impossible de vendre ou d’échanger de l’argent IG contre des avantages boutique (crédits, pack, etc….).
 
@@ -78,29 +78,25 @@ Vous n’avez pas le droit de vous redonner du kevlar ou de la vie (de quelconqu
 
 Vous n’avez pas le droit de construire durant une action.
 
-Si vous voulez construire votre maison sans être braqué, vous devez envoyer /ano stipulant que vous êtes en construction (en précisant le lieu) après cela un délai de 15 minutes vous est accordé.
+Si vous voulez construire votre maison sans être braqué, vous devez mettre un textscreen au-dessus de la porte stipulant que vous êtes en construction, de ce fait vous n'aurez pas le droit de farm durant la période de construction (l'abus est interdit)
 
-Tout joueur souhaitant abattre une personne non-armée doit effectuer au moins 3 sommations orales claires et distinctes, en utilisant un langage respectueux et non-offensant. (Les sommations via le /ano et les sommations par tirs ne fonctionne pas)
+3 sommations <mark style="color:blue;">**orales**</mark> claires et distinctes sont nécessaires avant de tuer une personne non-armée
 
 Vous ne pouvez en aucun cas vous procurer des objets et des armes pendant une action RP.
 
 Les licences d’armes autorisent uniquement les armes de poing, mais interdisent de les utiliser sans raisons valables
 
-La conduite de façon RP est obligatoire (En ville on roule à 50 hein)
+La conduite de façon RP est obligatoire <mark style="color:blue;">**(En ville on roule à 50 hein)**</mark>
 
 Si vous vous baladez à pied, vous devez marcher sur le trottoir. (à part si vous ne pouvez pas).
 
 Quand vous mourrez ou changez de job vous oubliez tout ce qu’il s’est passé avant.
 
-Le nombre de SAS maximum dans une construction est de 3. ( Tout membre compris )
+Lorsqu'un véhicule blindé est à l'arrêt ou à une vitesse faible <mark style="color:blue;">**(moins de 10 km/h)**</mark>, vous êtes obligé de jouer votre <mark style="color:red;">**fear RP**</mark>.
 
-Lorsqu'un véhicule blindé est à l'arrêt ou à une vitesse faible ( moins de 10 km/h), vous êtes obligé de jouer votre fear RP.\
-\
-Si la personne n'est pas armée vous devez utiliser votre tazer pour le maitrisé (Si bien sur il n'est pas coopérant ou il effectue un délit de fuite)
+Les propos <mark style="color:red;">**racistes, xénophobes, homophobes**</mark>, ou tout autre propos à caractère haineux est strictement interdit
 
-Les propos racistes, xénophobes, homophobes, ou tout autre propos à caractère haineux est strictement interdit
-
-Les insultes parentales / familiales sont formellement interdites
+Les insultes <mark style="color:red;">**parentales / familiales**</mark> sont formellement interdites
 
 Le /me assomme quelqu'un, ne fonctionne pas vous avez un outil spécial pour cela, lorsque vous vous faites assommer, vous oublier tous ceux qu'il sait passer durant 5 minutes après ce laps de temps vous vous rappelez de toute la scène (Cet outil n'est accessible qu'aux gangs.)
 
@@ -116,51 +112,41 @@ Il est impossible pour vous de participer ou d'influencer une action qui a déj�
 
 Il est interdit d’arnaquer ses clients d’une quelconque manière en tant que Banquier
 
-Un warn peut vous être retiré par un membre du staff seulement s'il date de 2 mois minimum.
+### &#x20;🏗️ <mark style="color:yellow;">Règles de construction</mark> 🏗️
 
-Il est impossible de se faire retirer un warn inactif (2 mois) si vous êtes banni du serveur
+Les constructions "Role-Play" sont obligatoires ! Interdiction aux énormes constructions ou fluorescentes qui pique les yeux des autres joueurs sauf en cas d'un événement particulier annoncé à l'avance sur le Discord du serveur.
 
-### <mark style="color:purple;">**Construction RP**</mark>** :**
+Toute entrée (porte garage etc...) effectué par un mappeur doit être accessible au public ou susceptible d'être ouvert avec un Lockpick, un Keypad ou un bouton.
 
-\- Les constructions "Role-Play" sont obligatoires ! Interdiction aux énormes constructions ou fluorescentes qui pique les yeux des autres joueurs sauf en cas d'un événement particulier annoncé à l'avance sur le Discord du serveur.\
-\- Pour réaliser une construction plus grande que celle d'un bâtiment de la map, il faut demander à un superadmin minimum pour valider la construction.
-
-* Cette construction ne doit pas faire lag le serveur,
-* Elle ne doit pas etre construite pour s'avantager avec les GunFights.
-
-Exemple: Faire une église ou bien une entreprise ou encore un hôtel.\
+Les bâtiments que vous concevez doivent être réalistes, c'est-à-dire qu'ils doivent être situés sur un support solide plutôt que dans les airs, et leurs matériaux et couleurs doivent être cohérents avec la réalité plutôt que fantaisistes.\
 \
-\- Toute entrée (porte garage etc...) effectué par un mappeur doit être accessible au public ou susceptible d'être ouvert avec un Lockpick, un Keypad ou un bouton.
+Il est interdit de créer des sols, des échelles, des ascenseurs et des plateformes disparaissantes (via fading door).
 
-\- Les bâtiments que vous concevez doivent être réalistes, c'est-à-dire qu'ils doivent être situés sur un support solide plutôt que dans les airs, et leurs matériaux et couleurs doivent être cohérents avec la réalité plutôt que fantaisistes.
+Les props invisibles sont interdit
 
-### <mark style="color:purple;">**Construction invisible**</mark>** :**
+Il est interdit de faire des constructions avec juste un petit espace pour rentrer accroupie.
 
-Les props invisibles sont interdits
+Les fadings doors ne peuvent pas être de la même couleur une fois ouvertes. (Exemple Bleu ouvert, bleu fermé)
 
-### <mark style="color:purple;">**Constructions en tunnel**</mark>** :**
+Le nombre de SAS maximum dans une construction est de 3. ( Tout membre compris )
 
-\- Il est interdit de faire des constructions avec juste un petit espace pour rentrer accroupie.
+Il est interdit de mettre plus de 2 keypads pour un seul fading door !
 
-### <mark style="color:purple;">**Les fadings doors**</mark>** :**
+Les boutons/keypads doivent être proches de l'objet qu'ils contrôlent et être facilement visibles.
 
-\- Les fadings doors ne peuvent pas être de la même couleur une fois ouvertes. (Exemple Bleu ouvert, bleu fermé)
+Les meurtrières sont interdites, c’est le fait de faire une construction avec juste un petit passage ou un petit écart de props ou de véhicules pour tirer. Pour que cela ne compte pas comme une meurtrière, il faut pouvoir passer accroupie et que l'on voit plus de la moitié de votre corps.
 
-### <mark style="color:purple;">**Les keypads**</mark>** :**
+<div>
 
-\- Il est interdit de mettre plus de 2 keypads pour un seul fading door !
+<figure><img src=".gitbook/assets/image_2023-04-11_185344110 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-\- Les boutons/keypads doivent être proches de l'objet qu'ils contrôlent et être facilement visibles.
+ 
 
-### <mark style="color:purple;">**Les meurtrières**</mark>** :**
+<figure><img src=".gitbook/assets/image_2023-04-11_185510649.jpg" alt=""><figcaption></figcaption></figure>
 
-\- Les meurtrières sont interdites, c’est le fait de faire une construction avec juste un petit passage ou un petit écart de props ou de véhicules pour tirer. Pour que cela ne compte pas comme une meurtrière, il faut pouvoir passer accroupie et que l'on voit plus de la moitié de votre corps.
+</div>
 
-### <mark style="color:purple;">**Les pièces entièrement noires**</mark>** :**
-
-Il est interdit de faire des boites/ des pièces totalement noires (ou une construction qui a comme objectif qu'on ne voit rien) !
-
-### <mark style="color:purple;">**Les constructions en labyrinthes**</mark>** :**
+Il est interdit de faire des boites / des pièces totalement noires (ou une construction qui a comme objectif qu'on ne voit rien) !
 
 Il est interdit de faire des constructions en forme de labyrinthe.
 
@@ -172,3 +158,7 @@ Il est interdit de faire des constructions en forme de labyrinthe.
 | 10 warns   | 6 jours              |
 | 15 warns   | 2 semaines           |
 | 20 warns   | Permanent            |
+
+Un warn peut vous être retiré par un membre du staff seulement s'il date de <mark style="color:blue;">**2 mois**</mark> minimum.
+
+Il est impossible de se faire retirer un warn inactif <mark style="color:blue;">**(2 mois)**</mark> si vous êtes <mark style="color:red;">**banni du serveur**</mark>
