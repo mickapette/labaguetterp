@@ -50,7 +50,7 @@
 * Vous n’avez pas la possibilité de porter des armes.
 * Vous n’avez pas le droit de faire de l’illégale ( printers ).
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
-* Le bénéfice max est de 10 000€.
+* Le bénéfice max est de 15 000€.
 * Vous n’avez pas le droit de menacer vos clients pour qu’ils vous paient plus.
 * Vous ne pouvez pas mettre à la fourrière des véhicules de fonctions (Police, Samu et FBI).
 * Vos clients n’ont pas le droit de vous braquer pour ne pas payer.
@@ -59,7 +59,7 @@
 
 * Vous avez la possibilité de porter des armes blanches ( seulement ).
 * Vous n’avez pas le droit de faire de l’illégale ( printers ).
-* Le bénéfice max est de 25 000€.
+* Le bénéfice max est de 25 000€. (3000€ par aliment configuré sur votre Terminale)
 * Vous pouvez travailler avec d’autres marchands.
 * Vous ne pouvez pas être braquer.
 * Vous devez nourrir toute la ville.
@@ -199,6 +199,22 @@
 * Vous ne pouvez pas braquer
 * Vous pouvez défendre votre production
 
+### <mark style="color:blue;">Foreur de Pétrole</mark>
+
+* Vous avez la possibilité de porter des armes de poings ( seulement )
+* Vous pouvez travailler avec les autres foreurs
+* Vous ne pouvez pas braquer
+* Vous pouvez défendre votre production
+* Vous ne pouvez pas voler les barils des autres
+
+### <mark style="color:blue;">Cultivateur d'Or</mark>
+
+* Vous avez la possibilité de porter des armes de poings ( seulement )
+* Vous pouvez travailler avec les autres cultivateurs
+* Vous ne pouvez pas braquer
+* Vous pouvez défendre votre production
+* Vous ne pouvez pas voler les ressources des autres
+
 ## <mark style="color:red;">Illégaux</mark> :
 
 ### \*<mark style="color:yellow;">Premium</mark>\* <mark style="color:blue;">Psychopathe</mark>
@@ -252,49 +268,48 @@
 * Vous pouvez faire de l’illégal (printers,etc,....)
 * Vous devez être discret
 
-### <mark style="color:blue;">WL Contrebandier</mark>
-
-* Vous avez la possibilité de porter des armes de poings et blanches ( seulement )
-* Vous avez le droit de faire de l’illégale ( printers, etc ...)
-* Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
-* Le bénéfice max est de 50 000€
-
 ## <mark style="color:red;">**Gang (Non Légal)**</mark>** :**
 
 ### <mark style="color:blue;">Gangster</mark>
 
 * Vous avez la possibilité de porter tous types d’armes
-* Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Mafieux, MS13.
+* Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Mafieux, Yakuza, Cripz, Bloodz, Braqueurs et Guetteurs.
 * Vous ne pouvez pas vous /job pour changer le nom du métier
 
 ### <mark style="color:blue;">Mafieux</mark>
 
 * Vous avez la possibilité de porter tout types d’armes
-* Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Gangster.
+* Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Gangster, Yakuza, Cripz, Bloodz, Braqueurs et Guetteurs.
 * Vous ne pouvez pas vous /job pour changer le nom du métier
 
 ### <mark style="color:blue;">Yakuza</mark>
 
 * Vous avez la possibilité de porter tout types d’armes
-* Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des MS13
+* Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Mafieux, Cripz, Bloodz, Braqueurs et Guetteurs.
 * Vous ne pouvez pas vous /job pour changer le nom du métier
 
 ### <mark style="color:blue;">Cripz</mark>
 
 * Vous avez la possibilité de porter tout types d’armes
-* Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des MS13
+* Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Mafieux, Yakuza, Bloodz, Braqueurs et Guetteurs
 * Vous ne pouvez pas vous /job pour changer le nom du métier
 
 ### <mark style="color:blue;">Bloodz</mark>
 
 * Vous avez la possibilité de porter tout types d’armes
-* Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des MS13
+* Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Mafieux, Yakuza, Cripz, Braqueurs et Guetteurs
 * Vous ne pouvez pas vous /job pour changer le nom du métier
 
 ### <mark style="color:blue;">Braqueurs</mark>
 
 * Vous avez la possibilité de porter tout types d’armes
-* Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des MS13
+* Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Mafieux, Yakuza, Cripz, Bloodz et Guetteurs
+* Vous ne pouvez pas vous /job pour changer le nom du métier
+
+### <mark style="color:blue;">Guetteurs</mark>
+
+* Vous avez la possibilité de porter tout types d’armes
+* Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Mafieux, Yakuza, Cripz, Bloodz et Braqueurs.
 * Vous ne pouvez pas vous /job pour changer le nom du métier
 
 ### <mark style="color:blue;">Job Perso</mark>
