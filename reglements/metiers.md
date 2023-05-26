@@ -54,6 +54,7 @@
 * Vous n’avez pas le droit de menacer vos clients pour qu’ils vous paient plus.
 * Vous ne pouvez pas mettre à la fourrière des véhicules de fonctions (Police, Samu et FBI).
 * Vos clients n’ont pas le droit de vous braquer pour ne pas payer.
+* Lorsqu'un véhicule est mal stationné, aucune personne ne peut interdire de remorquer le véhicule sauf les forces de l'ordre.
 
 ### :cook:<mark style="color:purple;">Cuisinier</mark>
 
