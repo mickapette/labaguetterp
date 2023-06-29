@@ -203,6 +203,7 @@
 * Vous pouvez travailler avec les autres mineurs
 * Vous ne pouvez pas braquer
 * Vous pouvez défendre votre production
+* Vous n'avez pas la possibilité d'être braqué
 
 ### <mark style="color:blue;">Foreur de Pétrole</mark>
 
@@ -211,6 +212,7 @@
 * Vous ne pouvez pas braquer
 * Vous pouvez défendre votre production
 * Vous ne pouvez pas voler les barils des autres
+* Vous n'avez pas la possibilité d'être braqué
 
 ### <mark style="color:blue;">Cultivateur d'Or</mark>
 
@@ -219,6 +221,7 @@
 * Vous ne pouvez pas braquer
 * Vous pouvez défendre votre production
 * Vous ne pouvez pas voler les ressources des autres
+* Vous n'avez pas la possibilité d'être braqué
 
 ## <mark style="color:red;">Illégaux</mark> :
 
