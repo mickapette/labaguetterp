@@ -232,16 +232,16 @@
 * Vous devez neutraliser vos cibles dans des lieux discrets
 * Vous avez le droit de cacher votre profession ( /job citoyen … )
 
-### \*<mark style="color:yellow;">Premium</mark>\* <mark style="color:blue;">Terroriste</mark>
+### \*<mark style="color:yellow;">Premium</mark>\* <mark style="color:blue;">Rebelle</mark>
 
 * Vous avez la possibilité de porter seulement vos armes de spawn
 * Vous n’avez pas le droit de faire de braquage, prises d’otages etc …
 * Vous devez annoncer votre lieu d’attaque dans l'ano et 5 minutes avant l’attaque. (ex: /ano
-* Attentat parking-maire dans 5 minutes. Vous devez rappeler à chaque minute votre message + indiquer un message de l'attentat imminent)
-* Vous avez le droit de vous associez avec un autre terroriste
+* Attaque parking-maire dans 5 minutes. Vous devez rappeler à chaque minute votre message + indiquer un message de l'attentat imminent)
+* Vous avez le droit de vous associez avec un autre rebelle
 * Si vous plantez une bombe dans un véhicule vous avez l’obligation de l’annoncer (ex: une voiture parking mairie est piégée (bombe))
-* Vous devez attendre 1h entre chaque attentat
-* Il faut au minimum 5 policiers pour faire un attentat
+* Vous devez attendre 1h entre chaque attaque
+* Il faut au minimum 5 policiers pour faire un assaut
 * Vous ne pouvez en aucun cas faire d'alliance avec des mercenaires
 
 ### <mark style="color:blue;">Tueur à gage</mark>
