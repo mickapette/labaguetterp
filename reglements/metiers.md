@@ -34,7 +34,8 @@
 * Vous avez la possibilité de porter des armes blanches.
 * Vous protégez la banque à vous de recruter des agents de sécurité.
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
-* Vous gardez les printers des clients en sûreté.\
+* Vous gardez les printers des clients en sûreté.
+* Vous avez le droit d'avoir une arme de poing.\
 
 
 ### :taxi:<mark style="color:purple;">Chauffeur de taxi</mark>
