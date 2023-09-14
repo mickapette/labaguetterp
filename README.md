@@ -12,7 +12,7 @@
 
 <mark style="color:purple;">**05**</mark> - Le **Freetaze** : Tazer une personne sans raison <mark style="color:blue;">**valable**</mark>.
 
-<mark style="color:purple;">**06**</mark> - Le **FairPlay** : <mark style="color:blue;">**Respecter les**</mark> <mark style="color:blue;">**règles du jeu**</mark><mark style="color:blue;"><mark style="color:green;">**,**<mark style="color:green;"></mark> <mark style="color:blue;">**ne pas ce donner tous les avantages et donner une chance au plus petit de pouvoir s'en sortir**</mark>. Le but d'une action n'est pas de se finir en quelques minutes, mais bien d'allonger celle-ci afin de prendre plus de plaisir et que votre Rp vous soit satisfait à la fin de chaque action.
+<mark style="color:purple;">**06**</mark> - Le **FairPlay** : <mark style="color:blue;">**Respecter les règles du jeu,**</mark> <mark style="color:blue;">**ne pas ce donner tous les avantages et donner une chance au plus petit de pouvoir s'en sortir**</mark>. Le but d'une action n'est pas de se finir en quelques minutes, mais bien d'allonger celle-ci afin de prendre plus de plaisir et que votre Rp vous soit satisfait à la fin de chaque action.
 
 <mark style="color:purple;">**07**</mark> - Le **Propskill** : Tuer une personne avec un props est <mark style="color:red;">**interdit**</mark>.
 

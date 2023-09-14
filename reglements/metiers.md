@@ -65,6 +65,7 @@
 * Vous pouvez travailler avec d’autres marchands.
 * Vous ne pouvez pas être braquer.
 * Vous devez nourrir toute la ville.
+* Le bénéfice max pour la vente de pizza est de 20 000 $
 
 ### :hospital:<mark style="color:purple;">Samu</mark>
 
