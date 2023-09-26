@@ -45,6 +45,7 @@
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … ).
 * Le bénéfice max est de 10 000€.
 * Vous devez emmener vos clients d’un point A à un point B.
+* Vous pouvez faire une marge de 15% maximum sur les printers.
 
 ### :convenience\_store:<mark style="color:purple;">Dépanneur</mark>
 
@@ -148,6 +149,7 @@
 * Vous devez protéger les citoyens
 * Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
 * Il est permis d'abattre un joueur uniquement s'il représente une menace pour la vie d'autrui.
+* Interdiction d'utiliser Gauss sabot.
 
 ### <mark style="color:blue;">👨‍💼 \*WL\* IGPN</mark>
 

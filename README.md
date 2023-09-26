@@ -112,6 +112,8 @@ Il est impossible pour vous de participer ou d'influencer une action qui a déj�
 
 Il est interdit d’arnaquer ses clients d’une quelconque manière en tant que Banquier
 
+Il est interdit de braquer ni de tuer un cuisinier.
+
 ### &#x20;🏗️ <mark style="color:yellow;">Règles de construction</mark> 🏗️
 
 Les constructions "Role-Play" sont obligatoires ! Interdiction aux énormes constructions ou fluorescentes qui pique les yeux des autres joueurs sauf en cas d'un événement particulier annoncé à l'avance sur le Discord du serveur.
