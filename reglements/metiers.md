@@ -194,7 +194,6 @@
 * Vous devez respecter vos supérieurs
 * Vous devez protéger les citoyens et encadrer les opérations ( Prise d’otage, braquage de banque etc … )
 * Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
-* Interdiction d'utiliser Gauss sabot.
 
 ## <mark style="color:red;">Production</mark> :
 
