@@ -139,6 +139,7 @@
 * Vous avez l'obligation d'être le plus discret possible afin de ne pas rompre votre anonymat.
 * Vous devez infiltrer des gangs ou menez des enquêtes tout en étant discret.
 * Vous ne devez pas griller votre couverture pour de petits délits. (bagarre, code de la route, etc...)
+* Interdiction d'utiliser Gauss sabot.
 
 ### <mark style="color:blue;">👮‍♂️ Police</mark>
 
@@ -159,6 +160,7 @@
 * Vous vérifier le bon fonctionnement de la police
 * Vous devez protéger les citoyens
 * Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
+* Interdiction d'utiliser Gauss sabot.
 
 ### <mark style="color:blue;">Police Corrompu</mark>&#x20;
 
@@ -169,6 +171,7 @@
 * Vous avez le droit de faire payer des détenus pour les libérer (50 000€)
 * Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
 * Il est permis d'abattre un joueur uniquement s'il représente une menace pour la vie d'autrui.
+* Interdiction d'utiliser Gauss sabot.
 
 ### <mark style="color:blue;">RAID</mark>
 
@@ -180,6 +183,7 @@
 * Vous devez protéger les citoyens et encadrer les opérations ( Prise d’otage, braquage de banque etc … )
 * Il est interdit de patrouiller dans le métier RAID, sauf s'il n'y a pas de policier, ou une intervention lourde (Braquage de Banques, Prise d'otage)
 * Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
+* Interdiction d'utiliser Gauss sabot.
 
 ### <mark style="color:blue;">\*Premium\* Sniper Raid</mark>
 
@@ -190,6 +194,7 @@
 * Vous devez respecter vos supérieurs
 * Vous devez protéger les citoyens et encadrer les opérations ( Prise d’otage, braquage de banque etc … )
 * Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
+* Interdiction d'utiliser Gauss sabot.
 
 ## <mark style="color:red;">Production</mark> :
 
