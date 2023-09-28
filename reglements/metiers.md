@@ -231,6 +231,15 @@
 * Vous ne pouvez pas voler les ressources des autres
 * Vous n'avez pas la possibilité d'être braqué
 
+### <mark style="color:blue;">Fermier</mark>
+
+* Vous avez la possibilité de porter des armes de poings uniquement.
+* Vous pouvez travailler avec les autres foreurs.
+* Vous ne pouvez pas braquer.
+* Vous pouvez défendre votre production.
+* Vous ne pouvez pas voler les barils des autres.
+* Vous n'avez pas la possibilité d'être braqué.
+
 ## <mark style="color:red;">Illégaux</mark> :
 
 ### \*<mark style="color:yellow;">Premium</mark>\* <mark style="color:blue;">Psychopathe</mark>
