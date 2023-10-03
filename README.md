@@ -114,6 +114,8 @@ Il est interdit d’arnaquer ses clients d’une quelconque manière en tant que
 
 Il est interdit de braquer ni de tuer un cuisinier.
 
+Les règlements de plus de 1,000,000€ avec le terminal de paiement sont interdits.
+
 ### &#x20;🏗️ <mark style="color:yellow;">Règles de construction</mark> 🏗️
 
 Les constructions "Role-Play" sont obligatoires ! Interdiction aux énormes constructions ou fluorescentes qui pique les yeux des autres joueurs sauf en cas d'un événement particulier annoncé à l'avance sur le Discord du serveur.
