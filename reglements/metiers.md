@@ -35,7 +35,8 @@
 * Vous protégez la banque à vous de recruter des agents de sécurité.
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
 * Vous gardez les printers des clients en sûreté.
-* Vous ne pouvez pas utiliser vos propres printers.\
+* Vous ne pouvez pas utiliser vos propres printers.
+* Vous pouvez faire une marge de 15% maximum sur les printers.\
 
 
 ### :taxi:<mark style="color:purple;">Chauffeur de taxi</mark>
@@ -45,7 +46,6 @@
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … ).
 * Le bénéfice max est de 10 000€.
 * Vous devez emmener vos clients d’un point A à un point B.
-* Vous pouvez faire une marge de 15% maximum sur les printers.
 
 ### :convenience\_store:<mark style="color:purple;">Dépanneur</mark>
 
