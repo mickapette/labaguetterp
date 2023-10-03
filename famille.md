@@ -1,6 +1,6 @@
 # ☠ Famille
 
-### <mark style="color:blue;">Règle général</mark> <mark style="color:blue;"></mark><mark style="color:blue;">:</mark> <a href="#regle-general" id="regle-general"></a>
+### <mark style="color:blue;">Règle général :</mark> <a href="#regle-general" id="regle-general"></a>
 
 1. _Les familles ne sont pas à confondre avec les gangs de base sur le serveur (mafieux, gangsters, MS13, etc ...)_
 2. _Il y a une limitation de slots par job, par conséquent vous n'avez pas le droit aux alliances entre job, pas de mercenaires, pas d'autres jobs illégaux (sauf productions)_
@@ -12,7 +12,7 @@
 8. _Il est désormais interdit de communiquer et/ou d'utiliser des informations transmises/obtenues par vocal sur discord. Vous devez utiliser le système de Radio achetable dans le F4 (Catégorie "Items", sous-catégorie "Cargaison"). Celui qui transmet et celui qui utilise sont tous les deux coupable de Métagaming._
 9. Vous pouvez capturer un nombre de 3 drapeaux maximum (interdiction de capturer des points en étant dans un véhicule).
 
-### <mark style="color:blue;">Les relations entre gangs</mark> <mark style="color:blue;"></mark><mark style="color:blue;">:</mark> <a href="#les-relations-entre-gangs" id="les-relations-entre-gangs"></a>
+### <mark style="color:blue;">Les relations entre gangs :</mark> <a href="#les-relations-entre-gangs" id="les-relations-entre-gangs"></a>
 
 1. _Limitez les gun-fights et privilégiez les discussion, Les affrontements et la guerre sont les dernières solutions._
 2. _La communication se fait uniquement via radio ( parler IG et Discord en même temps ). Tout système d'appel en continue pour transmettre des infos ou bien système de bouton d'alerte alors que vous êtes menottés est formellement interdit ._
@@ -33,7 +33,7 @@
 3. _Le gagnant de la guerre remporte tous les drapeaux de la famille ennemie durant 2 semaines (cela signifie que votre limite passe de 3 ---> 6). Il est donc interdit de refaire une guerre ou de reprendre les drapeaux de la famille gagnant durant 2 semaines._
 4. _Remarques : Les CK doivent être absolument être validé par un Gérant DarkWeb.En cas de manquement au règlement, les Gérants du DarkWeb ou les staffs vous sanctionneront à la hauteur de l'infraction (attention cela peut aller jusqu'à la suppression du gang)._
 
-### <mark style="color:blue;">Discord Famille</mark> <mark style="color:blue;"></mark><mark style="color:blue;">:</mark> <a href="#regle-general" id="regle-general"></a>
+### <mark style="color:blue;">Discord Famille :</mark> <a href="#regle-general" id="regle-general"></a>
 
 1. _Le règlements de votre discord est soumis au même règles que le Discord DarkRP (cela signifie que vous pourrez vous faire ban du discord DarkRP si vous enfreigniez une règle sur le discord famille)_
 2. _Il est obligatoire pour les gérants Darkweb d'avoir accès à la totalité de votre discord (il doit au minimum voir tous les salons de votre discord sans exception.) Si cette règle n'est pas respecté et que vous refusez de passer l'accès au gérant vous vous exposez a un ban du discord DarkRP et vous serez banni de faire toutes action par rapport au famille IG (prise de drapeau, guerre)._
