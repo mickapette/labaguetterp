@@ -66,7 +66,7 @@ La police doit faire une course-poursuite pendant 5 minutes minimums avant de po
 
 Lorsqu’un joueur lève les mains en l’air ça veut dire qu’il se rend donc vous devez l’arrêter ou le prendre en otage mais vous ne pouvez plus le tuer !
 
-Les printers, les racks et les Bitminers sont illégals, le maire ne peut pas les rendre légal
+Les printers, les racks et les Bitminers sont illégals, le maire ne peut pas les rendre légaux
 
 Les pubs sont interdites sur le serveur
 
