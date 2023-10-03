@@ -45,11 +45,11 @@
 * Il faut demander l’autorisation à un Administrateur minimum.
 * Vous devez avoir un plan de dictature déjà prêt.
 
-## <mark style="color:purple;">Prise de drapeaux :</mark>
+## <mark style="color:purple;">Prise de drapeaux (famille) :</mark>
 
 * Afin d'effectuer une capture de drapeau vous devez annoncer la capture de celui-ci en anonyme en précisant le lieu de la capture
 * Un nombre de 3 somations sont obligatoires afin de défendre votre drapeau (Obligatoire de faire les sommations en face à face)
-* Il faut être minimum 2 (actifs) dans le même job pour capturer un drapeau
+* Il faut être minimum 2 (actifs) dans le même job / famille pour capturer un drapeau
 * Toutes les règles ci-dessus sont applicables aussi pour les défenseurs.
 * Vous pouvez au maximum capturer 3 drapeaux
 * Lors d'une guerre, vous pouvez capturer les drapeaux de l'ennemie en plus de la limite (3).
