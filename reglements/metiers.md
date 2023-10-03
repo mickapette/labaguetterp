@@ -12,7 +12,7 @@
 
 * _Vous avez la possibilité de porter des armes de poings / armes blanches ( seulement )._
 * _Vous devez avoir une licence d'armes pour utiliser votre arme de poing._
-* _Vous n’avez pas le droit de toucher à tout ce qui est illégal ( printers )._
+* _Vous n’avez pas le droit de toucher à tout ce qui est illégal ( printers / bitminers )._
 * _Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )._
 
 ### :no\_bell:<mark style="color:purple;">**SDF**</mark>
