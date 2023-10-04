@@ -116,6 +116,8 @@ Il est interdit de braquer ni de tuer un cuisinier.
 
 Les règlements de plus de 1,000,000€ avec le terminal de paiement sont interdits.
 
+Le personnage de policier et le personnage de famille et totalement diffèrent l'un de l'autre, il est interdit de prendre des informations en policier pour les réutiliser en famille
+
 ### &#x20;🏗️ <mark style="color:yellow;">Règles de construction</mark> 🏗️
 
 Les constructions "Role-Play" sont obligatoires ! Interdiction aux énormes constructions ou fluorescentes qui pique les yeux des autres joueurs sauf en cas d'un événement particulier annoncé à l'avance sur le Discord du serveur.
