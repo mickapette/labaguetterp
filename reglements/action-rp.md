@@ -49,7 +49,7 @@
 
 * Afin d'effectuer une capture de drapeau vous devez annoncer la capture de celui-ci en anonyme en précisant le lieu de la capture
 * Un nombre de 3 somations sont obligatoires afin de défendre votre drapeau (Obligatoire de faire les sommations en face à face)
-* Il faut être minimum 2 (actifs) dans le même job / famille pour capturer un drapeau
+* Il faut être minimum 2 présent au niveau du travaux et (actifs) dans le même gang / famille pour capturer un drapeau&#x20;
 * Toutes les règles ci-dessus sont applicables aussi pour les défenseurs.
 * Vous pouvez au maximum capturer 3 drapeaux
 * Lors d'une guerre, vous pouvez capturer les drapeaux de l'ennemie en plus de la limite (3).
