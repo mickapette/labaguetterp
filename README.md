@@ -118,6 +118,8 @@ Les règlements de plus de 1,000,000€ avec le terminal de paiement sont interd
 
 Le personnage de policier et le personnage de famille et totalement diffèrent l'un de l'autre, il est interdit de prendre des informations en policier pour les réutiliser en famille
 
+Il est interdit de mettre des matériaux sur les entités (printers / bitminers / farm / etc...)
+
 ### &#x20;🏗️ <mark style="color:yellow;">Règles de construction</mark> 🏗️
 
 Les constructions "Role-Play" sont obligatoires ! Interdiction aux énormes constructions ou fluorescentes qui pique les yeux des autres joueurs sauf en cas d'un événement particulier annoncé à l'avance sur le Discord du serveur.
@@ -155,6 +157,8 @@ Les meurtrières sont interdites, c’est le fait de faire une construction avec
 Il est interdit de faire des boites / des pièces totalement noires (ou une construction qui a comme objectif qu'on ne voit rien) !
 
 Il est interdit de faire des constructions en forme de labyrinthe.
+
+Il est interdit de mettre un matériau sur quelconque keypad / bouton
 
 ### Application du bannissement en cas d'infractions
 
