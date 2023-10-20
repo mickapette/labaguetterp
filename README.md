@@ -160,6 +160,8 @@ Il est interdit de faire des constructions en forme de labyrinthe.
 
 Il est interdit de mettre un matériau sur quelconque keypad / bouton
 
+Il est interdit de faire un périmètre de construction supérieur à un bâtiment (exception du quartier guetteur)
+
 ### Application du bannissement en cas d'infractions
 
 | Infraction | Durée du banissement |
