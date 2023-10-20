@@ -352,7 +352,7 @@
 * Vous devez être minimum 2 pour effectuer une prise d'otage.
 * Vous ne pouvez pas vous /job pour changer le nom du métier
 
-## <mark style="color:orange;">Gouvernement</mark> :
+## <mark style="color:orange;">Halloween</mark> :
 
 ### <mark style="color:blue;">Batman / Robin :</mark>&#x20;
 
