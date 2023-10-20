@@ -58,6 +58,13 @@
 * Vos clients n’ont pas le droit de vous braquer pour ne pas payer.
 * Lorsqu'un véhicule est mal stationné, aucune personne ne peut interdire de remorquer le véhicule sauf les forces de l'ordre.
 
+### <mark style="color:purple;">🚮Eboueur</mark>
+
+* Vous n’avez pas la possibilité de porter des armes.
+* Vous n’avez pas le droit de faire de l’illégale ( printers / bitminers/ etc... ).
+* Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
+* Vous récupérez les déchets dans la ville.
+
 ### :cook:<mark style="color:purple;">Cuisinier</mark>
 
 * Vous avez la possibilité de porter des armes blanches ( seulement ).
