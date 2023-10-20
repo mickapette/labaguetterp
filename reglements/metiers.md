@@ -64,6 +64,8 @@
 * Vous n’avez pas le droit de faire de l’illégale ( printers / bitminers/ etc... ).
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
 * Vous récupérez les déchets dans la ville.
+* Vous ne pouvez pas vous faire racket/braquer
+* Vous ne pouvez pas vous faire voler votre véhicule de fonction (Ford Transit)
 
 ### :cook:<mark style="color:purple;">Cuisinier</mark>
 
