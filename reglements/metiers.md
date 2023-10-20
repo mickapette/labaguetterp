@@ -351,3 +351,19 @@
 * Il y a une limitation de slots pour votre job perso, par conséquent vous n'avez pas le droit aux alliances entre job, pas de mercenaires, pas d'autres jobs illégaux (sauf productions)
 * Vous devez être minimum 2 pour effectuer une prise d'otage.
 * Vous ne pouvez pas vous /job pour changer le nom du métier
+
+## <mark style="color:orange;">Gouvernement</mark> :
+
+### <mark style="color:blue;">Batman / Robin :</mark>&#x20;
+
+* Vous avez la possibilité de porter tout types d’armes
+* Vous pouvez faire une alliance entre vous deux. (pas d'alliance avec la police)
+* Vous devez protéger la ville contre les malfrats (Deux faces / hommes crocodiles)
+* Vous indiquez l'emplacement des suspects à la police dès la capture des malfaiteurs
+
+### <mark style="color:red;">Deux Faces / Hommes Crocodile</mark> <mark style="color:blue;">:</mark>&#x20;
+
+* Vous avez la possibilité de porter tout types d’armes
+* Vous pouvez faire une alliance entre vous deux. (pas d'alliance avec les gangs / familles)
+* Vous devez augmenter le taux de criminalité dans la ville et vous protégez des justiciers (batman / robin)
+* Vous agissez comme bon vous semble en respectant les règles de la ville.
