@@ -362,6 +362,7 @@
 * Vous pouvez faire une alliance entre vous deux. (pas d'alliance avec la police)
 * Vous devez protéger la ville contre les malfrats (Deux faces / hommes crocodiles)
 * Vous indiquez l'emplacement des suspects à la police dès la capture des malfaiteurs
+* Vous agissez en respectant les règles de la ville.
 
 ### <mark style="color:red;">Deux Faces / Hommes Crocodile</mark> <mark style="color:blue;">:</mark>&#x20;
 
