@@ -80,7 +80,9 @@ Vous n’avez pas le droit de construire durant une action.
 
 Si vous voulez construire votre maison sans être braqué, vous devez mettre un textscreen au-dessus de la porte stipulant que vous êtes en construction, de ce fait vous n'aurez pas le droit de farm durant la période de construction (l'abus est interdit)
 
-3 sommations orales claires et distinctes sont nécessaires avant de tuer une personne non-armée / armée (Il est interdit de faire des sommations pour une autre personne)
+3 sommations orales claires et distinctes sont nécessaires avant de tuer une personne non-armée / armée
+
+Il est interdit de faire des sommations pour une autre personne
 
 Vous ne pouvez en aucun cas vous procurer des objets et des armes pendant une action RP.
 
