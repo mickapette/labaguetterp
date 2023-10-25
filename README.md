@@ -82,7 +82,7 @@ Si vous voulez construire votre maison sans être braqué, vous devez mettre un 
 
 3 sommations orales claires et distinctes sont nécessaires avant de tuer une personne non-armée / armée
 
-Il est interdit de faire des sommations pour une autre personne
+Il est interdit de faire des sommations pour une autre personne (pour les personnes menottés ou braqués)
 
 Vous ne pouvez en aucun cas vous procurer des objets et des armes pendant une action RP.
 
