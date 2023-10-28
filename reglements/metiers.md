@@ -224,7 +224,7 @@
 
 ### <mark style="color:blue;">Foreur de Pétrole</mark>
 
-* Vous avez la possibilité de porter des armes de poings ( seulement )
+* Vous avez la possibilité de porter des armes de poings et armes blanches ( seulement )
 * Vous pouvez travailler avec les autres foreurs
 * Vous ne pouvez pas braquer
 * Vous pouvez défendre votre production
@@ -233,7 +233,7 @@
 
 ### <mark style="color:blue;">Cultivateur d'Or</mark>
 
-* Vous avez la possibilité de porter des armes de poings ( seulement )
+* Vous avez la possibilité de porter des armes de poings et armes blanches ( seulement )
 * Vous pouvez travailler avec les autres cultivateurs
 * Vous ne pouvez pas braquer
 * Vous pouvez défendre votre production
@@ -242,7 +242,7 @@
 
 ### <mark style="color:blue;">Fermier</mark>
 
-* Vous avez la possibilité de porter des armes de poings uniquement.
+* Vous avez la possibilité de porter des armes de poings et armes blanches ( seulement )
 * Vous pouvez travailler avec les autres fermiers.
 * Vous ne pouvez pas braquer.
 * Vous pouvez défendre votre production.
