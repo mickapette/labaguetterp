@@ -216,7 +216,7 @@
 
 ### <mark style="color:blue;">Mineur</mark>
 
-* Vous avez la possibilité de porter des armes de poings ( seulement )
+* Vous avez la possibilité de porter des armes de poings et armes blanches ( seulement )
 * Vous pouvez travailler avec les autres mineurs
 * Vous ne pouvez pas braquer
 * Vous pouvez défendre votre production
