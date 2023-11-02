@@ -4,7 +4,7 @@
 
 1. _Les familles ne sont pas à confondre avec les gangs de base sur le serveur (mafieux, gangsters, MS13, etc ...)_
 2. _Il y a une limitation de slots par job, par conséquent vous n'avez pas le droit aux alliances entre job, pas d'autres jobs illégaux (sauf productions)_
-3. _Vous avez la possibilité de faire alliance avec seulement 1 mercenaire par famille._
+3. _Vous avez la possibilité de travailler avec seulement 1 mercenaire par famille._
 4. _Vous pouvez demander a une autre famille un contrat payant pour effectuer des services (demande d'information sur un membre de famille / exécution d'une personne mais en aucun cas une action type prise d'otage ou braquage de banque ) (il faut garder la preuve de l'échange d'argent au cas où elle serait demandé par un staff / ces contrats ne veulent pas dire qu'une famille est en alliance avec une autre ). La somme minimum pour un contrat est de : 500 000$._
 5. _Vous avez obligatoirement votre carte d'identités sur vous_
 6. _Interdit d'appartenir à deux familles différentes_
