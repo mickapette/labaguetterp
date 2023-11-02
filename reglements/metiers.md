@@ -71,11 +71,9 @@
 
 * Vous avez la possibilité de porter des armes blanches ( seulement ).
 * Vous n’avez pas le droit de faire de l’illégale ( printers ).
-* Le bénéfice max est de 25 000€. (3000€ par aliment configuré sur votre Terminale)
 * Vous pouvez travailler avec d’autres marchands.
 * Vous ne pouvez pas être braquer.
 * Vous devez nourrir toute la ville.
-* Le bénéfice max pour la vente de pizza est de 20 000 $
 
 ### :hospital:<mark style="color:purple;">Samu</mark>
 
