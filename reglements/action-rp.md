@@ -4,7 +4,7 @@
 
 * Il faut au minimum 4 forces de l’ordre
 * Vous devez être 3 au minimum pour engager celle-ci
-* Les rançons sont de : 100 000€ pour les citoyens et de 250 000€ pour les personnes du gouvernement (police, swat, maire, garde du maire, secrétaire du maire.)
+* Les rançons sont de : 100 000€ pour les citoyens et de 250 000€ pour les personnes du gouvernement (gendarme, gign, maire, garde du maire, secrétaire du maire, juge, avocat )
 * Vous devez attendre 30 minutes avant de pouvoir refaire une prise d’otages (P-O).
 * Il est interdit d'ajouter un otage lorsque la prise d'otages a commencé.
 
@@ -30,7 +30,7 @@
 * Vous devez être 2 au minimum pour engager celle-ci.
 * Vous devez attendre 30 minutes avant de pouvoir refaire un braquage de banque.
 * Vous devez être armés.
-* Il est obligé de demander une négociation dès le lancement du braquage de banque ( dans les deux sens : Illégale et Police )
+* Il est obligé de demander une négociation dès le lancement du braquage de banque ( dans les deux sens : Illégale et Gendarmerie )
 
 ## <mark style="color:purple;">**Braquage de supérette**</mark>** :**
 
