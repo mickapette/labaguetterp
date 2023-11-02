@@ -3,14 +3,15 @@
 ### <mark style="color:blue;">Règle général :</mark> <a href="#regle-general" id="regle-general"></a>
 
 1. _Les familles ne sont pas à confondre avec les gangs de base sur le serveur (mafieux, gangsters, MS13, etc ...)_
-2. _Il y a une limitation de slots par job, par conséquent vous n'avez pas le droit aux alliances entre job, pas de mercenaires, pas d'autres jobs illégaux (sauf productions)_
-3. _Vous pouvez demander a une autre famille un contrat payant pour effectuer des services (demande d'information sur un membre de famille / exécution d'une personne mais en aucun cas une action type prise d'otage ou braquage de banque ) (il faut garder la preuve de l'échange d'argent au cas où elle serait demandé par un staff / ces contrats ne veulent pas dire qu'une famille est en alliance avec une autre ). La somme minimum pour un contrat est de : 500 000$._
-4. _Vous avez obligatoirement votre carte d'identités sur vous_
-5. _Interdit d'appartenir à deux familles différentes_
-6. _Lorsque vous êtes dans une famille il est interdit de changer de nom RP sans l'accord d'un Gérant DarkWeb_
-7. _Il est interdit de trash les autres familles, seulement la provocation est accepté, les insultes en anonymes sont formellement interdit._
-8. _Il est désormais interdit de communiquer et/ou d'utiliser des informations transmises/obtenues par vocal sur discord. Vous devez utiliser le système de Radio achetable dans le F4 (Catégorie "Items", sous-catégorie "Cargaison"). Celui qui transmet et celui qui utilise sont tous les deux coupable de Métagaming._
-9. Vous pouvez capturer un nombre de 3 drapeaux maximum (interdiction de capturer des points en étant dans un véhicule).
+2. _Il y a une limitation de slots par job, par conséquent vous n'avez pas le droit aux alliances entre job, pas d'autres jobs illégaux (sauf productions)_
+3. _Vous avez la possibilité de faire alliance avec seulement 1 mercenaire par famille._
+4. _Vous pouvez demander a une autre famille un contrat payant pour effectuer des services (demande d'information sur un membre de famille / exécution d'une personne mais en aucun cas une action type prise d'otage ou braquage de banque ) (il faut garder la preuve de l'échange d'argent au cas où elle serait demandé par un staff / ces contrats ne veulent pas dire qu'une famille est en alliance avec une autre ). La somme minimum pour un contrat est de : 500 000$._
+5. _Vous avez obligatoirement votre carte d'identités sur vous_
+6. _Interdit d'appartenir à deux familles différentes_
+7. _Lorsque vous êtes dans une famille il est interdit de changer de nom RP sans l'accord d'un Gérant DarkWeb_
+8. _Il est interdit de trash les autres familles, seulement la provocation est accepté, les insultes en anonymes sont formellement interdit._
+9. _Il est désormais interdit de communiquer et/ou d'utiliser des informations transmises/obtenues par vocal sur discord. Vous devez utiliser le système de Radio achetable dans le F4 (Catégorie "Items", sous-catégorie "Cargaison"). Celui qui transmet et celui qui utilise sont tous les deux coupable de Métagaming._
+10. Vous pouvez capturer un nombre de 3 drapeaux maximum (interdiction de capturer des points en étant dans un véhicule).
 
 ### <mark style="color:blue;">Les relations entre gangs :</mark> <a href="#les-relations-entre-gangs" id="les-relations-entre-gangs"></a>
 
@@ -19,14 +20,14 @@
 3. _Si une famille arrive à défendre le point que vous essayez d'attaquer, vous ne pouvez plus l'attaquer pendant 2h (réfléchissez donc à une bonne stratégie lors des attaques !)._
 4. _Il est nécessaire d'avoir des raisons RP pour envisager une guerre contre une autre famille (meurtre, embrouille, attaque, etc ...)_
 
-### <mark style="color:blue;">La guerre In-Game</mark> <mark style="color:blue;"></mark><mark style="color:blue;">:</mark> <a href="#la-guerre-in-game" id="la-guerre-in-game"></a>
+### <mark style="color:blue;">La guerre In-Game :</mark> <a href="#la-guerre-in-game" id="la-guerre-in-game"></a>
 
 1. _Pour remporter une guerre, il suffit d'avoir le plus de Character-Kill possible. (Il n'y a plus de territoire sur le serveur.)_
 2. _Lorsque que vous êtes CK durant la guerre, vous ne pouvez plus vous mettre dans le job famille le temps de la guerre._
 3. _Durant la guerre, si une ou plusieurs erreurs RP sont commises, vous serez ban 12 heures. (à vous de faire attention à votre RP, vous devez être irréprochable.)_
 4. _(Pendant les guerres, vous pouvez seulement utiliser les armes vendues par les gérants darkweb (vos armes perm peuvent toujours servir dans n'importe quelles autres situations). Elles sont distribuées lors de vente aux enchères ou alors à la demande, sur le discord darkrp section darkweb)_
 
-### <mark style="color:blue;">Le character kill (CK)</mark> <mark style="color:blue;"></mark><mark style="color:blue;">:</mark> <a href="#le-character-kill-ck" id="le-character-kill-ck"></a>
+### <mark style="color:blue;">Le character kill (CK) :</mark> <a href="#le-character-kill-ck" id="le-character-kill-ck"></a>
 
 1. _Pour effectuer un character kill, vous devez avoir une preuve (un rec ou un screen) que vous connaissez (de façon RP) le nom du membre du gang ennemi._
 2. _La famille qui a le plus de CK remporte la guerre._
