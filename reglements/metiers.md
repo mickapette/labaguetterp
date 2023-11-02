@@ -54,7 +54,7 @@
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
 * Le bénéfice max est de 15 000€.
 * Vous n’avez pas le droit de menacer vos clients pour qu’ils vous paient plus.
-* Vous ne pouvez pas mettre à la fourrière des véhicules de fonctions (Police, Samu et FBI).
+* Vous ne pouvez pas mettre à la fourrière des véhicules de fonctions (Gendarme, Samu et PSIG).
 * Vos clients n’ont pas le droit de vous braquer pour ne pas payer.
 * Lorsqu'un véhicule est mal stationné, aucune personne ne peut interdire de remorquer le véhicule sauf les forces de l'ordre.
 
@@ -110,6 +110,20 @@
 * Vous n’avez pas le droit de faire de l’illégale ( printers sauf dictature )
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
 
+### 👔<mark style="color:blue;">Avocat</mark>
+
+* Vous n’avez pas la possibilité de porter des armes
+* Vous n’avez pas le droit de faire de l’illégale ( printers )
+* Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
+* Vous prenez en charge les accusés
+
+### 🧑‍⚖️<mark style="color:blue;">Juge</mark>
+
+* Vous n’avez pas la possibilité de porter des armes
+* Vous n’avez pas le droit de faire de l’illégale ( printers )
+* Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
+* Vous prenez en charge les audiences et jugé la peine nécessaire pour les accusés
+
 ### <mark style="color:blue;">👩‍🦰 Secrétaire du Maire</mark>
 
 * Vous n’avez pas la possibilité de porter des armes
@@ -135,7 +149,7 @@
 
 ## <mark style="color:red;">Force de l'ordre</mark> :
 
-### <mark style="color:blue;">🕵️‍♂️ \*Premium\* BAC</mark>
+### <mark style="color:blue;">🕵️‍♂️ \*Premium\* PSIG</mark>
 
 * Vous avez la possibilité de porter des armes lourdes ( sauf sniper / ( freedom autorisé) )
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
@@ -150,7 +164,7 @@
 * Vous ne devez pas griller votre couverture pour de petits délits. (bagarre, code de la route, etc...)
 * Interdiction d'utiliser Gauss sabot.
 
-### <mark style="color:blue;">👮‍♂️ Police</mark>
+### <mark style="color:blue;">👮‍♂️ Gendarme</mark>
 
 * Vous avez la possibilité de porter des armes lourdes ( sauf sniper pour lieutenant minimum / ( freedom autorisé) )
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
@@ -161,40 +175,40 @@
 * Il est permis d'abattre un joueur uniquement s'il représente une menace pour la vie d'autrui.
 * Interdiction d'utiliser Gauss sabot.
 
-### <mark style="color:blue;">👨‍💼 \*WL\* IGPN</mark>
+### <mark style="color:blue;">👨‍💼 \*WL\* IGGN</mark>
 
 * Vous avez la possibilité de porter des armes lourdes
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
 * Vous ne pouvez pas être corrompu
-* Vous vérifier le bon fonctionnement de la police
+* Vous vérifier le bon fonctionnement de la gendarmerie
 * Vous devez protéger les citoyens
 * Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
 * Interdiction d'utiliser Gauss sabot.
 
-### <mark style="color:blue;">Police Corrompu</mark>&#x20;
+### <mark style="color:blue;">Gendarme Corrompu</mark>&#x20;
 
 * Vous avez la possibilité de porter des armes lourdes sauf sniper.
 * Vous n’avez pas le droit de faire de l’illégale (printer,racket,cambriolage etc...)
-* Vous avez le droit de vous /job en Policier seulement (pas de Police Haut-Gradé, etc)
+* Vous avez le droit de vous /job en Policier seulement (pas de Gendarme Haut-Gradé, etc)
 * Vous n'avez pas le droit d'abuser de votre job (freetaze, freekill vos collèges)
 * Vous avez le droit de faire payer des détenus pour les libérer (50 000€)
 * Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
 * Il est permis d'abattre un joueur uniquement s'il représente une menace pour la vie d'autrui.
 * Interdiction d'utiliser Gauss sabot.
 
-### <mark style="color:blue;">RAID</mark>
+### <mark style="color:blue;">GIGN</mark>
 
 * Vous avez la possibilité de porter des armes lourdes
-* En dehors du job "Sniper du RAID" vous n'avez pas le droit au sniper
+* En dehors du job "Sniper du GIGN" vous n'avez pas le droit au sniper
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
 * Vous ne pouvez pas être corrompu
 * Vous devez respecter vos supérieurs
 * Vous devez protéger les citoyens et encadrer les opérations ( Prise d’otage, braquage de banque etc … )
-* Il est interdit de patrouiller dans le métier RAID, sauf s'il n'y a pas de policier, ou une intervention lourde (Braquage de Banques, Prise d'otage)
+* Il est interdit de patrouiller dans le métier GIGN, sauf s'il n'y a pas de policier, ou une intervention lourde (Braquage de Banques, Prise d'otage)
 * Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
 * Interdiction d'utiliser Gauss sabot.
 
-### <mark style="color:blue;">\*Premium\* Sniper Raid</mark>
+### <mark style="color:blue;">\*Premium\* Sniper GIGN</mark>
 
 * Vous avez la possibilité de porter des armes lourdes et sniper
 * Vous devez principalement rester sur les toits
@@ -345,21 +359,3 @@
 * Vous avez la possibilité de porter tout types d’armes
 * Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Mafieux, Yakuza, Cripz, Bloodz et Braqueurs.
 * Vous ne pouvez pas vous /job pour changer le nom du métier
-
-## <mark style="color:orange;">Halloween</mark> :
-
-### <mark style="color:blue;">Batman / Robin :</mark>&#x20;
-
-* Vous avez la possibilité de porter tout types d’armes
-* Vous pouvez faire une alliance entre vous deux. (pas d'alliance avec la police)
-* Vous devez protéger la ville contre les malfrats (Deux faces / hommes crocodiles)
-* Vous indiquez l'emplacement des suspects à la police dès la capture des malfaiteurs
-* Vous agissez en respectant les règles de la ville.
-* Vous devez avoir une raison RP valable pour arrêter Deux Faces ou Hommes Crocodile
-
-### <mark style="color:red;">Deux Faces / Hommes Crocodile</mark> <mark style="color:blue;">:</mark>&#x20;
-
-* Vous avez la possibilité de porter tout types d’armes
-* Vous pouvez faire une alliance entre vous deux. (pas d'alliance avec les gangs / familles)
-* Vous devez augmenter le taux de criminalité dans la ville et vous protégez des justiciers (batman / robin)
-* Vous agissez comme bon vous semble en respectant les règles de la ville.
