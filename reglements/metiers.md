@@ -298,6 +298,7 @@
 * Vous devez trouver un employeur
 * Vous n’avez pas le droit de braquer pour votre compte
 * Vous pouvez rompre des contrats dans le but d’aider des opposants
+* Vous avez la possibilité de travaillé pour une famille (1 seul mercenaire par famille)
 
 ### <mark style="color:blue;">Voleur</mark>
 
