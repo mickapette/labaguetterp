@@ -270,6 +270,13 @@
 * Vous devez neutraliser vos cibles dans des lieux discrets
 * Vous avez le droit de cacher votre profession ( /job citoyen … )
 
+### \*<mark style="color:yellow;">Premium</mark>\* <mark style="color:blue;">Trafiquant d'Organe</mark>
+
+* Vous avez la possibilité de porter des armes blanches ( seulement )
+* Vous n’avez pas le droit de faire de braquage, prises d’otages etc …
+* Vous devez neutraliser vos cibles dans des lieux discrets
+* Vous avez le droit de cacher votre profession ( /job citoyen … )
+
 ### \*<mark style="color:yellow;">Premium</mark>\* <mark style="color:blue;">Rebelle</mark>
 
 * Vous avez la possibilité de porter seulement vos armes de spawn
