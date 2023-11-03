@@ -36,7 +36,7 @@
 
 * Il faut au minimum 4 forces de l’ordre.
 * Vous devez être 3 au minimum pour engager celle-ci.
-* Vous devez attendre 30 minutes avant de pouvoir refaire un braquage de banque.
+* Vous devez attendre 30 minutes avant de pouvoir refaire un braquage de la gendarmerie.
 * Vous devez être armés.
 
 ## <mark style="color:purple;">**Braquage de supérette**</mark>** :**
