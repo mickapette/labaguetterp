@@ -122,6 +122,14 @@ Le personnage de policier et le personnage de famille et totalement diffèrent l
 
 Il est interdit de mettre des matériaux sur les entités (printers / bitminers / farm / etc...)
 
+Il est interdit de vendre vos armes permanentes contre de l'argent IG.
+
+Vous devez respecter les prix des armes indiqué sur le site ou via la commande !vente .
+
+Vous pouvez échanger vos armes contre d'autres armes perms en faisant l'équivalent en upoints.
+
+Les arnaques sont interdites et punisable d'un ban permenant !
+
 ### &#x20;🏗️ <mark style="color:yellow;">Règles de construction</mark> 🏗️
 
 Les constructions "Role-Play" sont obligatoires ! Interdiction aux énormes constructions ou fluorescentes qui pique les yeux des autres joueurs sauf en cas d'un événement particulier annoncé à l'avance sur le Discord du serveur.
