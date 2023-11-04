@@ -130,6 +130,8 @@ Vous pouvez échanger vos armes contre d'autres armes perms en faisant l'équiva
 
 Les arnaques sont interdites et punisable d'un ban permenant !
 
+Il est interdit d'avoir un jeu de mots avec son nom Rp, ainsi que le nom d'une personnalité publique
+
 ### &#x20;🏗️ <mark style="color:yellow;">Règles de construction</mark> 🏗️
 
 Les constructions "Role-Play" sont obligatoires ! Interdiction aux énormes constructions ou fluorescentes qui pique les yeux des autres joueurs sauf en cas d'un événement particulier annoncé à l'avance sur le Discord du serveur.
