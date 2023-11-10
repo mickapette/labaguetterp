@@ -229,6 +229,7 @@
 ### <mark style="color:blue;">Mineur</mark>
 
 * Vous avez la possibilité de porter des armes de poings et armes blanches ( seulement )
+* Vous ne pouvez pas faire de l'illégale (printers / bitminers / etc ...)
 * Vous pouvez travailler avec les autres mineurs
 * Vous ne pouvez pas braquer
 * Vous pouvez défendre votre production
@@ -237,6 +238,7 @@
 ### <mark style="color:blue;">Foreur de Pétrole</mark>
 
 * Vous avez la possibilité de porter des armes de poings et armes blanches ( seulement )
+* Vous ne pouvez pas faire de l'illégale (printers / bitminers / etc ...)
 * Vous pouvez travailler avec les autres foreurs
 * Vous ne pouvez pas braquer
 * Vous pouvez défendre votre production
@@ -255,10 +257,21 @@
 ### <mark style="color:blue;">Fermier</mark>
 
 * Vous avez la possibilité de porter des armes de poings et armes blanches ( seulement )
+* Vous ne pouvez pas faire de l'illégale (printers / bitminers / etc ...)
 * Vous pouvez travailler avec les autres fermiers.
 * Vous ne pouvez pas braquer.
 * Vous pouvez défendre votre production.
 * Vous ne pouvez pas voler les plantations / pots / des autres fermiers..
+* Vous n'avez pas la possibilité d'être braqué.
+
+### <mark style="color:blue;">Bucheron</mark>
+
+* Vous avez la possibilité de porter des armes de poings et armes blanches ( seulement )
+* Vous ne pouvez pas faire de l'illégale (printers / bitminers / etc ...)
+* Vous pouvez travailler avec les autres bucherons.
+* Vous ne pouvez pas braquer.
+* Vous pouvez défendre votre production.
+* Vous ne pouvez pas voler les planches / rondins / des autres bucherons..
 * Vous n'avez pas la possibilité d'être braqué.
 
 ## <mark style="color:red;">Illégaux</mark> :
