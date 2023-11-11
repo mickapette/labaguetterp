@@ -164,7 +164,7 @@
 
 ### <mark style="color:blue;">👮‍♂️ Gendarme</mark>
 
-* Vous avez la possibilité de porter des armes lourdes ( sauf sniper pour lieutenant minimum / ( freedom autorisé) )
+* Vous avez la possibilité de porter des armes lourdes ( sauf sniper pour Sous-Lieutenant minimum / ( freedom autorisé) )
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
 * Vous ne pouvez pas être corrompu
 * Vous devez respecter vos supérieurs
