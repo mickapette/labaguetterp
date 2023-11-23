@@ -339,41 +339,41 @@
 ### <mark style="color:blue;">Gangster</mark>
 
 * Vous avez la possibilité de porter tous types d’armes
-* Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Mafieux, Yakuza, Cripz, Bloodz, Braqueurs et Guetteurs.
+* Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Mafieux, Yakuza, Cripz, Bloodz, Russes et ms13.
 * Vous ne pouvez pas vous /job pour changer le nom du métier
 
 ### <mark style="color:blue;">Mafieux</mark>
 
 * Vous avez la possibilité de porter tout types d’armes
-* Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Gangster, Yakuza, Cripz, Bloodz, Braqueurs et Guetteurs.
+* Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Gangster, Yakuza, Cripz, Bloodz, Russes et ms13.
 * Vous ne pouvez pas vous /job pour changer le nom du métier
 
 ### <mark style="color:blue;">Yakuza</mark>
 
 * Vous avez la possibilité de porter tout types d’armes
-* Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Mafieux, Cripz, Bloodz, Braqueurs et Guetteurs.
+* Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Mafieux, Cripz, Bloodz, Russes et ms13.
 * Vous ne pouvez pas vous /job pour changer le nom du métier
 
 ### <mark style="color:blue;">Cripz</mark>
 
 * Vous avez la possibilité de porter tout types d’armes
-* Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Mafieux, Yakuza, Bloodz, Braqueurs et Guetteurs
+* Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Mafieux, Yakuza, Bloodz, Russes et ms13
 * Vous ne pouvez pas vous /job pour changer le nom du métier
 
 ### <mark style="color:blue;">Bloodz</mark>
 
 * Vous avez la possibilité de porter tout types d’armes
-* Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Mafieux, Yakuza, Cripz, Braqueurs et Guetteurs
+* Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Mafieux, Yakuza, Cripz, Russes et ms13
 * Vous ne pouvez pas vous /job pour changer le nom du métier
 
-### <mark style="color:blue;">Braqueurs</mark>
+### <mark style="color:blue;">Russes</mark>
 
 * Vous avez la possibilité de porter tout types d’armes
-* Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Mafieux, Yakuza, Cripz, Bloodz et Guetteurs
+* Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Mafieux, Yakuza, Cripz, Bloodz et ms13
 * Vous ne pouvez pas vous /job pour changer le nom du métier
 
-### <mark style="color:blue;">Guetteurs</mark>
+### <mark style="color:blue;">MS13</mark>
 
 * Vous avez la possibilité de porter tout types d’armes
-* Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Mafieux, Yakuza, Cripz, Bloodz et Braqueurs.
+* Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Mafieux, Yakuza, Cripz, Bloodz et Russes.
 * Vous ne pouvez pas vous /job pour changer le nom du métier
