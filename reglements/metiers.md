@@ -65,7 +65,7 @@
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
 * Vous récupérez les déchets dans la ville.
 * Vous ne pouvez pas vous faire racket/braquer
-* Vous ne pouvez pas vous faire voler votre véhicule de fonction (Ford Transit)
+* Vous ne pouvez pas vous faire voler votre véhicule de fonction (Ford F100)
 
 ### :cook:<mark style="color:purple;">Cuisinier</mark>
 
