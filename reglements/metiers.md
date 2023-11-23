@@ -171,7 +171,7 @@
 * Vous devez protéger les citoyens
 * Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
 * Il est permis d'abattre un joueur uniquement s'il représente une menace pour la vie d'autrui.
-* Interdiction d'utiliser Gauss sabot.
+* Interdiction d'utiliser Gauss sabot (sauf à partir de sous-lieutenant)
 
 ### <mark style="color:blue;">👨‍💼 \*WL\* IGGN</mark>
 
@@ -181,7 +181,6 @@
 * Vous vérifier le bon fonctionnement de la gendarmerie
 * Vous devez protéger les citoyens
 * Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
-* Interdiction d'utiliser Gauss sabot.
 
 ### <mark style="color:blue;">Gendarme Corrompu</mark>&#x20;
 
