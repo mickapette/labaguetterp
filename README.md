@@ -96,7 +96,7 @@ Quand vous mourrez ou changez de job vous oubliez tout ce qu’il s’est passé
 
 Lorsqu'un véhicule blindé est à l'arrêt ou à une vitesse faible (moins de 10 km/h), vous êtes obligé de jouer votre fear RP.
 
-Les propos racistes, xénophobes, homophobes, ou tout autre propos à caractère haineux est strictement interdit
+Les propos racistes, xénophobes, homophobes, ou tout autre propos à caractère haineux est strictement interdit (pas de savonnette)
 
 Les insultes parentales / familiales sont formellement interdites
 

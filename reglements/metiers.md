@@ -326,14 +326,6 @@
 * Vous pouvez racketter seulement 50 000€
 * Vous devez être discret
 
-### <mark style="color:blue;">Hackeur ATM</mark>
-
-* Vous avez la possibilité de porter des armes de poings et blanches (seulement)
-* Vous n’avez pas le droit de faire de braquage, prises d’otages etc …
-* Vous pouvez hacker les atm que s’il y a 20 joueurs minimum et qu’il y ait 3 forces de l’ordres
-* Vous pouvez faire de l’illégal (printers,etc,....)
-* Vous devez être discret
-
 ## <mark style="color:red;">**Gang (Non Légal)**</mark>** :**
 
 ### <mark style="color:blue;">Gangster</mark>
