@@ -21,6 +21,15 @@
 * _Vous n’avez pas le droit de toucher à tout ce qui est illégal ( printers )._
 * _Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )._
 
+### :dog2:<mark style="color:purple;">**Chien**</mark>
+
+* Vous n'avez pas la possibilité de porter des armes.
+* Vous pouvez être adopté par quelqu'un (job légal ou illégal).
+* Il est interdit d'attaquer quelqu'un sans raison valable.
+* Vous ne pouvez pas faire de braquage, de cambriolage, de racket, de prise d'otage, etc.
+* Vous n'avez pas le droit de faire des printers, Bitcoin, de la weed, etc. (uniquement la personne qui vous a adopté).
+* Il est interdit de parler, vous pouvez simplement aboyer
+
 ## <mark style="color:red;">Services</mark> :
 
 ### :closed\_lock\_with\_key:<mark style="color:purple;">Agent de sécurité</mark>
