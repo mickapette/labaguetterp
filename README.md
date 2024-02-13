@@ -52,6 +52,8 @@
 
 <mark style="color:purple;">**25**</mark>** **<mark style="color:blue;">**-**</mark> Le **BunnyHop** est interdit : C'est le fait <mark style="color:blue;">**de ce déplacer en saut de manière continue afin de prendre de la vitesse ou d'esquiver les tires.**</mark>
 
+<mark style="color:purple;">**26**</mark> - **Il est interdit de changer de métier lorsqu’une caisse spawn sur la map. Si cela permet de vous avantager afin de récupérer celle-ci**
+
 \
 :french\_bread: <mark style="color:yellow;">Règles Inclus sur le serveur</mark> :french\_bread:
 -----------------------------------------------------------------------------------------------
