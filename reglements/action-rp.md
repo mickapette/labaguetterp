@@ -1,4 +1,4 @@
-# 👨🌾 Action RP
+# 👨‍🌾 Action RP
 
 ## <mark style="color:purple;">**Prise d’otage**</mark>** :**
 
@@ -26,7 +26,7 @@
 
 ## <mark style="color:purple;">Braquage de Banque</mark> :
 
-* Il faut au minimum 3 forces de l’ordre.
+* Il faut au minimum 4 forces de l’ordre.
 * Vous devez être 2 au minimum pour engager celle-ci.
 * Vous devez attendre 30 minutes avant de pouvoir refaire un braquage de banque.
 * Vous devez être armés.
