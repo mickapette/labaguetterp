@@ -1,4 +1,4 @@
-# ☠ Famille
+# ☠️ Famille
 
 ### <mark style="color:blue;">Règle général :</mark> <a href="#regle-general" id="regle-general"></a>
 
@@ -10,7 +10,7 @@
 6. _Interdit d'appartenir à deux familles différentes_
 7. _Lorsque vous êtes dans une famille il est interdit de changer de nom RP sans l'accord d'un Gérant DarkWeb_
 8. _Il est interdit de trash les autres familles, seulement la provocation est accepté, les insultes en anonymes sont formellement interdit._
-9. _Il est désormais interdit de communiquer et/ou d'utiliser des informations transmises/obtenues par vocal sur discord. Vous devez utiliser le système de Radio achetable dans le F4 (Catégorie "Items", sous-catégorie "Cargaison"). Celui qui transmet et celui qui utilise sont tous les deux coupable de Métagaming._
+9. Il est désormais interdit de communiquer et/ou d'utiliser des informations transmises/obtenues par vocal sur discord. Vous devez utiliser le système de Radio. ( Achetable à la station service )
 10. Vous pouvez capturer un nombre de 3 drapeaux maximum (interdiction de capturer des points en étant dans un véhicule).
 
 ### <mark style="color:blue;">Les relations entre gangs :</mark> <a href="#les-relations-entre-gangs" id="les-relations-entre-gangs"></a>
@@ -25,7 +25,12 @@
 1. _Pour remporter une guerre, il suffit d'avoir le plus de Character-Kill possible. (Il n'y a plus de territoire sur le serveur.)_
 2. _Lorsque que vous êtes CK durant la guerre, vous ne pouvez plus vous mettre dans le job famille le temps de la guerre._
 3. _Durant la guerre, si une ou plusieurs erreurs RP sont commises, vous serez ban 12 heures. (à vous de faire attention à votre RP, vous devez être irréprochable.)_
-4. _(Pendant les guerres, vous pouvez seulement utiliser les armes vendues par les gérants darkweb (vos armes perm peuvent toujours servir dans n'importe quelles autres situations). Elles sont distribuées lors de vente aux enchères ou alors à la demande, sur le discord darkrp section darkweb)_
+4.  Pendant les guerres vous pouvez utiliser uniquement les armes du vendeur d'arme , et M3 Dragon (perma) , Doubles deserts phoenixs (perma) , awp Gauss (perma). (modifié)
+
+
+
+    \
+
 
 ### <mark style="color:blue;">Le character kill (CK) :</mark> <a href="#le-character-kill-ck" id="le-character-kill-ck"></a>
 

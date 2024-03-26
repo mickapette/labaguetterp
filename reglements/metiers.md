@@ -67,14 +67,7 @@
 * Vos clients n’ont pas le droit de vous braquer pour ne pas payer.
 * Lorsqu'un véhicule est mal stationné, aucune personne ne peut interdire de remorquer le véhicule sauf les forces de l'ordre.
 
-### <mark style="color:purple;">🚮Eboueur</mark>
 
-* Vous n’avez pas la possibilité de porter des armes.
-* Vous n’avez pas le droit de faire de l’illégale ( printers / bitminers/ etc... ).
-* Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
-* Vous récupérez les déchets dans la ville.
-* Vous ne pouvez pas vous faire racket/braquer
-* Vous ne pouvez pas vous faire voler votre véhicule de fonction (Ford F100)
 
 ### :cook:<mark style="color:purple;">Cuisinier</mark>
 
@@ -116,20 +109,6 @@
 * Vous avez la possibilité de porter des armes lourdes ( sauf sniper )
 * Vous n’avez pas le droit de faire de l’illégale ( printers sauf dictature )
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
-
-### 👔<mark style="color:blue;">Avocat</mark>
-
-* Vous n’avez pas la possibilité de porter des armes
-* Vous n’avez pas le droit de faire de l’illégale ( printers )
-* Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
-* Vous prenez en charge les accusés
-
-### 🧑‍⚖️<mark style="color:blue;">Juge</mark>
-
-* Vous n’avez pas la possibilité de porter des armes
-* Vous n’avez pas le droit de faire de l’illégale ( printers )
-* Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
-* Vous prenez en charge les audiences et jugé la peine nécessaire pour les accusés
 
 ### <mark style="color:blue;">👩‍🦰 Secrétaire du Maire</mark>
 
@@ -234,25 +213,6 @@
 * Vous pouvez engager de la sécurité pour votre production ( mercenaire )
 * Vous n’avez pas le droit de faire de braquage, prises d'otages etc …
 
-### <mark style="color:blue;">Mineur</mark>
-
-* Vous avez la possibilité de porter des armes de poings et armes blanches ( seulement )
-* Vous ne pouvez pas faire de l'illégale (printers / bitminers / etc ...)
-* Vous pouvez travailler avec les autres mineurs
-* Vous ne pouvez pas braquer
-* Vous pouvez défendre votre production
-* Vous n'avez pas la possibilité d'être braqué
-
-### <mark style="color:blue;">Foreur de Pétrole</mark>
-
-* Vous avez la possibilité de porter des armes de poings et armes blanches ( seulement )
-* Vous ne pouvez pas faire de l'illégale (printers / bitminers / etc ...)
-* Vous pouvez travailler avec les autres foreurs
-* Vous ne pouvez pas braquer
-* Vous pouvez défendre votre production
-* Vous ne pouvez pas voler les barils des autres
-* Vous n'avez pas la possibilité d'être braqué
-
 ### <mark style="color:blue;">Cultivateur d'Or</mark>
 
 * Vous avez la possibilité de porter des armes de poings et armes blanches ( seulement )
@@ -261,16 +221,6 @@
 * Vous pouvez défendre votre production
 * Vous ne pouvez pas voler les ressources des autres
 * Vous n'avez pas la possibilité d'être braqué
-
-### <mark style="color:blue;">Fermier</mark>
-
-* Vous avez la possibilité de porter des armes de poings et armes blanches ( seulement )
-* Vous ne pouvez pas faire de l'illégale (printers / bitminers / etc ...)
-* Vous pouvez travailler avec les autres fermiers.
-* Vous ne pouvez pas braquer.
-* Vous pouvez défendre votre production.
-* Vous ne pouvez pas voler les plantations / pots / des autres fermiers..
-* Vous n'avez pas la possibilité d'être braqué.
 
 ### <mark style="color:blue;">Bucheron</mark>
 
