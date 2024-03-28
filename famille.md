@@ -11,7 +11,12 @@
 7. _Lorsque vous êtes dans une famille il est interdit de changer de nom RP sans l'accord d'un Gérant DarkWeb_
 8. _Il est interdit de trash les autres familles, seulement la provocation est accepté, les insultes en anonymes sont formellement interdit._
 9. Il est désormais interdit de communiquer et/ou d'utiliser des informations transmises/obtenues par vocal sur discord. Vous devez utiliser le système de Radio. ( Achetable à la station service )
-10. Vous pouvez capturer un nombre de 3 drapeaux maximum (interdiction de capturer des points en étant dans un véhicule).
+10. Vous pouvez capturer un nombre de 3 drapeaux maximum (interdiction de capturer des points en étant dans un véhicule).\
+
+11. Vous pouvez faire des échanges de biens entre familles, par exemple : Printer , drogue etc.
+
+    \
+
 
 ### <mark style="color:blue;">Les relations entre gangs :</mark> <a href="#les-relations-entre-gangs" id="les-relations-entre-gangs"></a>
 
