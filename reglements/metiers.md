@@ -221,6 +221,7 @@
 * Vous pouvez défendre votre production
 * Vous ne pouvez pas voler les ressources des autres
 * Vous n'avez pas la possibilité d'être braqué
+* Vous ne pouvez pas mener d'activités illégales (par exemple : Printer , bitcoin etc).
 
 ### <mark style="color:blue;">Bucheron</mark>
 
