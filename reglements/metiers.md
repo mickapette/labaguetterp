@@ -318,11 +318,13 @@
 * Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Mafieux, Yakuza, Cripz, Russes et ms13
 * Vous ne pouvez pas vous /job pour changer le nom du métier
 
-### <mark style="color:blue;">Russes</mark>
+### <mark style="color:blue;">Guetteur</mark>
 
-* Vous avez la possibilité de porter tout types d’armes
-* Vous avez le droit de faire des braquages, prises d’otages etc …Vous n'avez pas le droit de vous associée avec des Mafieux, Yakuza, Cripz, Bloodz et ms13
-* Vous ne pouvez pas vous /job pour changer le nom du métier
+* Vous avez la possibilité de porter tout types d’armes&#x20;
+* Vous avez le droit de faire des braquages, prises d’otages etc …&#x20;
+* Vous n'avez pas le droit de vous associée avec des Mafieux, Yakuza, Bloodz, Cripz, Ms13 , famille etc.&#x20;
+* Vous ne pouvez pas vous /job pour changer le nom du métier&#x20;
+* Vous pouvez faire alliance avec les producteurs de weed et meth afin de vendre leur produit ensuite.
 
 ### <mark style="color:blue;">MS13</mark>
 
