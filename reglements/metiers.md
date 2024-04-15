@@ -92,7 +92,7 @@
 * Vous avez la possibilité de porter des armes de poings et blanches ( seulement )
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
-* Le bénéfice max est de 10% de la commande globale.
+* Le bénéfice max est de 40% de la commande globale.
 * S’il y a un autre vendeur d’armes vous ne pouvez pas acheter les armes pour vous-même
 
 ### :bus:<mark style="color:purple;">Chauffeur de bus</mark>
