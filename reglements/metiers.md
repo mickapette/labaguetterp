@@ -225,13 +225,30 @@
 
 ### <mark style="color:blue;">Bucheron</mark>
 
+
+
 * Vous avez la possibilité de porter des armes de poings et armes blanches ( seulement )
 * Vous ne pouvez pas faire de l'illégale (printers / bitminers / etc ...)
 * Vous pouvez travailler avec les autres bucherons.
 * Vous ne pouvez pas braquer.
 * Vous pouvez défendre votre production.
 * Vous ne pouvez pas voler les planches / rondins / des autres bucherons..
-* Vous n'avez pas la possibilité d'être braqué.
+*   Vous n'avez pas la possibilité d'être braqué.\
+    \
+
+
+    ### <mark style="color:blue;">Vigneron</mark>
+
+
+
+    * Vous avez la possibilité de porter des armes de poings et armes blanches ( seulement )
+    * Vous pouvez travailler avec les autres Vignerons
+    * Vous ne pouvez pas braquer
+    * Vous pouvez défendre votre production
+    * Vous ne pouvez pas voler les ressources des autres
+    * Vous n'avez pas la possibilité d'être braqué
+    * Vous ne pouvez pas mener d'activités illégales (par exemple : Printer , bitcoin etc).\
+
 
 ## <mark style="color:red;">Illégaux</mark> :
 
