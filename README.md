@@ -172,6 +172,8 @@ Les meurtrières sont interdites, c’est le fait de faire une construction avec
 
 </div>
 
+Vous ne pouvez pas poser plusieurs keypads au même endroit dans le but de tromper l'assaillant.
+
 Il est interdit de faire des boites / des pièces totalement noires (ou une construction qui a comme objectif qu'on ne voit rien) !
 
 Il est interdit de faire des constructions en forme de labyrinthe.
