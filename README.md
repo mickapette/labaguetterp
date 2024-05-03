@@ -182,6 +182,8 @@ Il est interdit de mettre un matériau sur quelconque keypad / bouton
 
 Il est interdit de faire un périmètre de construction supérieur à un bâtiment (exception du quartier guetteur)
 
+Il est interdit de privatiser un ou plusieurs étages dans les HLM (taco Bell/mairie), votre construction doit commencer à partir de la porte d'entrée.
+
 ### Application du bannissement en cas d'infractions
 
 | Infraction | Durée du banissement |
