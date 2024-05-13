@@ -136,6 +136,8 @@ Il est interdit d'avoir un jeu de mots avec son nom Rp, ainsi que le nom d'une p
 
 Il est obligatoire d'avoir un micro pour jouer sur le serveur&#x20;
 
+Il est interdit d'utiliser de la méth ou toute autre substance dans le but de courir vite pour récupérer une lootbox sur la map.
+
 ### &#x20;🏗️ <mark style="color:yellow;">Règles de construction</mark> 🏗️
 
 Les constructions "Role-Play" sont obligatoires ! Interdiction aux énormes constructions ou fluorescentes qui pique les yeux des autres joueurs sauf en cas d'un événement particulier annoncé à l'avance sur le Discord du serveur.
