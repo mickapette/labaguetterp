@@ -7,6 +7,7 @@
 * Les rançons sont de : 100 000€ pour les citoyens et de 250 000€ pour les personnes du gouvernement (gendarme, gign, maire, garde du maire, secrétaire du maire, juge, avocat )
 * Vous devez attendre 30 minutes avant de pouvoir refaire une prise d’otages (P-O).
 * Il est interdit d'ajouter un otage lorsque la prise d'otages a commencé.
+* _Il est interdit de prendre le négociateur en otage._
 
 ## <mark style="color:purple;">Cambrioler, racketter</mark> :
 
