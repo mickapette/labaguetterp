@@ -192,6 +192,7 @@
 * Il est interdit de patrouiller dans le métier GIGN, sauf s'il n'y a pas de policier, ou une intervention lourde (Braquage de Banques, Prise d'otage)
 * Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
 * Interdiction d'utiliser Gauss sabot.
+* Le sniper en GIGN est autorisé à partir de Maréchal des logis chef.
 
 ### <mark style="color:blue;">\*Premium\* Sniper GIGN</mark>
 
