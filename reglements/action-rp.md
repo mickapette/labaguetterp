@@ -33,13 +33,6 @@
 * Vous devez être armés.
 * Il est obligé de demander une négociation dès le lancement du braquage de banque ( dans les deux sens : Illégale et Gendarmerie )
 
-## <mark style="color:purple;">Braquage de la Gendarmerie</mark> :
-
-* Il faut au minimum 4 forces de l’ordre.
-* Vous devez être 3 au minimum pour engager celle-ci.
-* Vous devez attendre 30 minutes avant de pouvoir refaire un braquage de la gendarmerie.
-* Vous devez être armés.
-
 ## <mark style="color:purple;">**Braquage de supérette**</mark>** :**
 
 * Il faut au minimum 2 forces de l’ordre.
