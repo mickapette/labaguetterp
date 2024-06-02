@@ -45,7 +45,7 @@
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
 * Vous gardez les printers des clients en sûreté.
 * Vous ne pouvez pas utiliser vos propres printers.
-* Vous pouvez faire une marge de 15% maximum sur les printers.\
+* Vous pouvez faire une marge de 30% maximum sur les printers.\
 
 
 ### :taxi:<mark style="color:purple;">Chauffeur de taxi</mark>
