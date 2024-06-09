@@ -44,7 +44,7 @@
 * Vous protégez la banque à vous de recruter des agents de sécurité.
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
 * Vous gardez les printers des clients en sûreté.
-* Vous ne pouvez pas utiliser vos propres printers.
+* Vous pouvez faire de l'argent pour votre compte avec 8 printers maximum (Menu F4) ou deux imprimantes de gang maximum (!gang).
 * Vous pouvez faire une marge de 30% maximum sur les printers.\
 
 
