@@ -180,6 +180,9 @@
 * Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
 * Il est permis d'abattre un joueur uniquement s'il représente une menace pour la vie d'autrui.
 * Interdiction d'utiliser Gauss sabot.
+*   Le gendarme corrompu compte dans l'effectif des gendarmes pour les actions RP, Dictature.
+
+
 
 ### <mark style="color:blue;">GIGN</mark>
 
