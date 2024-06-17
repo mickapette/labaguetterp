@@ -138,7 +138,7 @@ Il est obligatoire d'avoir un micro pour jouer sur le serveur&#x20;
 
 Il est interdit d'utiliser de la méth ou toute autre substance dans le but de courir vite pour récupérer une lootbox sur la map.
 
-Lors des affrontements à courte portée (dans la même pièce), il est interdit de changer d'arme.
+Lors des affrontements à courte portée (dans la même pièce), il est interdit de changer d'arme (Sauf arme légère).
 
 ### &#x20;🏗️ <mark style="color:yellow;">Règles de construction</mark> 🏗️
 
