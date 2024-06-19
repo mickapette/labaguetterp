@@ -144,7 +144,7 @@ Vous pouvez faire un contre-braquage uniquement dans le but de sauver votre ami 
 
 ### &#x20;🏗️ <mark style="color:yellow;">Règles de construction</mark> 🏗️
 
-Les constructions "Role-Play" sont obligatoires ! Interdiction aux énormes constructions ou fluorescentes qui pique les yeux des autres joueurs sauf en cas d'un événement particulier annoncé à l'avance sur le Discord du serveur.
+Les constructions avec un sens RP sont obligatoires ! Interdiction aux énormes constructions ou fluorescentes qui pique les yeux des autres joueurs sauf en cas d'un événement particulier annoncé à l'avance sur le Discord du serveur (basewars ou autres sont interdites).
 
 Toute entrée (porte garage etc...) effectué par un mappeur doit être accessible au public ou susceptible d'être ouvert avec un Lockpick, un Keypad ou un bouton.
 
