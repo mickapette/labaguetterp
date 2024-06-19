@@ -144,11 +144,11 @@
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
 * Vous avez le droit de cacher votre profession ( /job citoyen … )
-* Les agents de la bac ne peuvent pas négocier pendant un braquage. (Banque, supérette)
+* Les agents de la psig ne peuvent pas négocier pendant un braquage. (Banque, supérette)
 * Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
 * Il est permis d'abattre un joueur uniquement s'il représente une menace pour la vie d'autrui.
 * Vous avez l'obligation d'être le plus discret possible afin de ne pas rompre votre anonymat.
-* Vous devez infiltrer des gangs / organisations ou menez des enquêtes tout en étant discret afin de les démenteler
+* Vous devez infiltrer des gangs / organisations ou menez des enquêtes tout en étant discret afin de les démanteler
 * Vous ne devez pas griller votre couverture pour de petits délits. (bagarre, code de la route, etc...)
 * Interdiction d'utiliser Gauss sabot.
 * Vous êtes comptabilisé comme une force de l'ordre
