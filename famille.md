@@ -47,4 +47,4 @@
 ### <mark style="color:blue;">Discord Famille :</mark> <a href="#regle-general" id="regle-general"></a>
 
 1. _Le règlements de votre discord est soumis au même règles que le Discord DarkRP (cela signifie que vous pourrez vous faire ban du discord DarkRP si vous enfreigniez une règle sur le discord famille)_
-2. _Il est obligatoire pour les gérants Darkweb d'avoir accès à la totalité de votre discord (il doit au minimum voir tous les salons de votre discord sans exception.) Si cette règle n'est pas respecté et que vous refusez de passer l'accès au gérant vous vous exposez a un ban du discord DarkRP et vous serez banni de faire toutes action par rapport au famille IG (prise de drapeau, guerre)._
+2. _Il est obligatoire pour les gérants Darkweb d'avoir accès à la totalité de votre discord (il doit au minimum voir tous les salons de votre discord sans exception.) Si cette règle n'est pas respecté et que vous refusez de passer l'accès au gérant vous vous exposez a un ban du discord DarkRP et vous serez banni de faire toutes action par rapport au famille IG (prise de drapeau, guerre etc)._
