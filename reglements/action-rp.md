@@ -42,7 +42,7 @@
 * Il faut qu’il y ait 20 joueurs connectés minimum.
 * Vous devez attendre 30 minutes avant de pouvoir refaire un braquage de supérette.
 * Vous devez être armés.
-*   Il est obligé de demander une négociation dès le lancement du braquage de banque ( dans les deux sens : Illégale et Gendarmerie )
+*   Il est obligé de demander une négociation dès le lancement du braquage. ( dans les deux sens : Illégale et Gendarmerie )
 
 
 
