@@ -184,6 +184,8 @@ Il est interdit de faire des boites / des pièces totalement noires (ou une cons
 
 Il est interdit de faire des constructions en forme de labyrinthe.
 
+Il est interdit de construire de longs couloirs avec trois sas alignés et consécutifs. (couloir de la mort)
+
 Il est interdit de mettre un matériau sur quelconque keypad / bouton
 
 Il est interdit de faire un périmètre de construction supérieur à un bâtiment.
