@@ -304,6 +304,9 @@
 * Vous pouvez racketter seulement 100 000€
 * Vous devez être discret
 * Lorsque la personne que vous rackettez ne coopère pas, vous pouvez revendre ses bitminers/printers au PNJ vendeur. (Interdiction de détruire les printers/bitminers)
+*   Vous pouvez travailler pour des gangs, des familles, en exécutant des vols ou du racket. Attention, vous devez faire un contrat avec votre employeur (50 000$ minimum, 200 000$ maximum). Cependant, vous ne pouvez pas agir avec votre employeur, il doit uniquement vous payer et c'est à vous d'aller effectuer la tâche demandée.
+
+
 
 ## <mark style="color:red;">**Gang (Non Légal)**</mark>** :**
 
