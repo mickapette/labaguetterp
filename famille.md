@@ -18,7 +18,7 @@
     \
 
 
-### <mark style="color:blue;">Les relations entre gangs :</mark> <a href="#les-relations-entre-gangs" id="les-relations-entre-gangs"></a>
+### <mark style="color:blue;">Les relations entre Familles :</mark> <a href="#les-relations-entre-gangs" id="les-relations-entre-gangs"></a>
 
 1. _Limitez les gun-fights et privilégiez les discussion, Les affrontements et la guerre sont les dernières solutions._
 2. _La communication se fait uniquement via radio ( parler IG et Discord en même temps ). Tout système d'appel en continue pour transmettre des infos ou bien système de bouton d'alerte alors que vous êtes menottés est formellement interdit ._
