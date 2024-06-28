@@ -152,6 +152,13 @@
 * Vous ne devez pas griller votre couverture pour de petits délits. (bagarre, code de la route, etc...)
 * Interdiction d'utiliser Gauss sabot.
 * Vous êtes comptabilisé comme une force de l'ordre
+*   Vous pouvez tirer à vue dans une situation comme un attentat, car la situation représente un danger imminent et menace de tuer des civils. Dans ce cas, vous pouvez abattre l'individu sans sommations.
+
+    Vous pouvez également tirer à vue sans sommations dans le cas où une personne tire sur quelqu'un avec une arme à feu. Dans ce cas, vous pouvez tirer (essayez malgré tout d'engager une discussion avec la personne armée pour qu'elle se rende).
+
+    Attention, ces deux situations ne s'appliquent qu'aux forces de l'ordre.
+
+
 
 ### <mark style="color:blue;">👮‍♂️ Gendarme</mark>
 
@@ -163,6 +170,13 @@
 * Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
 * Il est permis d'abattre un joueur uniquement s'il représente une menace pour la vie d'autrui.
 * Interdiction d'utiliser Gauss sabot (sauf à partir de sous-lieutenant)
+*   Vous pouvez tirer à vue dans une situation comme un attentat, car la situation représente un danger imminent et menace de tuer des civils. Dans ce cas, vous pouvez abattre l'individu sans sommations.
+
+    Vous pouvez également tirer à vue sans sommations dans le cas où une personne tire sur quelqu'un avec une arme à feu. Dans ce cas, vous pouvez tirer (essayez malgré tout d'engager une discussion avec la personne armée pour qu'elle se rende).
+
+    Attention, ces deux situations ne s'appliquent qu'aux forces de l'ordre.
+
+
 
 ### <mark style="color:blue;">👨‍💼 \*WL\* IGGN</mark>
 
@@ -172,6 +186,13 @@
 * Vous vérifier le bon fonctionnement de la gendarmerie
 * Vous devez protéger les citoyens
 * Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
+*   Vous pouvez tirer à vue dans une situation comme un attentat, car la situation représente un danger imminent et menace de tuer des civils. Dans ce cas, vous pouvez abattre l'individu sans sommations.
+
+    Vous pouvez également tirer à vue sans sommations dans le cas où une personne tire sur quelqu'un avec une arme à feu. Dans ce cas, vous pouvez tirer (essayez malgré tout d'engager une discussion avec la personne armée pour qu'elle se rende).
+
+    Attention, ces deux situations ne s'appliquent qu'aux forces de l'ordre.
+
+
 
 ### <mark style="color:blue;">Gendarme Corrompu</mark>&#x20;
 
@@ -186,6 +207,11 @@
 *   Le gendarme corrompu compte dans l'effectif des gendarmes pour les actions RP, Dictature.
 
 
+*   Vous pouvez tirer à vue dans une situation comme un attentat, car la situation représente un danger imminent et menace de tuer des civils. Dans ce cas, vous pouvez abattre l'individu sans sommations.
+
+    Vous pouvez également tirer à vue sans sommations dans le cas où une personne tire sur quelqu'un avec une arme à feu. Dans ce cas, vous pouvez tirer (essayez malgré tout d'engager une discussion avec la personne armée pour qu'elle se rende).
+
+    Attention, ces deux situations ne s'appliquent qu'aux forces de l'ordre.
 
 ### <mark style="color:blue;">GIGN</mark>
 
@@ -199,6 +225,11 @@
 * Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
 * Interdiction d'utiliser Gauss sabot.
 * Le sniper en GIGN est autorisé à partir de Maréchal des logis chef.
+*   Vous pouvez tirer à vue dans une situation comme un attentat, car la situation représente un danger imminent et menace de tuer des civils. Dans ce cas, vous pouvez abattre l'individu sans sommations.
+
+    Vous pouvez également tirer à vue sans sommations dans le cas où une personne tire sur quelqu'un avec une arme à feu. Dans ce cas, vous pouvez tirer (essayez malgré tout d'engager une discussion avec la personne armée pour qu'elle se rende).
+
+    Attention, ces deux situations ne s'appliquent qu'aux forces de l'ordre.
 
 ### <mark style="color:blue;">\*Premium\* Sniper GIGN</mark>
 
