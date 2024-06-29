@@ -14,6 +14,10 @@
 * _Vous devez avoir une licence d'armes pour utiliser votre arme de poing._
 * _Vous n’avez pas le droit de toucher à tout ce qui est illégal ( printers / bitminers )._
 * _Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )._
+* Vous pouvez être braquer
+*   Le métier de mineur de Bitcoin est une activité légale.
+
+
 
 ### :no\_bell:<mark style="color:purple;">**SDF**</mark>
 
