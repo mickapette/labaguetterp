@@ -27,6 +27,7 @@
 * Il faut qu’il y ait 20 joueurs connectés minimum
 * Lors d'un vol de voiture, il faut soit vendre la voiture au revendeur de voitures soit réclamer une rançon de 100 000€ maximum au propriétaire de la voiture
 * Il est interdit de voler des voitures en Job légal
+* Vous ne pouvez pas voler les véhicules de service de la gendarmerie, du SAMU ainsi que ceux du dépanneur
 
 ## <mark style="color:purple;">Braquage de Banque</mark> :
 
