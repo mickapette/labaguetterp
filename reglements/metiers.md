@@ -319,6 +319,9 @@
 * Vous n’avez pas le droit de faire de braquage, prises d’otages etc …
 * Vous devez neutraliser vos cibles depuis un lieu discret
 * Vous devez avoir une raison RP valable pour accepter un contrat
+*   Vous avez le droit de cacher votre profession ( /job citoyen … )
+
+
 
 ### <mark style="color:blue;">Mercenaire</mark>
 
