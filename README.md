@@ -82,7 +82,7 @@ Vous n’avez pas le droit de construire durant une action.
 
 Si vous voulez construire votre maison sans être braqué, vous devez mettre un textscreen au-dessus de la porte stipulant que vous êtes en construction, de ce fait vous n'aurez pas le droit de farm durant la période de construction (l'abus est interdit)
 
-3 sommations orales claires et distinctes sont nécessaires avant de tuer une personne non-armée / armée
+3 sommations orales claires et distinctes sont nécessaires avant de tuer une personne non-armée / armée&#x20;
 
 Il est interdit de faire des sommations pour une autre personne (pour les personnes menottés ou braqués)
 
@@ -191,6 +191,8 @@ Il est interdit de mettre un matériau sur quelconque keypad / bouton
 Il est interdit de faire un périmètre de construction supérieur à un bâtiment.
 
 Il est interdit de privatiser un ou plusieurs étages dans les HLM (taco Bell/mairie), votre construction doit commencer à partir de la porte d'entrée.
+
+Il est interdit d'intégrer des couleurs (outils couleurs et non matériaux) à vos props quand vous faites des constructions en solo pour les implémenter sur le serveur avec l'advanced duplicator 2.
 
 ### Application du bannissement en cas d'infractions
 
