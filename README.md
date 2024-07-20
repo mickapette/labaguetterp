@@ -60,6 +60,8 @@
 
 
 
+<mark style="color:red;">**Il est formellement interdit de vendre ou de trade des armes permanentes à des prix qui ne respectent pas ceux du !vente In-Game ou dans la catégorie Communauté>Unbox sur le site.**</mark>
+
 Interdiction de faire des activités illégales dans les endroits inaccessibles ou accessibles avec un grappin seulement
 
 Pas de tirs sans sommations, et les boosts et grappins ne sont pas des armes
