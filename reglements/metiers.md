@@ -90,7 +90,7 @@
 * Votre but est de soigner et sauver les personnes dans le besoin
 * Vous n’avez pas le droit de toucher à tout ce qui est illégal ( printers )
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
-* Le bénéfice max est de 10 000€
+* Le bénéfice maximum est de 5 000 € par article et par service.
 * Si vos patients ne peuvent pas payer vous ne pouvez pas les braquer.
 * Vous avez obligation de ramener les patients à l'hôpital après réanimation
 
