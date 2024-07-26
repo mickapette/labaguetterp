@@ -235,16 +235,6 @@
 
     Attention, ces deux situations ne s'appliquent qu'aux forces de l'ordre.
 
-### <mark style="color:blue;">\*Premium\* Sniper GIGN</mark>
-
-* Vous avez la possibilité de porter des armes lourdes et sniper
-* Vous devez principalement rester sur les toits
-* Vous n’avez pas le droit de faire de l’illégale ( printers )
-* Vous ne pouvez pas être corrompu
-* Vous devez respecter vos supérieurs
-* Vous devez protéger les citoyens et encadrer les opérations ( Prise d’otage, braquage de banque etc … )
-* Vous avez le droit de vous faire soigner et réanimer par un SAMU pendant une intervention, mais vous devrez par la suite quitter la scène.
-
 ## <mark style="color:red;">Production</mark> :
 
 ### <mark style="color:blue;">Fabricant ( alcool, weed, meth, etc...)</mark>
