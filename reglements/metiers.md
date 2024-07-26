@@ -220,7 +220,6 @@
 ### <mark style="color:blue;">GIGN</mark>
 
 * Vous avez la possibilité de porter des armes lourdes
-* En dehors du job "Sniper du GIGN" vous n'avez pas le droit au sniper
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
 * Vous ne pouvez pas être corrompu
 * Vous devez respecter vos supérieurs
