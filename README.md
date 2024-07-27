@@ -148,7 +148,7 @@ Vous pouvez faire un contre-braquage uniquement dans le but de sauver votre ami 
 
 Les constructions avec un sens RP sont obligatoires ! Interdiction aux énormes constructions ou fluorescentes qui pique les yeux des autres joueurs sauf en cas d'un événement particulier annoncé à l'avance sur le Discord du serveur (basewars ou autres sont interdites).
 
-Toute entrée (porte garage etc...) effectué par un mappeur doit être accessible au public ou susceptible d'être ouvert avec un Lockpick, un Keypad ou un bouton.
+Toute entrée (porte garage etc...) effectué par un mappeur doit être accessible au public ou susceptible d'être ouvert avec un Lockpick, un Keypad ou un bouton. Celle-ci doit être accessible des deux côtés comme entrée / sortie (les balcons doivent comporté une entrée)
 
 Les bâtiments que vous concevez doivent être réalistes, c'est-à-dire qu'ils doivent être situés sur un support solide plutôt que dans les airs, et leurs matériaux et couleurs doivent être cohérents avec la réalité plutôt que fantaisistes.\
 \
