@@ -14,6 +14,8 @@
 10. Vous pouvez capturer un nombre de 3 drapeaux maximum (interdiction de capturer des points en étant dans un véhicule).\
 
 11. Vous pouvez faire des échanges de biens entre familles, par exemple : Printer , drogue etc.
+12. Chaque famille, qu'elle soit créée auparavant ou à l'avenir, est considérée comme une famille et non comme un job personnalisé. Elles doivent donc respecter l'ensemble du règlement applicable aux familles.
+13. Vous ne pouvez être inscrit sur liste blanche (whitelist) que dans une seule famille. Les doubles inscriptions sur liste blanche (whitelist) seront sanctionnables. Veuillez contacter au moins un SuperAdmin en cas de nécessité de suppression.
 
     \
 
