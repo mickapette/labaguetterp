@@ -146,6 +146,8 @@ Lors des affrontements à courte portée (dans la même pièce), il est interdit
 
 Vous pouvez faire un contre-braquage uniquement dans le but de sauver votre ami d'un racket ou d'un cambriolage (attention à respecter votre FearRP : si votre ami est menacé avec une arme, vous devez jouer votre peur et ne pas tenter de le sauver en prenant le risque de le tuer). Vous ne pouvez pas faire un contre-braquage lors d'une prise d'otage, d'un braquage de banque ou d'un braquage de supérette.
 
+Vous ne pouvez pas utiliser de drogues dans le but d'obtenir un avantage pendant une action, un combat, etc. Pour rappel, vous n'avez pas le droit de prendre de la drogue pour courir plus vite et récupérer une lootbox.
+
 ### &#x20;🏗️ <mark style="color:yellow;">Règles de construction</mark> 🏗️
 
 Les constructions avec un sens RP sont obligatoires ! Interdiction aux énormes constructions ou fluorescentes qui pique les yeux des autres joueurs sauf en cas d'un événement particulier annoncé à l'avance sur le Discord du serveur (basewars ou autres sont interdites).
