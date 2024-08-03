@@ -86,6 +86,8 @@ Si vous voulez construire votre maison sans être braqué, vous devez mettre un 
 
 3 sommations orales claires et distinctes sont nécessaires avant de tuer une personne non-armée / armée&#x20;
 
+Pour le taser (pistolet taser), vous n'avez pas besoin de faire de sommations. Attention à votre FearRP, car un taser ne fait pas le poids face à une ou plusieurs armes à feu.
+
 Il est interdit de faire des sommations pour une autre personne (pour les personnes menottés ou braqués)
 
 Vous ne pouvez en aucun cas vous procurer des objets et des armes pendant une action RP.
