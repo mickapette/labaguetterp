@@ -119,7 +119,7 @@
 
 ### <mark style="color:blue;">👩‍🦰 Secrétaire du Maire</mark>
 
-* Vous n’avez pas la possibilité de porter des armes
+* Vous avez la possibilité de porter des armes de poings et armes blanches ( seulement )
 * Vous n’avez pas le droit de faire de l’illégale ( printers )
 * Vous n’avez pas le droit de braquer (banque, prise d’otage, etc … )
 * Vous prenez en charge le planning du Maire
