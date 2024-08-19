@@ -202,6 +202,8 @@ Il est interdit d'intégrer des couleurs (outils couleurs et non matériaux) à 
 
 Règle Discothèque : Votre construction doit commencer à partir de **l'entrée du bâtiment** et doit se terminer à la **fin des escaliers**. Toutes les constructions au sous-sol doivent être uniquement décoratives ou dédiées à un métier de production (ex : étagère pour pots de plantation etc), mais en **aucun cas défensives ou offensives**.
 
+Il est interdit de construire dans le sous-sol du bar devant la mairie, vous n'êtes pas autorisé à posé que des entités de farm.
+
 ### Application du bannissement en cas d'infractions
 
 | Infraction | Durée du banissement |
