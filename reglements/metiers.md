@@ -243,6 +243,17 @@
 * Vous pouvez engager de la sécurité pour votre production ( mercenaire )
 * Vous n’avez pas le droit de faire de braquage, prises d'otages etc …
 
+### <mark style="color:blue;">Foreur de Pétrole</mark>
+
+* Vous avez la possibilité de porter des armes de poings et armes blanches ( seulement )
+* Vous pouvez travailler avec les autres foreurs
+* Vous ne pouvez pas braquer
+* Vous pouvez défendre votre production
+* Vous ne pouvez pas voler les ressources des autres
+* Vous n'avez pas la possibilité d'être braqué
+* Vous ne pouvez pas mener d'activités illégales (par exemple : Printer , bitcoin etc).
+* Vous n'avez pas la possibilité d'être braqué.
+
 ### <mark style="color:blue;">Cultivateur d'Or</mark>
 
 * Vous avez la possibilité de porter des armes de poings et armes blanches ( seulement )
