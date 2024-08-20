@@ -252,7 +252,6 @@
 * Vous ne pouvez pas voler les ressources des autres
 * Vous n'avez pas la possibilité d'être braqué
 * Vous ne pouvez pas mener d'activités illégales (par exemple : Printer , bitcoin etc).
-* Vous n'avez pas la possibilité d'être braqué.
 
 ### <mark style="color:blue;">Cultivateur d'Or</mark>
 
